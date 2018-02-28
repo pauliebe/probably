@@ -1,26 +1,44 @@
 import requests
 
-def makePrepositionList(user_input): #adds various prepositions to the query
-	prepositions = ['in', 'at', 'around']
+def make_preposition_list(location): #adds various prepositions to the query
+	prepositions = ['in', 'at', 'around', 'on', 'by', 'above', 'along']
 	preposition_list = []
+	preposition_list.append(location)
+
 	for preposition in prepositions:
-		modified_query = '{preposition} {query}'.format(preposition=preposition, query=user_input)
-		preposition_list.append(modified_query)
+		new_query = '{preposition} {query}'.format(preposition=preposition, query=location)
+		preposition_list.append(new_query)
 
 	return preposition_list
 
-def searchLOC(search_list):
+def make_modifier_list(location): #adds modifer 
+	modifiers = ['likely', 'maybe', 'probably']
+	preposition_list = make_preposition_list(location)
+	modifier_list =[]
 
-	for item in search_list: #loop through preposition list to cover variety of phrasing
-		probably_query= 'probably {item}'.format(item=item) #add probably
-		loc_request = requests.get('https://www.loc.gov/pictures/search/?q=' + probably_query + '&fo=json')
-		loc_request.raise_for_status() #check response status
-		query_response_json = loc_request.json() #get JSON
+	for modifier in modifiers:
+		for preposition in preposition_list:
+			new_query = '%s %s' %(modifier, preposition)
+			modifier_list.append(new_query)
+
+	return modifier_list
+
+def search_LOC(preposition_list):
+
+	for item in preposition_list: #loop through preposition list to cover variety of phrasing
+		url = 'https://www.loc.gov/pictures/search/?q=' + item + '&fo=json'
+		print (url)
+
+		loc_response = requests.get(url)
+
+		print(loc_response)
+		loc_response.raise_for_status() #check response status
+		query_response_json = loc_response.json() #get JSON
 
 		while True:
 			#loop through results to find titles with query word in it
 			for response in query_response_json['results']:
-				if probably_query in response['title']:
+				if item in response['title']:
 					print(response['title'])
 
 			next_page = query_response_json['pages']['next']
@@ -31,16 +49,41 @@ def searchLOC(search_list):
 			else:
 				break
 
-## program starts
+# program starts
 print ('Where do you want to search?')
-user_query = raw_input()
-query_list = makePrepositionList(user_query)
+location = input()
+modifier_list = make_modifier_list(location)
 
-searchLOC(query_list)
+search_LOC(modifier_list)
 
 
 
 '''
+
+make flask
+
+
+
+
+lists to sort through:
+preposition
+modifier
+
+
+location
+
+
+to store:
+
+location
+title
+creator
+image['full']
+
+
+rights (where???)
+
+
 Possible probably prepositions:
 probably in
 probably at
