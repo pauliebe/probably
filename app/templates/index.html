@@ -1,8 +1,20 @@
+{% extends "base.html" %}
+
 <html>
-    <head>
-        <title>{{ title }} - Microblog</title>
-    </head>
-    <body>
-        <h1>Hello, {{ user.username }}!</h1>
-    </body>
+
+{% block content %}
+
+	<h1>Hello.</h1>
+    <form action="" method="post">
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.username.label }}<br>
+            {{ form.username(size=32) }}<br>
+            {{ form.user_location.label }}<br>
+            {{ form.user_location(siz=32)}}
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+
+{% endblock%}
 </html>

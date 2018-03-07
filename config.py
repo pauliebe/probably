@@ -5,7 +5,7 @@ class Config(object):
 	DEBUG = False
 	TESTING = False
 	CSRF_Enabled = True
-	SECRET_KEY = 'a key'
+	SECRET_KEY = os.environ.get('SECRET_KEY') or 'a key'
 
 class ProductionConfig(Config):
 	DEBUG = False
