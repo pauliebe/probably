@@ -1,15 +1,10 @@
 <html>
     <head>
-      {% if title %}
       <title>{{ title }}</title>
-
-      {% else %}
-      <title>This is api.py</title>
-      {% endif %}
     </head>
 
     <body>
-        <div><a href="/index">probably</a></div>
+        <div><a href="/">probably</a></div>
         <hr>
         {% block content %}{% endblock %}
     </body>

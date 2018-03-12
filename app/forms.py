@@ -3,6 +3,6 @@ from wtforms import StringField, BooleanField, SubmitField
 from wtforms.validators import DataRequired
 
 class LoginForm(FlaskForm):
-	username = StringField('Username', validators=[DataRequired()])
-	user_location = StringField('Username', validators=[DataRequired()])
+	username = StringField('What\'s your name?', validators=[DataRequired()])
+	user_location = StringField('Where would you like to search?', validators=[DataRequired()])
 	submit = SubmitField('Onward')
