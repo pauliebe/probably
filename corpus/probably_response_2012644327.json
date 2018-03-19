@@ -1,0 +1,40 @@
+{
+    "call_number": "BLOCK, no. 14035 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1/25/2001.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/14000/14035_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/14000/14035_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/14000/14035_150px.jpg"
+    },
+    "index": 125,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012644327/",
+        "resource": "//www.loc.gov/pictures/item/2012644327/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2012644327",
+    "reproduction_number": "LC-DIG-hlb-14035 (digital file from original drawing)",
+    "source_created": "2012-11-19 00:00:00",
+    "source_modified": "2015-07-17 00:00:00",
+    "subjects": [
+        "Bush, George W.--(George Walker),--1946-",
+        "Democratic Party (U.S.)",
+        "Washington (D.C.)",
+        "trash cans",
+        "Newspaper headlines",
+        "License plates",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Democracy is okay except for people who would probably vote Democratic\""
+}

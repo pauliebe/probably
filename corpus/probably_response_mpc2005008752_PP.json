@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-M33- 4679 [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1932]",
+    "creator": "American Colony (Jerusalem). Photo Dept.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/12300/12379r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/12300/12379_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/12300/12379_150px.jpg"
+    },
+    "index": 255,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005008752/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005008752/PP/resource/"
+    },
+    "medium": "1 negative : safety film ; 4 x 5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "mpc2005008752/PP",
+    "reproduction_number": "LC-DIG-matpc-12379 (digital file from original photo)",
+    "source_created": "2005-08-02 00:00:00",
+    "source_modified": "2006-03-14 00:00:00",
+    "subjects": [
+        "Iraq--Babylon (Extinct city).",
+        "Safety film negatives."
+    ],
+    "title": "Babylon \"the Great.\" Various views of the crumbling ruins. Basalt Lion. Closer front view, probably a Hittite war trophy"
+}

@@ -50,11 +50,11 @@ def search_LOC(preposition_list):
 				break
 
 # program starts
-print ('Where do you want to search?')
-location = input()
-modifier_list = make_modifier_list(location)
+# print ('Where do you want to search?')
+# location = input()
+# modifier_list = make_modifier_list(location)
 
-search_LOC(modifier_list)
+# search_LOC(modifier_list)
 
 
 

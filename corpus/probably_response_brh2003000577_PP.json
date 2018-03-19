@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-BH826- 140 <P&P> [P&P]",
+    "collection": [
+        "brhc",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-19 00:00:00",
+    "created_published_date": "[between 1870 and 1880]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cwpbh/03500/03590r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cwpbh/03500/03590_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cwpbh/03500/03590_150px.jpg"
+    },
+    "index": 233,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/brh2003000577/PP/",
+        "resource": "//www.loc.gov/pictures/item/brh2003000577/PP/resource/"
+    },
+    "medium": "1 negative : glass, wet collodion.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-19 00:00:00",
+    "pk": "brh2003000577/PP",
+    "reproduction_number": "LC-DIG-cwpbh-03590 (digital file from original neg.)",
+    "source_created": "2003-04-15 00:00:00",
+    "source_modified": "2003-04-15 00:00:00",
+    "subjects": [
+        "Glass negatives--1870-1880.",
+        "Portrait photographs--1870-1880."
+    ],
+    "title": "MacFiely, General, USA, (not in uniform--probably Robert MacFeely)"
+}

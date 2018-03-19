@@ -1,0 +1,38 @@
+{
+    "call_number": "LOT 7483, v. 1, no. 0238 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1908 October.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/04500/04501r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/04500/04501_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/04500/04501_150px.jpg"
+    },
+    "index": 272,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004000260/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004000260/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ncl2004000260/PP",
+    "reproduction_number": "LC-DIG-nclc-04501 (color digital file from b&w original print)",
+    "source_created": "2004-01-08 00:00:00",
+    "source_modified": "2005-01-11 00:00:00",
+    "subjects": [
+        "Girls.",
+        "Child laborers.",
+        "Factories.",
+        "Basket making.",
+        "United States--Indiana--Evansville.",
+        "Photographic prints."
+    ],
+    "title": "Girls making meat baskets. One probably under fourteen. A basket Factory.  Location: Evansville, Indiana."
+}

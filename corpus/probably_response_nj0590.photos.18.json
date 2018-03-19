@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS NJ,12-PERAM,2--18",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2017-09-28 00:00:00",
+    "created_published_date": "1973",
+    "creator": "Boucher, Jack E.",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 864,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/nj0590.photos.18/",
+        "resource": null
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2017-09-28 00:00:00",
+    "pk": "nj0590.photos.18",
+    "reproduction_number": "HABS NJ,12-PERAM,2--18",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2017-09-28 00:00:00",
+    "subjects": null,
+    "title": "Detail of central pavilion of Main Building showing masonry openings with elliptical arches and Federal-era woodwork, alterations dating from after 1794. The basement door was probably added in the early twentieth century. - Governor's House, 149 Kearny Avenue, Perth Amboy, Middlesex County, NJ"
+}

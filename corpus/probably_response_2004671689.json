@@ -1,0 +1,31 @@
+{
+    "call_number": "BIOG FILE - Masaryk, Jan [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "1948.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b10000/3b16000/3b16400/3b16438_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b10000/3b16000/3b16400/3b16438_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b10000/3b16000/3b16400/3b16438_150px.jpg"
+    },
+    "index": 332,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004671689/",
+        "resource": "//www.loc.gov/pictures/item/2004671689/resource/"
+    },
+    "medium": "1 print.",
+    "medium_brief": "1 print.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2004671689",
+    "reproduction_number": "LC-USZ62-68994 (b&w film copy neg.)",
+    "source_created": "2004-05-06 00:00:00",
+    "source_modified": "2004-05-11 00:00:00",
+    "subjects": null,
+    "title": "Jan Masaryk looks from the window of the Czernin Palace and dreams of America, probably of Brooklyn, where his mother was born"
+}

@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-M352- 176 [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1898 and 1946]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/12100/12183r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/12100/12183_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/12100/12183_150px.jpg"
+    },
+    "index": 251,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005003452/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005003452/PP/resource/"
+    },
+    "medium": "1 transparency : glass ; 5 x 7 in.",
+    "medium_brief": "1 transparency :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "mpc2005003452/PP",
+    "reproduction_number": "LC-DIG-matpc-12183 (digital file from original photo)",
+    "source_created": "2005-05-23 00:00:00",
+    "source_modified": "2005-09-28 00:00:00",
+    "subjects": [
+        "Jerusalem.",
+        "Glass transparencies."
+    ],
+    "title": "A street scene probably in Jerusalem"
+}

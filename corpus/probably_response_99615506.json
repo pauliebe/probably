@@ -1,0 +1,41 @@
+{
+    "call_number": "LOT 13251-5, no. 26 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "intldl",
+        "mtfkep",
+        "mtfront",
+        "pp",
+        "ppminload",
+        "si"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1885 and 1886]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsc/01300/01340r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsc/01300/01340_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsc/01300/01340_150px.jpg"
+    },
+    "index": 209,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/99615506/",
+        "resource": "//www.loc.gov/pictures/item/99615506/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "99615506",
+    "reproduction_number": "LC-USZ62-128123 (b&w film copy neg.)",
+    "source_created": "1999-09-15 00:00:00",
+    "source_modified": "2007-08-13 00:00:00",
+    "subjects": [
+        "Streets--Mongolia--1880-1890.",
+        "City & town life--Mongolia--1880-1890.",
+        "Mongolia.",
+        "Photographic prints--1880-1890."
+    ],
+    "title": "[Street scene, probably in Maimachin, Mongolia]"
+}

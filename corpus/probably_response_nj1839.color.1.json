@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS NJ-1261-1 (CT)",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 772,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/nj1839.color.1/",
+        "resource": null
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-18 00:00:00",
+    "pk": "nj1839.color.1",
+    "reproduction_number": "HABS NJ-1261-1 (CT)",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-18 00:00:00",
+    "subjects": null,
+    "title": "Reverend Nikolai Nekludoff standing in front of the church. Date unknown, photograph probably taken by Jack E. Boucher - Sviato-Pokrovskiy Russian Orthodox Church, 333 Weymouth Road, Buena, Atlantic County, NJ"
+}

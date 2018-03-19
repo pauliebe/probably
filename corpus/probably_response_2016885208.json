@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H27- A-1103 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-16 00:00:00",
+    "created_published_date": "[between 1915 and 1923]",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/30200/30258r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/30200/30258_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/30200/30258_150px.jpg"
+    },
+    "index": 1086,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016885208/",
+        "resource": "//www.loc.gov/pictures/item/2016885208/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-16 00:00:00",
+    "pk": "2016885208",
+    "reproduction_number": "LC-DIG-hec-30258 (digital file from original negative)",
+    "source_created": "2013-04-04 00:00:00",
+    "source_modified": "2018-01-10 00:00:00",
+    "subjects": [
+        "United States.",
+        "Glass negatives."
+    ],
+    "title": "[Tabulating machine, probably at Department of Commerce, Census Bureau]"
+}

@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER MICH,17-SAUMA,1--11",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/mi/mi0000/mi0085/photos/088572pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/mi/mi0000/mi0085/photos/088572p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/mi/mi0000/mi0085/photos/088572p_150px.jpg"
+    },
+    "index": 714,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mi0085.photos.088572p/",
+        "resource": "//www.loc.gov/pictures/item/mi0085.photos.088572p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "mi0085.photos.088572p",
+    "reproduction_number": "HAER MICH,17-SAUMA,1--11",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "11.  Photocopied August 1978. INTAKE LOOKING NORTH AT UPPER INTAKE COFFER DAM, OCTOBER 10, 1900. ONE OF THE HUBBELL COMPANY DREDGES IS AT WORK IN THE CENTER OF THE ILLUSTRATION, THE TIMBER FLOATING AROUND WAS PROBABLY FOR USE IN THE CONSTRUCTION OF SIDE WALL RETAINING CRIBS. ONE OF THESE IS BEING CONSTRUCTED JUST TO THE LEFT AND TOWARDS THE VIEWER FROM THE DREDGES. (87) - Michigan Lake Superior Power Company, Portage Street, Sault Ste. Marie, Chippewa County, MI"
+}

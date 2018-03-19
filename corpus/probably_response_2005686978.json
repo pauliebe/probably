@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 5015 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "c1909.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b00000/3b09000/3b09200/3b09217_150px.jpg?q=2005694917&c=4",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b00000/3b09000/3b09200/3b09217_75x75px.jpg?q=2005694917&c=4",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b00000/3b09000/3b09200/3b09217_150px.jpg?q=2005694917&c=4"
+    },
+    "index": 1124,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005686978/",
+        "resource": "//www.loc.gov/pictures/item/2005686978/resource/"
+    },
+    "medium": "23 photographic prints.",
+    "medium_brief": "23 photographic prints.",
+    "modified": "2018-03-06 00:00:00",
+    "pk": "2005686978",
+    "reproduction_number": "",
+    "source_created": "2005-09-08 00:00:00",
+    "source_modified": "2005-09-08 00:00:00",
+    "subjects": null,
+    "title": "Photographs [Longfellowiana?] of the New England countryside around Portland, Maine, probably made in spring or early summer"
+}

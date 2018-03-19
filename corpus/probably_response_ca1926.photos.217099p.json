@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS CAL,21-NOVA,1--41",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-15 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca1900/ca1926/photos/217099pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca1900/ca1926/photos/217099p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca1900/ca1926/photos/217099p_150px.jpg"
+    },
+    "index": 584,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca1926.photos.217099p/",
+        "resource": "//www.loc.gov/pictures/item/ca1926.photos.217099p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-15 00:00:00",
+    "pk": "ca1926.photos.217099p",
+    "reproduction_number": "HABS CAL,21-NOVA,1--41",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-15 00:00:00",
+    "subjects": null,
+    "title": "DRAWING R-1001-32, FIELD OFFICERS' AREA, BUILDING LOCATIONS, DRIVEWAYS, AND SIDEWALKS, SOUTH CIRCLE, CASA GRANDE REAL, AND SEQUOIA DRIVES. Ink on linen, signed by H.B. Nurse. Date has been erased, but probably June 15, 1933. Also marked \"PWC 104289.\" - Hamilton Field, East of Nave Drive, Novato, Marin County, CA"
+}

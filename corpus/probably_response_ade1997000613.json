@@ -1,0 +1,35 @@
+{
+    "call_number": "ADE 11 - Osborne, no. 15 (B size)  <P&P> [P&P]",
+    "collection": [
+        "ade",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1934.",
+    "creator": "Osborne, Milton S., 1897-1972",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ade/2a03000/2a03700/2a03723_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ade/2a03000/2a03700/2a03723_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ade/2a03000/2a03700/2a03723_150px.jpg"
+    },
+    "index": 227,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ade1997000613/",
+        "resource": "//www.loc.gov/pictures/item/ade1997000613/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ade1997000613",
+    "reproduction_number": "",
+    "source_created": "1997-09-05 00:00:00",
+    "source_modified": "2016-01-15 00:00:00",
+    "subjects": [
+        "Dwellings.",
+        "United States--South Carolina--Charleston.",
+        "Architectural drawings.",
+        "Drawings."
+    ],
+    "title": "[Double-balconied house, probably Jacob Motte house, 69 Church St., Charleston, S.C.]"
+}

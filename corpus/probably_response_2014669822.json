@@ -1,0 +1,36 @@
+{
+    "call_number": "ROLL CALL-1991-613 [P&P]",
+    "collection": [
+        "cqrc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1991-10]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 150,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014669822/",
+        "resource": null
+    },
+    "medium": "1 photograph: b&w contact sheet.",
+    "medium_brief": "1 photograph:\n30 photographs:",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2014669822",
+    "reproduction_number": "",
+    "source_created": "2014-10-16 00:00:00",
+    "source_modified": "2015-02-05 00:00:00",
+    "subjects": [
+        "Portraits",
+        "Congressional staff",
+        "Film negatives.",
+        "Photographic prints."
+    ],
+    "title": "[Group portrait of two young men in front of an atrium inside a government building, probably congressional staff]"
+}

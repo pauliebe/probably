@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS SC,8-MONCO.V,5--30",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/sc/sc0200/sc0263/photos/152160pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/sc/sc0200/sc0263/photos/152160p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/sc/sc0200/sc0263/photos/152160p_150px.jpg"
+    },
+    "index": 8,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/sc0263.photos.152160p/",
+        "resource": "//www.loc.gov/pictures/item/sc0263.photos.152160p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-16 00:00:00",
+    "pk": "sc0263.photos.152160p",
+    "reproduction_number": "HABS SC,8-MONCO.V,5--30",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-16 00:00:00",
+    "subjects": null,
+    "title": "30.  SECOND FLOOR, NORTHEAST ROOM, SOUTH WALL. Bolection mold fireplace surround probably original with house and only remaining one thus. Note bolection panel molds on raised-panel door, also probably original with house. - Mulberry, Cooper River, West Branch, Moncks Corner, Berkeley County, SC"
+}

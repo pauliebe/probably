@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER ID-33-G-305",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/id/id0400/id0443/photos/220114pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/id/id0400/id0443/photos/220114p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/id/id0400/id0443/photos/220114p_150px.jpg"
+    },
+    "index": 764,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/id0443.photos.220114p/",
+        "resource": "//www.loc.gov/pictures/item/id0443.photos.220114p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-18 00:00:00",
+    "pk": "id0443.photos.220114p",
+    "reproduction_number": "HAER ID-33-G-305",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-18 00:00:00",
+    "subjects": null,
+    "title": "ETR, TRA-642.  ETR COMPLEX NEARLY COMPLETE.  CAMERA FACES NORTHWEST, PROBABLY FROM TOP DECK OF COOLING TOWER.  SHADOW IS CAST BY COOLING TOWER UNITS OFF LEFT OF VIEW.  HIGH-BAY REACTOR BUILDING IS SURROUNDED BY ITS ATTACHED SERVICES:  ELECTRICAL (TRA-648), HEAT EXCHANGER (TRA-644 WITH U-SHAPED YARD), AND COMPRESSOR (TRA-643).  THE CONTROL BUILDING (TRA-647) ON THE NORTH SIDE IS HIDDEN FROM VIEW.  AT UPPER RIGHT IS MTR BUILDING, TRA-603.  INL NEGATIVE NO. 56-3798.\nJack L. Anderson, Photographer, 11/26/1956 - Idaho National Engineering Laboratory, Test Reactor Area, Materials & Engineering Test Reactors, Scoville, Butte County, ID"
+}

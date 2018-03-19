@@ -1,0 +1,33 @@
+{
+    "call_number": "LC-M353- 18 [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1898 and 1946]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/12200/12219r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/12200/12219_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/12200/12219_150px.jpg"
+    },
+    "index": 249,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005003171/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005003171/PP/resource/"
+    },
+    "medium": "1 transparency : glass ; 4 x 5 in.",
+    "medium_brief": "1 transparency :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "mpc2005003171/PP",
+    "reproduction_number": "LC-DIG-matpc-12219 (digital file from original photo)",
+    "source_created": "2005-05-23 00:00:00",
+    "source_modified": "2005-09-28 00:00:00",
+    "subjects": [
+        "Glass transparencies."
+    ],
+    "title": "[Goatherds with goats by a stream, probably in Palestine]"
+}

@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER ILL,81-ROCIL,3/60--7",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/il/il0500/il0504/photos/063875pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/il/il0500/il0504/photos/063875p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/il/il0500/il0504/photos/063875p_150px.jpg"
+    },
+    "index": 706,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/il0504.photos.063875p/",
+        "resource": "//www.loc.gov/pictures/item/il0504.photos.063875p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "il0504.photos.063875p",
+    "reproduction_number": "HAER ILL,81-ROCIL,3/60--7",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "7.  Photograph of a photograph in possession of Rock Island Arsenal Historical Office. WEST AND SOUTH ELEVATIONS, IN UNALTERED CONDITION. PROBABLY TAKEN ABOUT 1910. - Rock Island Arsenal, Building No. 60, Rodman Avenue between Gillespie Avenue & First Street, Rock Island, Rock Island County, IL"
+}

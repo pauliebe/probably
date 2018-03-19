@@ -1,0 +1,34 @@
+{
+    "call_number": "NYWTS - BIOG--Robinson, Ray \"Sugar\"--Boxer.  Dancing [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1952.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c36000/3c36600/3c36662_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c36000/3c36600/3c36662_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c36000/3c36600/3c36662_150px.jpg"
+    },
+    "index": 71,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2006683726/",
+        "resource": "//www.loc.gov/pictures/item/2006683726/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2006683726",
+    "reproduction_number": "LC-USZ62-136662 (b&w film copy neg.)",
+    "source_created": "2006-06-20 00:00:00",
+    "source_modified": "2007-09-07 00:00:00",
+    "subjects": [
+        "Robinson, Sugar Ray,--1920-1989--Performances.",
+        "Photographic prints--1950-1960.",
+        "Portrait photographs--1950-1960."
+    ],
+    "title": "[Sugar Ray Robinson, in white tie and tails, dancing, probably on a television show]"
+}

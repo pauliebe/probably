@@ -1,0 +1,38 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1975:071, p. 078 [P&P]",
+    "collection": [
+        "civwar",
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2018-02-06 00:00:00",
+    "created_published_date": "[1861 or 1862]",
+    "creator": "Houghton, G. H. (George Harper), approximately 1824-1870",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/05500/05565r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/05500/05565_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/05500/05565_150px.jpg"
+    },
+    "index": 1109,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014646389/",
+        "resource": "//www.loc.gov/pictures/item/2014646389/resource/"
+    },
+    "medium": "1 photograph : salted paper print ; sheet 8 x 11 cm, on page 21 x 17 cm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2018-02-06 00:00:00",
+    "pk": "2014646389",
+    "reproduction_number": "LC-DIG-ds-05565 (digital file from original item)",
+    "source_created": "2014-07-07 00:00:00",
+    "source_modified": "2018-01-31 00:00:00",
+    "subjects": [
+        "United States.--Army.--Vermont Infantry Regiment, 2nd (1861-1865)--People--Virginia--Langley.",
+        "Teamsters--Virginia--Langley--1860-1870.",
+        "Horses--Virginia--Langley--1860-1870.",
+        "United States--History--Civil War, 1861-1865--Animals--Virginia--Langley.",
+        "Salted paper prints--1860-1870."
+    ],
+    "title": "[Union teamster or hostler with horse, probably with the 2nd Vermont Infantry Regiment at Camp Griffin, Langley, Virginia]"
+}

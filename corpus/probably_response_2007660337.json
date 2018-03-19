@@ -1,0 +1,38 @@
+{
+    "call_number": "LOT 7414-G, no. N311 [P&P]",
+    "collection": [
+        "afc",
+        "ammem",
+        "diof",
+        "lomax",
+        "lomaxss",
+        "minload",
+        "pp",
+        "si"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "1935.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsc/00600/00611r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsc/00600/00611_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsc/00600/00611_150px.jpg"
+    },
+    "index": 353,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2007660337/",
+        "resource": "//www.loc.gov/pictures/item/2007660337/resource/"
+    },
+    "medium": "6 photographic prints on one contact strip.",
+    "medium_brief": "6 photographic prints on one contact strip.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2007660337",
+    "reproduction_number": "LC-DIG-ppmsc-00611 (digital file from original)",
+    "source_created": "1998-10-22 00:00:00",
+    "source_modified": "2007-09-25 00:00:00",
+    "subjects": [
+        "Landscapes (Representations)--1930-1940."
+    ],
+    "title": "[Miscellaneous photos of people and seascapes, probably from the Georgia, Florida, and Bahamas expedition, 1935]"
+}

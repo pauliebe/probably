@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 4351 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "1872.",
+    "creator": "Carvalho Monteiro Library (Library of Congress) DLC",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 480,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005688802/",
+        "resource": null
+    },
+    "medium": "1 album (11 drawings and watercolors)",
+    "medium_brief": "1 album (11 drawings and watercolors)",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "2005688802",
+    "reproduction_number": "",
+    "source_created": "2005-08-08 00:00:00",
+    "source_modified": "2014-11-19 00:00:00",
+    "subjects": [
+        "Drawings--1870-1880.",
+        "Watercolors--1870-1880."
+    ],
+    "title": "Album of original drawings and watercolors of flowers and landscapes, apparently the work of an amateur, dated 1872, from \"a Portuguese collection\" and probably of Portuguese origin"
+}

@@ -1,0 +1,41 @@
+{
+    "call_number": "BLOCK, no. 11070 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "6/19/1985.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/11000/11070_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/11000/11070_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/11000/11070_150px.jpg"
+    },
+    "index": 376,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012641546/",
+        "resource": "//www.loc.gov/pictures/item/2012641546/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2012641546",
+    "reproduction_number": "LC-DIG-hlb-11070 (digital file from original drawing)",
+    "source_created": "2012-11-19 00:00:00",
+    "source_modified": "2015-03-03 00:00:00",
+    "subjects": [
+        "Metal detectors",
+        "Terrorism",
+        "Hijacking of aircraft",
+        "TWA Flight 847 Hijacking Incident, 1985",
+        "Travel posters",
+        "airports",
+        "arms & armament",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Probably a couple of croissants and some rolls\""
+}

@@ -1,0 +1,35 @@
+{
+    "call_number": "NYWTS - SUBJ/GEOG--New York City--Nationalities--Italian [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "1943 September 8.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c35000/3c35600/3c35619_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c35000/3c35600/3c35619_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c35000/3c35600/3c35619_150px.jpg"
+    },
+    "index": 345,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005691922/",
+        "resource": "//www.loc.gov/pictures/item/2005691922/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2005691922",
+    "reproduction_number": "LC-USZ62-135619 (b&w film copy neg.)",
+    "source_created": "2005-07-28 00:00:00",
+    "source_modified": "2005-09-20 00:00:00",
+    "subjects": [
+        "World War, 1939-1945--Social life--New York (State)--New York.",
+        "Italian Americans--Social life--New York (State)--New York--1940-1950.",
+        "Celebrations--New York (State)--New York--1940-1950.",
+        "Photographic prints--1940-1950."
+    ],
+    "title": "[Italian Americans gather on apartment building fire escapes waving flags, probably celebrating the armistice between Italy and the Allies]"
+}

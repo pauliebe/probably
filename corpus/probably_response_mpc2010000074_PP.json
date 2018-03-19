@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-M315- R3-13459-27-x [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1946 March.",
+    "creator": "Matson Photo Service",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/22600/22695r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/22600/22695_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/22600/22695_150px.jpg"
+    },
+    "index": 262,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2010000074/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2010000074/PP/resource/"
+    },
+    "medium": "1 negative : safety ; 35 mm.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "mpc2010000074/PP",
+    "reproduction_number": "LC-DIG-matpc-22695 (digital file from original photo)",
+    "source_created": "2010-03-03 00:00:00",
+    "source_modified": "2010-03-22 00:00:00",
+    "subjects": [
+        "Lebanon.",
+        "Safety film negatives."
+    ],
+    "title": "[Man shoveling snow probably at Hotel des Cedres, Cedars of Lebanon]"
+}

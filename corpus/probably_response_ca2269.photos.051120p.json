@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER CAL,3-SUCRK,1--15",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "1996",
+    "creator": "Lowe, Jet",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca2200/ca2269/photos/051120pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2200/ca2269/photos/051120p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2200/ca2269/photos/051120p_150px.jpg"
+    },
+    "index": 684,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca2269.photos.051120p/",
+        "resource": "//www.loc.gov/pictures/item/ca2269.photos.051120p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "ca2269.photos.051120p",
+    "reproduction_number": "HAER CAL,3-SUCRK,1--15",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "15.  SOUTHWEST CORNER OF MACHINE SHOP BUILDING. PLAQUES AND WATER IMPELLER. ROLLER PROBABLY FOR BENDING PIPE. - Knight Foundry, 13 Eureka Street, Sutter Creek, Amador County, CA"
+}

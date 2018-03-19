@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 4275 <item> [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[between 1885 and 1893(?)]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b37000/3b37800/3b37864r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b37000/3b37800/3b37864_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b37000/3b37800/3b37864_150px.jpg"
+    },
+    "index": 436,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/96511892/",
+        "resource": "//www.loc.gov/pictures/item/96511892/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "96511892",
+    "reproduction_number": "LC-USZ62-91525 (b&w film copy neg.)",
+    "source_created": "1996-06-20 00:00:00",
+    "source_modified": "2004-07-06 00:00:00",
+    "subjects": [
+        "Railroad tracks--Nicaragua--Bluefields--1880-1900.",
+        "Tropical forests--Nicaragua--Bluefields--1880-1900.",
+        "Photographic prints--1880-1900."
+    ],
+    "title": "Railroad near Bf.(?) (probably Bluefields) looking toward Greytown"
+}

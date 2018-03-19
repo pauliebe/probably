@@ -1,0 +1,37 @@
+{
+    "call_number": "LOT 13675, no. 8 [P&P]",
+    "collection": [
+        "diof",
+        "pp",
+        "stereo"
+    ],
+    "created": "2016-11-01 00:00:00",
+    "created_published_date": "[between 1887 and 1891]",
+    "creator": "Wilson, E. L. (Edward L.), active approximately 1860-1903.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/04800/04864r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/04800/04864_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/04800/04864_150px.jpg"
+    },
+    "index": 513,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2013650304/",
+        "resource": "//www.loc.gov/pictures/item/2013650304/resource/"
+    },
+    "medium": "1 photographic print on stereo card : stereograph.",
+    "medium_brief": "1 photographic print on stereo card :",
+    "modified": "2016-11-01 00:00:00",
+    "pk": "2013650304",
+    "reproduction_number": "LC-DIG-ds-04864 (digital file from original item)",
+    "source_created": "2013-12-23 00:00:00",
+    "source_modified": "2016-10-28 00:00:00",
+    "subjects": [
+        "Women--Employment--Europe--1880-1900.",
+        "Street vendors--Europe--1880-1900.",
+        "Flowers--1880-1900.",
+        "Albumen prints--1880-1900.",
+        "Stereographs--1880-1900."
+    ],
+    "title": "[Woman with cart of flowers on cobblestone street, probably in Europe]"
+}

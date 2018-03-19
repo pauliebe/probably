@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER WI-104-42",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2017-09-28 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 877,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/wi0390.photos.42/",
+        "resource": null
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2017-09-28 00:00:00",
+    "pk": "wi0390.photos.42",
+    "reproduction_number": "HAER WI-104-42",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2017-09-28 00:00:00",
+    "subjects": null,
+    "title": "Drawing: FORT WINNEBAGO LOCK, FOX RIVER, WISCONSIN. The drawing shows the lock in plan, elevation, and section. Although this plan is undated, it most probably replaced an earlier rendering of the lock dating 1890 drawn just prior to the rebuilding of the structure. File No. 13-G-8, Tube 72/204 - Portage Canal, Waterway connecting Fox & Wisconsin Rivers, Portage, Columbia County, WI"
+}

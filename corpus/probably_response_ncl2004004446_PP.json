@@ -1,0 +1,37 @@
+{
+    "call_number": "LOT 7476, no. 4084 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1916 February.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/01000/01036r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/01000/01036_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/01000/01036_150px.jpg"
+    },
+    "index": 302,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004004446/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004004446/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ncl2004004446/PP",
+    "reproduction_number": "LC-DIG-nclc-01036 (color digital file from b&w original print)",
+    "source_created": "2004-01-08 00:00:00",
+    "source_modified": "2004-08-19 00:00:00",
+    "subjects": [
+        "Canneries.",
+        "Oyster industry.",
+        "Hours of labor.",
+        "United States--Mississippi--Biloxi.",
+        "Photographic prints"
+    ],
+    "title": "Dunbar & Dukate oyster cannery. According to the testimony of a number of the parents and children, this factory reverses the child labor law to suit its own convenience, and probably to avoid detection. Instead of excluding the young children from work before six o'clock according to the law, they let the young children work from four until seven, and then send them home.  Location: Biloxi, Mississippi"
+}

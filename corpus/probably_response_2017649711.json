@@ -1,0 +1,34 @@
+{
+    "call_number": "POS 6 - Germany, no. 150 (C size) [P&P]",
+    "collection": [
+        "pp",
+        "yan"
+    ],
+    "created": "2017-06-06 00:00:00",
+    "created_published_date": "[between 1965 and 1980]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/yan/1a36000/1a36600/1a36638_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/yan/1a36000/1a36600/1a36638_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/yan/1a36000/1a36600/1a36638_150px.jpg"
+    },
+    "index": 797,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017649711/",
+        "resource": "//www.loc.gov/pictures/item/2017649711/resource/"
+    },
+    "medium": "1 print ; (poster format)",
+    "medium_brief": "1 print ;",
+    "modified": "2017-06-06 00:00:00",
+    "pk": "2017649711",
+    "reproduction_number": "",
+    "source_created": "2017-04-06 00:00:00",
+    "source_modified": "2017-04-06 00:00:00",
+    "subjects": [
+        "Germany--History--Revolution, 1918.",
+        "Posters--German--1960-1980.",
+        "Prints--1960-1980."
+    ],
+    "title": "[Men with artillery gathered around and inside the back of a truck, probably during the German Revolution]"
+}

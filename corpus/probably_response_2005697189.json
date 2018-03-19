@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 10580 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1914 and 1918]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c36000/3c36000/3c36083r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c36000/3c36000/3c36083_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c36000/3c36000/3c36083_150px.jpg"
+    },
+    "index": 68,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005697189/",
+        "resource": "//www.loc.gov/pictures/item/2005697189/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2005697189",
+    "reproduction_number": "LC-USZ62-136083 (b&w film copy neg.)",
+    "source_created": "2005-12-28 00:00:00",
+    "source_modified": "2005-12-29 00:00:00",
+    "subjects": [
+        "World War, 1914-1918--Military personnel--German.",
+        "Snipers--1910-1920.",
+        "Photographic prints--1910-1920."
+    ],
+    "title": "[A German soldier, probably a sniper, laying on the ground ]"
+}

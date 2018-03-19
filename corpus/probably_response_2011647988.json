@@ -1,0 +1,38 @@
+{
+    "call_number": "AMB/TIN no. 1157 [P&P]",
+    "collection": [
+        "ambtin",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[between 1850 and 1860?]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 369,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2011647988/",
+        "resource": null
+    },
+    "medium": "1 photograph : sixth-plate ambrotype ; 7.1 x 8.4 cm (plate)",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2011647988",
+    "reproduction_number": "",
+    "source_created": "2011-06-21 00:00:00",
+    "source_modified": "2011-09-01 00:00:00",
+    "subjects": [
+        "Bell, Alexander Graham,--1847-1922--Family.",
+        "Bell, Alexander Melville,--1819-1905.",
+        "Naumann, Traugott Wilhelm.",
+        "Gestures--1850-1860.",
+        "Ambrotypes--1850-1860.",
+        "Portrait  photographs--1850-1860."
+    ],
+    "title": "[Alexander Melville Bell and a man named Naumann, probably Traugott Wilhelm Naumann]"
+}

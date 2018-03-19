@@ -1,0 +1,31 @@
+{
+    "call_number": "SSF - BUSES [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[no date recorded on caption card or on item]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b30000/3b30400/3b30477_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b30000/3b30400/3b30477_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b30000/3b30400/3b30477_150px.jpg"
+    },
+    "index": 26,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2002712509/",
+        "resource": "//www.loc.gov/pictures/item/2002712509/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2002712509",
+    "reproduction_number": "LC-USZ62-83902 (b&w film copy neg.)",
+    "source_created": "2002-05-17 00:00:00",
+    "source_modified": "2012-02-01 00:00:00",
+    "subjects": null,
+    "title": "[Interior view of a motor bus, probably chartered to carry high-ranking officers and government officials to a defense or war plant for a tour of inspection. \"WHITE\" sign on either side]"
+}

@@ -1,0 +1,35 @@
+{
+    "call_number": "DRWG/US - Queen (J.F.), no. 43 (AA size) [P&P]",
+    "collection": [
+        "diof",
+        "drwg",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1851.",
+    "creator": "Queen, James Fuller, 1820 or 1821-1886",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/40100/40116r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/40100/40116_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/40100/40116_150px.jpg"
+    },
+    "index": 179,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016645587/",
+        "resource": "//www.loc.gov/pictures/item/2016645587/resource/"
+    },
+    "medium": "1 drawing on cream wove paper : graphite ; sheet 16.5 x 26 cm.",
+    "medium_brief": "1 drawing on cream wove paper :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2016645587",
+    "reproduction_number": "LC-DIG-ppmsca-40116 (digital file from original drawing)",
+    "source_created": "2016-02-03 00:00:00",
+    "source_modified": "2016-02-03 00:00:00",
+    "subjects": [
+        "Sawmills--Pennsylvania--1850-1860.",
+        "Graphite drawings--American--1850-1860.",
+        "Sketches--1850-1860."
+    ],
+    "title": "[Mine building or sawmill among rolling hills, probably in Pennsylvania]"
+}

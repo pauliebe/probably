@@ -1,0 +1,33 @@
+{
+    "call_number": "PH - Day (F.H.), no. 614 (A size) [P&P]",
+    "collection": [
+        "diof",
+        "ph",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1911]",
+    "creator": "Day, F. Holland (Fred Holland), 1864-1933",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 64,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005681614/",
+        "resource": null
+    },
+    "medium": "1 photographic print : cyanotype.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2005681614",
+    "reproduction_number": "",
+    "source_created": "2005-05-24 00:00:00",
+    "source_modified": "2008-07-11 00:00:00",
+    "subjects": [
+        "Cyanotypes--1910-1920."
+    ],
+    "title": "[Close-up of Maine coastline probably near the site of the chalet]"
+}

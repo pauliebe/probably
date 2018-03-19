@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER COLO,59-DILL.V,1--10",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/co/co0300/co0385/photos/183660pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/co/co0300/co0385/photos/183660p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/co/co0300/co0385/photos/183660p_150px.jpg"
+    },
+    "index": 686,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/co0385.photos.183660p/",
+        "resource": "//www.loc.gov/pictures/item/co0385.photos.183660p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "co0385.photos.183660p",
+    "reproduction_number": "HAER COLO,59-DILL.V,1--10",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "10.  CANAL CUT THROUGH SHALE BEDROCK ON PROMINENT POINT, LOOKING NORTH-NORTHEAST. NOTE CONCRETE ABUTMENTS PROBABLY INSTALLED IN 1935 TO PREVENT WATER FROM ESCAPING THROUGH A CANAL BANK BREACH. - Snake River Ditch, Headgate on north bank of Snake River, Dillon, Summit County, CO"
+}

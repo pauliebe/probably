@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-D4-43259 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21 00:00:00",
+    "created_published_date": "[between 1900 and 1910]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a20000/4a20800/4a20820r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a20000/4a20800/4a20820_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a20000/4a20800/4a20820_150px.jpg"
+    },
+    "index": 969,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016812550/",
+        "resource": "//www.loc.gov/pictures/item/2016812550/resource/"
+    },
+    "medium": "1 negative : glass ; 8 x 10 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21 00:00:00",
+    "pk": "2016812550",
+    "reproduction_number": "LC-DIG-det-4a20820 (digital file from original)",
+    "source_created": "1994-01-01 00:00:00",
+    "source_modified": "2017-11-02 00:00:00",
+    "subjects": [
+        "Orchards.",
+        "Irrigation.",
+        "United States--Illinois--Pontiac.",
+        "Dry plate negatives."
+    ],
+    "title": "[Man in irrigated orchard, probably Pontiac, Ill.]"
+}

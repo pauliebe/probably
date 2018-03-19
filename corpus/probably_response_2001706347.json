@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 12353-9 [item] [P&P]",
+    "collection": [
+        "diof",
+        "npco",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[ca. 1920]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b10000/3b10000/3b10700/3b10754r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b10000/3b10000/3b10700/3b10754_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b10000/3b10000/3b10700/3b10754_150px.jpg"
+    },
+    "index": 319,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2001706347/",
+        "resource": "//www.loc.gov/pictures/item/2001706347/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2001706347",
+    "reproduction_number": "LC-USZ62-63119 (b&w film copy neg.)",
+    "source_created": "2001-12-28 00:00:00",
+    "source_modified": "2009-10-23 00:00:00",
+    "subjects": [
+        "Photographic prints--1920."
+    ],
+    "title": "[Exhibits at an unidentified auto show, probably in Washington, D.C., Chrysler convertible in foreground]"
+}

@@ -1,0 +1,34 @@
+{
+    "call_number": "AMB/TIN no. 1545 [P&P]",
+    "collection": [
+        "ambtin",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1872 or 1873 and 1875]",
+    "creator": "Estabrooke, Thomas S., 1835-1921",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 171,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2015650805/",
+        "resource": null
+    },
+    "medium": "1 photograph : tintype ; plate 101 x 62 mm (carte de visite plate format), mat 119 x 78 mm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2015650805",
+    "reproduction_number": "",
+    "source_created": "2015-10-19 00:00:00",
+    "source_modified": "2015-10-19 00:00:00",
+    "subjects": [
+        "Men--1870-1880.",
+        "Portrait photographs--1870-1880.",
+        "Tintypes--1870-1880."
+    ],
+    "title": "[Unidentified man, probably in the Breckinridge family]"
+}

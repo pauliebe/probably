@@ -1,0 +1,36 @@
+{
+    "call_number": "LOT 10450 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "ca. 1895-ca. 1905.",
+    "creator": "Miller, William Alexander",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 459,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004668945/",
+        "resource": null
+    },
+    "medium": "13 photographic prints : gelatin silver ; 20 x 25 cm.",
+    "medium_brief": "13 photographic prints :",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "2004668945",
+    "reproduction_number": "",
+    "source_created": "2004-06-17 00:00:00",
+    "source_modified": "2004-08-20 00:00:00",
+    "subjects": [
+        "Historic buildings--Washington Metropolitan Area--1890-1910.",
+        "Ruins--Washington Metropolitan Area--1890-1910.",
+        "Dwellings--Washington Metropolitan Area--1890-1910.",
+        "Gelatin silver prints--1890-1910."
+    ],
+    "title": "Historic buildings and ruins, probably near Washington, D.C. ca. 1900"
+}

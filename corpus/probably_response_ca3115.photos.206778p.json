@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS CA-2729-C-24",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18 00:00:00",
+    "created_published_date": "2001",
+    "creator": "De Vries, David",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca3100/ca3115/photos/206778pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca3100/ca3115/photos/206778p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca3100/ca3115/photos/206778p_150px.jpg"
+    },
+    "index": 753,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca3115.photos.206778p/",
+        "resource": "//www.loc.gov/pictures/item/ca3115.photos.206778p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-18 00:00:00",
+    "pk": "ca3115.photos.206778p",
+    "reproduction_number": "HABS CA-2729-C-24",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-18 00:00:00",
+    "subjects": null,
+    "title": "Floor plan and front elevation.  San Bernardino Valley Union Junior College, Library Building.  Also includes detail of concrete grille; sections QQ and TT; and detail of bulletin board.  Howard E. Jones, Architect, San Bernardino, California.  Sheet 2, job no. 315.  Scales 1/8 inch to the foot (plan, elevation), 1/2 inch to the foot (sections), and 1/4 inch to the foot (bulletin board).  No date given on sheet (probably March or April, 1927). - San Bernardino Valley College, Library, 701 South Mount Vernon Avenue, San Bernardino, San Bernardino County, CA"
+}

@@ -1,0 +1,44 @@
+{
+    "call_number": "LC-P87- 27x [P&P]",
+    "collection": [
+        "diof",
+        "intldl",
+        "mtfpgp",
+        "mtfront",
+        "pp",
+        "prok",
+        "si"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1905 and 1915]",
+    "creator": "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/prokc/20000/20018r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/prokc/20000/20018_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/prokc/20000/20018_150px.jpg"
+    },
+    "index": 304,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/prk2000002461/",
+        "resource": "//www.loc.gov/pictures/item/prk2000002461/resource/"
+    },
+    "medium": "1 negative (3 frames) : glass, b&w, three-color separation ; 24 x 9 cm.",
+    "medium_brief": "1 negative (3 frames) :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "prk2000002461",
+    "reproduction_number": "LC-DIG-prokc-20018 (digital color composite from digital file from glass neg.)\nLC-DIG-prok-10018 (detail of digital file showing single frame from glass neg.)\nLC-DIG-prok-00018 (digital file from glass neg.)\nLC-DIG-ppmsc-03981 (digital color rendering from digital files from glass neg.)",
+    "source_created": "2000-09-11 00:00:00",
+    "source_modified": "2011-10-05 00:00:00",
+    "subjects": [
+        "Cotton industry.",
+        "Machinery.",
+        "Mills.",
+        "Interiors.",
+        "Tile flooring.",
+        "Asia, Central.",
+        "Color separation negatives.",
+        "Glass negatives."
+    ],
+    "title": "[Cotton gin (?), in interior of mill, probably in Tashkent]"
+}

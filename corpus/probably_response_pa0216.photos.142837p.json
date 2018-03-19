@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS PA,9-DOYLT,3--19",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/pa/pa0200/pa0216/photos/142837pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/pa/pa0200/pa0216/photos/142837p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/pa/pa0200/pa0216/photos/142837p_150px.jpg"
+    },
+    "index": 644,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/pa0216.photos.142837p/",
+        "resource": "//www.loc.gov/pictures/item/pa0216.photos.142837p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-16 00:00:00",
+    "pk": "pa0216.photos.142837p",
+    "reproduction_number": "HABS PA,9-DOYLT,3--19",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-16 00:00:00",
+    "subjects": null,
+    "title": "19.  Photocopy of photograph (source uncertain; probably Bucks County Historical Society) ca. 1916, photographer unknown SHOWING CONSTRUCTION ESSENTIALLY COMPLETED. MERCER'S CAPTION READS: 'ON SATURDAY EVENING, NOVEMBER 13th AT 5: 15 P.M. THE WORKMEN HAVING AT FIVE O'CLOCK FINISHED THE CONSTRUCTION OF THE NEW BUILDING OF THE MUSEUM OF THE BUCKS COUNTY HISTORICAL SOCIETY AT DOYLESTOWN, A BAND OF TRAVELLING MUSICIANS STOPPED UNASKED AT NO. 196 GREEN STREET OPPOSITE THE SOUTHEAST GABLE OF THE BUILDING AND I HEARD THEM PLAY THE GERMAN SONG SHOWN BELOW, TRANSLATED 'WE HAD BUILT A STATELY HOUSE, AND DEDICATED IT TO GOD, AGAINST RAIN, STORM AND DISASTER' I CALLED THEM BACK TO PLAY IT AGAIN, BUT THEY MISUNDERSTOOD ME AND WENT AWAY. HENRY C. MERCER' - Mercer Museum, Pine & Ashland Streets, Doylestown, Bucks County, PA"
+}

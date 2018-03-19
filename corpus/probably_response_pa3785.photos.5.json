@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER PA-563-5",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2017-09-28 00:00:00",
+    "created_published_date": "1999",
+    "creator": "Bates, Jeff",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 869,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/pa3785.photos.5/",
+        "resource": null
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2017-09-28 00:00:00",
+    "pk": "pa3785.photos.5",
+    "reproduction_number": "HAER PA-563-5",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2017-09-28 00:00:00",
+    "subjects": null,
+    "title": "PHOTOGRAPHIC COPY OF HISTORIC PHOTOGRAPH SHOWING A SINGLE LOCKMAN MANUALLY OPERATING THE LOCK GATES AT AN UNKNOWN LOCK AND DAM FACILITY (PROBABLY LOCKS AND DAMS 10-15) ALONG THE MONONGAHELA RIVER, U.S. ENGINEER OFFICE, PITTSBURGH, PENNSYLVANIA, PHOTOGRAPHER UNKNOWN, DATE UNKNOWN - Monongahela Navigation System, Pittsburgh, Allegheny County, PA"
+}

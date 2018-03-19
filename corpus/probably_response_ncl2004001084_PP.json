@@ -1,0 +1,43 @@
+{
+    "call_number": "LOT 7481, no. 2805 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1912 January.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/04100/04128r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/04100/04128_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/04100/04128_150px.jpg"
+    },
+    "index": 282,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004001084/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004001084/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ncl2004001084/PP",
+    "reproduction_number": "LC-DIG-nclc-04128 (color digital file from b&w original print)",
+    "source_created": "2004-01-08 00:00:00",
+    "source_modified": "2007-09-17 00:00:00",
+    "subjects": [
+        "Families.",
+        "Children & adults.",
+        "Laborers.",
+        "Textile industry.",
+        "Embroidery.",
+        "Home labor.",
+        "Tenement houses.",
+        "Sick children.",
+        "Sanitation.",
+        "United States--New York (State)--New York.",
+        "Photographic prints"
+    ],
+    "title": "Cutting out embroidery on the dirty kitchen floor. Battista family, 259 E. 151 St. N.Y. On the right is the married daughter, who lives down stairs and usually works there. On her right next to the boy is Flora, said to be 9 years old and very much stunted in size. \"Been sick.\" Next to her is the mother and next is Linda, 11 years old. The baby, dirty and covered with sores, was being handed about. Probably has impetego.  Location: New York, New York (State)"
+}

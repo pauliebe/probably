@@ -1,0 +1,36 @@
+{
+    "call_number": "ADE - UNIT 718 [P&P]",
+    "collection": [
+        "ade",
+        "pp",
+        "wii"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1932.",
+    "creator": "Heaton, Arthur B., 1875-1951",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 497,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/95858977/",
+        "resource": null
+    },
+    "medium": "3 items : graphite ; in folder(s) 56 x 71 cm.",
+    "medium_brief": "3 items :",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "95858977",
+    "reproduction_number": "",
+    "source_created": "1995-08-18 00:00:00",
+    "source_modified": "2003-08-04 00:00:00",
+    "subjects": [
+        "Medical offices--Washington (D.C.)--1930-1940.",
+        "Recycled structures--Washington (D.C.)--1930-1940.",
+        "Architectural drawings--1930-1940.",
+        "Electrical systems drawings--1930-1940."
+    ],
+    "title": "Architectural drawings for alterations to a building (probably a house) for Dr. Carl Henning, 1736 K Street, N.W., Washington, D.C."
+}

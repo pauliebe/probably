@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS NY,1-COL,9--1",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ny/ny0000/ny0065/photos/114638pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ny/ny0000/ny0065/photos/114638p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ny/ny0000/ny0065/photos/114638p_150px.jpg"
+    },
+    "index": 726,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ny0065.photos.114638p/",
+        "resource": "//www.loc.gov/pictures/item/ny0065.photos.114638p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "ny0065.photos.114638p",
+    "reproduction_number": "HABS NY,1-COL,9--1",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "1.  Historic American Buildings Survey, Date of Photograph and Photographer Not Indicated, Probably 1920's, GENERAL VIEW, Gift of New York State Department of Education. - Shaker North Family Old Second House, Albany Shaker Road, Colonie Township, Watervliet, Albany County, NY"
+}

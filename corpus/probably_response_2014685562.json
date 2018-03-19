@@ -1,0 +1,33 @@
+{
+    "call_number": "LC-B2- 1119-1 [P&P]",
+    "collection": [
+        "diof",
+        "ggbain",
+        "pp"
+    ],
+    "created": "2018-01-23 00:00:00",
+    "created_published_date": "[no date recorded on caption card]",
+    "creator": "Bain News Service",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ggbain/05500/05569r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ggbain/05500/05569_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ggbain/05500/05569_150px.jpg"
+    },
+    "index": 1100,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014685562/",
+        "resource": "//www.loc.gov/pictures/item/2014685562/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in. or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-23 00:00:00",
+    "pk": "2014685562",
+    "reproduction_number": "LC-DIG-ggbain-05569 (digital file from original neg.)",
+    "source_created": "2004-09-09 00:00:00",
+    "source_modified": "2018-01-19 00:00:00",
+    "subjects": [
+        "Glass negatives."
+    ],
+    "title": "Bert Leon, Tito Ricordi, Puccini Jr., and G. Puccini standing together, probably discussing \"La Fanciulla del West\""
+}

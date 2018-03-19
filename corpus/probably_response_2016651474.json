@@ -1,0 +1,38 @@
+{
+    "call_number": "POS 6 - Germany, no. 30 (C size) [P&P]",
+    "collection": [
+        "pp",
+        "yan"
+    ],
+    "created": "2017-06-27 00:00:00",
+    "created_published_date": "[between 1965 and 1980]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/04000/04092_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/04000/04092_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/04000/04092_150px.jpg"
+    },
+    "index": 800,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016651474/",
+        "resource": "//www.loc.gov/pictures/item/2016651474/resource/"
+    },
+    "medium": "1 print ; (poster format)",
+    "medium_brief": "1 print ;",
+    "modified": "2017-06-27 00:00:00",
+    "pk": "2016651474",
+    "reproduction_number": "LC-DIG-ds-04092 (digital file from original)",
+    "source_created": "2016-10-18 00:00:00",
+    "source_modified": "2017-03-20 00:00:00",
+    "subjects": [
+        "Women--1960-1980.",
+        "Couples--1960-1980.",
+        "Spain--History--Civil War, 1936-1939.",
+        "Spain--Barcelona.",
+        "Portraits--1960-1980.",
+        "Posters--German--1960-1980.",
+        "Prints--1960-1980."
+    ],
+    "title": "[A woman and man sitting outside, woman has rifle sitting across lap, probably Barcelona, Spain, during the Spanish Civil War]"
+}

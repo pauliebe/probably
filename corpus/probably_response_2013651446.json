@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-F9-04-6007-032- 23 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[between 1940 and 1969]",
+    "creator": "Frissell, Toni, 1907-1988",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/05000/05040r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/05000/05040_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/05000/05040_150px.jpg"
+    },
+    "index": 385,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2013651446/",
+        "resource": "//www.loc.gov/pictures/item/2013651446/resource/"
+    },
+    "medium": "1 negative : film.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2013651446",
+    "reproduction_number": "LC-DIG-ds-05040 (digital file from b&w film negative)",
+    "source_created": "2014-01-09 00:00:00",
+    "source_modified": "2015-01-23 00:00:00",
+    "subjects": [
+        "Women--1940-1970.",
+        "Clothing & dress--1940-1970.",
+        "Film negatives--1940-1970.",
+        "Portrait photographs--1940-1970."
+    ],
+    "title": "[Woman, probably a fashion model, lying on ferns on ground]"
+}

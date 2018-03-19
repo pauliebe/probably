@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER CAL,36-PARD.V,2--10",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca2600/ca2609/photos/382986pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2600/ca2609/photos/382986p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2600/ca2609/photos/382986p_150px.jpg"
+    },
+    "index": 685,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca2609.photos.382986p/",
+        "resource": "//www.loc.gov/pictures/item/ca2609.photos.382986p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "ca2609.photos.382986p",
+    "reproduction_number": "HAER CAL,36-PARD.V,2--10",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "10.  NORTHWEST END OF WHITSETT PLANT SHOWING PIPELINES PROBABLY FOR FIRE WATER STORAGE, LOOKING SOUTHWEST. - Whitsett Pump Plant, West side of Colorado River, north of Parker Dam, Parker Dam, San Bernardino County, CA"
+}

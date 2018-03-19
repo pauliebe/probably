@@ -1,0 +1,37 @@
+{
+    "call_number": "LOT 7483, v. 2, no. 4234 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "between June 12 and June 20, 1916.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/05000/05055r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/05000/05055_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/05000/05055_150px.jpg"
+    },
+    "index": 303,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004004613/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004004613/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ncl2004004613/PP",
+    "reproduction_number": "LC-DIG-nclc-05055 (color digital file from b&w original print)\nLC-USZ62-94552 (b&w film copy negative)",
+    "source_created": "2004-01-08 00:00:00",
+    "source_modified": "2005-03-22 00:00:00",
+    "subjects": [
+        "Boys.",
+        "Games.",
+        "City & town life.",
+        "United States--Massachusetts--Fall River.",
+        "Photographic prints."
+    ],
+    "title": "Playing hand ball on Street. Street play - probably not working boys.  Location: Fall River, Massachusetts"
+}

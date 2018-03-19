@@ -1,0 +1,39 @@
+{
+    "call_number": "LOT 12852 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "c1908, c1911.",
+    "creator": "Splawn, A. J.",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 494,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/91796402/",
+        "resource": null
+    },
+    "medium": "11 photoprints : gelatin silver ; 21 x 25 cm. or smaller.",
+    "medium_brief": "11 photoprints :",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "91796402",
+    "reproduction_number": "",
+    "source_created": "1991-11-01 00:00:00",
+    "source_modified": "2014-07-01 00:00:00",
+    "subjects": [
+        "Indians of North America--Washington (State)--Clothing & dress--1900-1920.",
+        "Yakama Indians--Clothing & dress--1900-1920.",
+        "Indians of North America--Washington (State)--Social life--1900-1920.",
+        "Parades & processions--Washington (State)--1900-1920.",
+        "Gambling--Washington (State)--1900-1920.",
+        "Gelatin silver prints--1900-1920.",
+        "Group portraits--1900-1910.",
+        "Portrait photographs--1900-1910."
+    ],
+    "title": "Washington State Indians, some probably Yakima"
+}

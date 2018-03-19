@@ -1,0 +1,36 @@
+{
+    "call_number": "USE MICROFILM LOT 12408 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[ca. 1907]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c00000/3c03000/3c03100/3c03151_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c00000/3c03000/3c03100/3c03151_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c00000/3c03000/3c03100/3c03151_150px.jpg"
+    },
+    "index": 423,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/91729886/",
+        "resource": "//www.loc.gov/pictures/item/91729886/resource/"
+    },
+    "medium": "1 slide : lantern.",
+    "medium_brief": "1 slide :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "91729886",
+    "reproduction_number": "LC-USZ62-103151 (b&w film copy neg.)",
+    "source_created": "1991-06-13 00:00:00",
+    "source_modified": "2002-11-09 00:00:00",
+    "subjects": [
+        "Explorers--Arctic regions--1900-1910.",
+        "Expedition photographs--1900-1910.",
+        "Group portraits--1900-1910.",
+        "Lantern slides--1900-1910.",
+        "Portrait photographs--1900-1910."
+    ],
+    "title": "[Two men wearing snowshoes, one man wearing skiis, posed full-length, standing on ice-covered ground, probably taken during Cook's expedition to the North Pole]"
+}

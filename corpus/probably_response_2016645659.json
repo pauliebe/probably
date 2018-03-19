@@ -1,0 +1,37 @@
+{
+    "call_number": "LOT 12358-1 [item] [P&P]",
+    "collection": [
+        "diof",
+        "npco",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[1917]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/40700/40784r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/40700/40784_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/40700/40784_150px.jpg"
+    },
+    "index": 417,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016645659/",
+        "resource": "//www.loc.gov/pictures/item/2016645659/resource/"
+    },
+    "medium": "1 photograph : gelatin silver print ; sheet 20.4 x 25.7 cm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2016645659",
+    "reproduction_number": "LC-DIG-ppmsca-40784 (digital file from original photo)",
+    "source_created": "2016-03-18 00:00:00",
+    "source_modified": "2016-03-18 00:00:00",
+    "subjects": [
+        "Military training--1910-1920.",
+        "Marching--1910-1920.",
+        "Soldiers--American--1910-1920.",
+        "World War, 1914-1918--Military mobilizations.",
+        "Gelatin silver prints--1910-1920."
+    ],
+    "title": "[Soldiers marching with rifles in a field, probably a U.S. Army training exercise in the United States]"
+}

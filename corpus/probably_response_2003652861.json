@@ -1,0 +1,37 @@
+{
+    "call_number": "LOT 13519, no. 60 [P&P]",
+    "collection": [
+        "cph",
+        "intldl",
+        "mtfprp",
+        "mtfront",
+        "pp",
+        "si"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1899?]",
+    "creator": "Pray, Eleanor Lord, 1868-1954",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/02800/02862_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/02800/02862_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/02800/02862_150px.jpg"
+    },
+    "index": 31,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2003652861/",
+        "resource": "//www.loc.gov/pictures/item/2003652861/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2003652861",
+    "reproduction_number": "LC-DIG-ppmsca-02862 (digital file from original print)",
+    "source_created": "2003-02-04 00:00:00",
+    "source_modified": "2012-12-13 00:00:00",
+    "subjects": [
+        "Russia (Federation)--Vladivostok.",
+        "Photographic prints--1890-1900."
+    ],
+    "title": "[Street scene, probably Kitaiskaia Street (later Okeanskii prospekt), looking south toward the Bay of the Golden Horn in the center of Vladivostok, Russia]"
+}

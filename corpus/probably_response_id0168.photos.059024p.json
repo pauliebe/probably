@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS ID,1-KU.V,1--23",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/id/id0100/id0168/photos/059024pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/id/id0100/id0168/photos/059024p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/id/id0100/id0168/photos/059024p_150px.jpg"
+    },
+    "index": 703,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/id0168.photos.059024p/",
+        "resource": "//www.loc.gov/pictures/item/id0168.photos.059024p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "id0168.photos.059024p",
+    "reproduction_number": "HABS ID,1-KU.V,1--23",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "23.  VIEW TAKEN OF VILLAGE, DAM, AND POWER HOUSE AROUND 1945. CAMERA IS PROBABLY ON ROAD LEADING INTO VILLAGE AND FACES SOUTHWEST. CLUB HOUSE IS AT LOWER LEFT, WITH COTTAGES 361, 362, AND 363 TO THE RIGHT OF IT ON THE SAME SIDE OF THE ROAD. COTTAGE 231 SHOWS WASHING ON THE CLOTHESLINE. COTTAGE 101 AT LOWER RIGHT. - Swan Falls Village, Snake River, Kuna, Ada County, ID"
+}

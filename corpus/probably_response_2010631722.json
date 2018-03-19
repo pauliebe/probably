@@ -1,0 +1,31 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1928:47235 [P&P]",
+    "collection": [
+        "iuc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[between 1850 and 1899]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 363,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010631722/",
+        "resource": null
+    },
+    "medium": "20 prints : engravings.",
+    "medium_brief": "20 prints :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2010631722",
+    "reproduction_number": "",
+    "source_created": "2010-03-12 00:00:00",
+    "source_modified": "2012-07-24 00:00:00",
+    "subjects": null,
+    "title": "[Engravings, probably book illustrations, of sentimental scenes, some for Ladies' Repository]"
+}

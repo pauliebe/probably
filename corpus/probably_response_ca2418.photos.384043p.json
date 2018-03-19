@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER CAL,54-SPRI.V,2--19",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca2400/ca2418/photos/384043pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2400/ca2418/photos/384043p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2400/ca2418/photos/384043p_150px.jpg"
+    },
+    "index": 597,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca2418.photos.384043p/",
+        "resource": "//www.loc.gov/pictures/item/ca2418.photos.384043p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-16 00:00:00",
+    "pk": "ca2418.photos.384043p",
+    "reproduction_number": "HAER CAL,54-SPRI.V,2--19",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-16 00:00:00",
+    "subjects": null,
+    "title": "19.  Photocopy of photograph (original copy in Edison collection). Photographer and date unknown, although probably taken before 1920. SOUTH SIDE OF TULE RIVER POWERHOUSE COMPLEX SHOWING OPERATOR COTTAGE AT PHOTO RIGHT AND POWERHOUSE AND TRANSFORMER BUILDING IN BACKGROUND AT PHOTO LEFT. LINE OF BURIED PENSTOCK IS VISIBLE ON SIDE OF HILL AT PHOTO CENTER. VIEW TO NORTH. - Tule River Hydroelectric Project, Water Conveyance System, Middle Fork Tule River, Springville, Tulare County, CA"
+}

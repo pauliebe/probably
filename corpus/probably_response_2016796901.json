@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-D418-22423 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21 00:00:00",
+    "created_published_date": "[between 1900 and 1915]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a30000/4a31000/4a31400/4a31472r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a30000/4a31000/4a31400/4a31472_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a30000/4a31000/4a31400/4a31472_150px.jpg"
+    },
+    "index": 930,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016796901/",
+        "resource": "//www.loc.gov/pictures/item/2016796901/resource/"
+    },
+    "medium": "1 transparency : glass ; 5 x 7 in.",
+    "medium_brief": "1 transparency :",
+    "modified": "2017-11-21 00:00:00",
+    "pk": "2016796901",
+    "reproduction_number": "LC-DIG-det-4a31472 (digital file from original)",
+    "source_created": "1994-01-01 00:00:00",
+    "source_modified": "2017-10-24 00:00:00",
+    "subjects": [
+        "Battleships--American.",
+        "Silver gelatin glass transparencies."
+    ],
+    "title": "[Battleship, probably American]"
+}

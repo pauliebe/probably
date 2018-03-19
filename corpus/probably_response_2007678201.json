@@ -1,0 +1,32 @@
+{
+    "call_number": "SSF - Crowds [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "c1910 Mar. 29.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3a40000/3a46000/3a46100/3a46171r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3a40000/3a46000/3a46100/3a46171_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3a40000/3a46000/3a46100/3a46171_150px.jpg"
+    },
+    "index": 88,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2007678201/",
+        "resource": "//www.loc.gov/pictures/item/2007678201/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2007678201",
+    "reproduction_number": "LC-USZ62-45993 (b&w film copy neg.)",
+    "source_created": "2007-03-21 00:00:00",
+    "source_modified": "2007-03-21 00:00:00",
+    "subjects": null,
+    "title": "[N.J. - Atlantic City - crowd on the boardwalk, probably on Easter]"
+}

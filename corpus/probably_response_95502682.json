@@ -1,0 +1,34 @@
+{
+    "call_number": "SSF - Covered Wagons--Conestoga  <item> [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[ca. 1900]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c10000/3c13000/3c13100/3c13101_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c10000/3c13000/3c13100/3c13101_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c10000/3c13000/3c13100/3c13101_150px.jpg"
+    },
+    "index": 431,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/95502682/",
+        "resource": "//www.loc.gov/pictures/item/95502682/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "95502682",
+    "reproduction_number": "LC-USZ62-113101 (b&w film copy neg.)",
+    "source_created": "1995-02-22 00:00:00",
+    "source_modified": "2002-11-09 00:00:00",
+    "subjects": [
+        "Covered wagons--1890-1910.",
+        "Mules--1890-1910.",
+        "Photographic prints--1890-1910."
+    ],
+    "title": "[Conestoga wagon drawn by four mules, probably in Maryland or Virginia]"
+}

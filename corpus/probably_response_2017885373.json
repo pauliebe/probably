@@ -1,0 +1,40 @@
+{
+    "call_number": "LC-DIG-highsm- 48743 (ONLINE) [P&P]",
+    "collection": [
+        "diof",
+        "highsm",
+        "minload",
+        "pp"
+    ],
+    "created": "2018-02-27 00:00:00",
+    "created_published_date": "2016-07-09.",
+    "creator": "Highsmith, Carol M., 1946-",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/highsm/48700/48743r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/highsm/48700/48743_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/highsm/48700/48743_150px.jpg"
+    },
+    "index": 1112,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017885373/",
+        "resource": "//www.loc.gov/pictures/item/2017885373/resource/"
+    },
+    "medium": "1 photograph : digital, tiff file, color.",
+    "medium_brief": "1 photograph :",
+    "modified": "2018-02-27 00:00:00",
+    "pk": "2017885373",
+    "reproduction_number": "LC-DIG-highsm-48743 (original digital file)",
+    "source_created": "2018-01-31 00:00:00",
+    "source_modified": "2018-02-23 00:00:00",
+    "subjects": [
+        "United States--Colorado--Denver.",
+        "America",
+        "Herbert Bayer",
+        "Articulated wall sculpture",
+        "Denver Design Center",
+        "Modernist sculptures",
+        "Digital photographs--Color--2010-2020."
+    ],
+    "title": "Herbert Bayer is probably best known in Denver, Colorado, for his canary-yellow sculpture \"Articulated Wall,\" a constructivist composition erected in 1985, the year he died. Located within the Denver Design Center complex, the tower rises more than fifty feet. The sculpture's stacked horizontal concrete bars are anchored by an enormous steel armature"
+}

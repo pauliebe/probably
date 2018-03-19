@@ -1,0 +1,35 @@
+{
+    "call_number": "PC 1 -  12267 (A size) [P&P]",
+    "collection": [
+        "cpbr",
+        "diof",
+        "pp",
+        "reconpc1"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1814 May].",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 77,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2006687899/",
+        "resource": null
+    },
+    "medium": "1 print : woodcut, colour",
+    "medium_brief": "1 print :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2006687899",
+    "reproduction_number": "",
+    "source_created": "2006-09-19 00:00:00",
+    "source_modified": "2006-09-19 00:00:00",
+    "subjects": [
+        "Cartoons (Commentary)--British--1810-1820.",
+        "Woodcuts--Color--1810-1820."
+    ],
+    "title": "Cruce dignus the grand menagerie, with an exact representation of Napoleon Buonaparte, the little Corsican monkey, as he may probably appear at the island of Elba"
+}

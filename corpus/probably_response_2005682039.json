@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 2842 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "1935(?)",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b32000/3b32700/3b32703_150px.jpg?q=2002714957&c=6",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b32000/3b32700/3b32703_75x75px.jpg?q=2002714957&c=6",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b32000/3b32700/3b32703_150px.jpg?q=2002714957&c=6"
+    },
+    "index": 1122,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005682039/",
+        "resource": "//www.loc.gov/pictures/item/2005682039/resource/"
+    },
+    "medium": "11 photos.",
+    "medium_brief": "11 photos.",
+    "modified": "2018-03-06 00:00:00",
+    "pk": "2005682039",
+    "reproduction_number": "",
+    "source_created": "2005-05-10 00:00:00",
+    "source_modified": "2005-06-21 00:00:00",
+    "subjects": null,
+    "title": "Small lot of small photographs of rice culture in Japan, probably about 1935"
+}

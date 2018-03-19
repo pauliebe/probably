@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 4281 <item> [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1941 and 1943]",
+    "creator": "Bushemi, John.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b40000/3b45000/3b45200/3b45238_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b40000/3b45000/3b45200/3b45238_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b40000/3b45000/3b45200/3b45238_150px.jpg"
+    },
+    "index": 185,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/90707258/",
+        "resource": "//www.loc.gov/pictures/item/90707258/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "90707258",
+    "reproduction_number": "LC-USZ62-99191 (b&w film copy neg.)",
+    "source_created": "1990-03-08 00:00:00",
+    "source_modified": "2003-09-04 00:00:00",
+    "subjects": [
+        "World War, 1939-1945--Military personnel--American--Solomon Islands--New Georgia.",
+        "World War, 1939-1945--Campaigns & battles--Solomon Islands--New Georgia.",
+        "Machine guns--1940-1950.",
+        "Photographic prints--1940-1950."
+    ],
+    "title": "Pvt. James Newbrough of Monument, Colorado, probably saved his battalion when Japs tried a frontal assault. Sighting his machine gun ..."
+}

@@ -1,0 +1,31 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1990:029 [P&P]",
+    "collection": [
+        "iuc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[ca. 1946]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 111,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010633648/",
+        "resource": null
+    },
+    "medium": "ca. 256 items.",
+    "medium_brief": "ca. 256 items.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2010633648",
+    "reproduction_number": "",
+    "source_created": "2010-03-12 00:00:00",
+    "source_modified": "2010-06-15 00:00:00",
+    "subjects": null,
+    "title": "[Clippings and photos, probably from LC Aeronautics Division and transferred along with Wright Brothers & other aviation materials]"
+}

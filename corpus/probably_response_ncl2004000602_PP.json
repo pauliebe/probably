@@ -1,0 +1,38 @@
+{
+    "call_number": "LOT 7483, v. 1, no. 1728 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1910 October.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/04700/04710r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/04700/04710_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/04700/04710_150px.jpg"
+    },
+    "index": 274,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004000602/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004000602/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ncl2004000602/PP",
+    "reproduction_number": "LC-DIG-nclc-04710 (color digital file from b&w original print)",
+    "source_created": "2004-01-08 00:00:00",
+    "source_modified": "2005-01-31 00:00:00",
+    "subjects": [
+        "Boys.",
+        "Men.",
+        "Laborers.",
+        "Shoe industry.",
+        "United States--Missouri--Louisiana.",
+        "Photographic prints."
+    ],
+    "title": "Workers in Fargo & Phelps Shoe Co., saw six boys and two girls probably under 14. Large sign up, \"Boys Wanted.\"  Location: Louisiana, Missouri."
+}

@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER SC,2-GRANV,1--11",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16 00:00:00",
+    "created_published_date": "1998",
+    "creator": "Lowe, Jet",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/sc/sc0900/sc0931/photos/364715pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/sc/sc0900/sc0931/photos/364715p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/sc/sc0900/sc0931/photos/364715p_150px.jpg"
+    },
+    "index": 660,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/sc0931.photos.364715p/",
+        "resource": "//www.loc.gov/pictures/item/sc0931.photos.364715p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-16 00:00:00",
+    "pk": "sc0931.photos.364715p",
+    "reproduction_number": "HAER SC,2-GRANV,1--11",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-16 00:00:00",
+    "subjects": null,
+    "title": "11.  INTERIOR OF ATTIC, VIEW FROM SOUTH END LOOKING AT ROOF STRUCTURE ON EAST SIDE OF BUILDING. NOTE HEAVY TIMBER TRUSS SYSTEM WITH THIN, VERTICAL METAL SUPPORTS. THESE SUPPORTS WERE PROBABLY ADDED AFTER ALTERATIONS ON THE LOWER FLOORS IN THE LATE 1930s. THE PEELING PAINT ON THE TRUSS TIMBERS AND BEADED HORIZONTAL PANELING FURTHER INDICATES THAT THIS SPACE WAS FINISHED FOR USE AS A PRODUCTION AREA. - Graniteville Mill, Marshall Street, Graniteville, Aiken County, SC"
+}

@@ -1,0 +1,32 @@
+{
+    "call_number": "SSF - Automobiles--1917 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "c1917 Jan. 30.",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 35,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2003671096/",
+        "resource": null
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2003671096",
+    "reproduction_number": "LC-USZ62-73853 (b&w film copy neg.)",
+    "source_created": "2003-06-26 00:00:00",
+    "source_modified": "2013-12-09 00:00:00",
+    "subjects": null,
+    "title": "Front views of the Disbrow Special motor car, probably in Cleveland, Ohio: With driver"
+}

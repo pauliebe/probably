@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS ILL,16-CHIG,110A--118",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/il/il0700/il0737/photos/048633pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/il/il0700/il0737/photos/048633p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/il/il0700/il0737/photos/048633p_150px.jpg"
+    },
+    "index": 607,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/il0737.photos.048633p/",
+        "resource": "//www.loc.gov/pictures/item/il0737.photos.048633p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-16 00:00:00",
+    "pk": "il0737.photos.048633p",
+    "reproduction_number": "HABS ILL,16-CHIG,110A--118",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-16 00:00:00",
+    "subjects": null,
+    "title": "118.  Photographic copy of drawing (undated, original drawing in Archives, Office of the Building, Administration Building, Sears, Roebuck and Company Mail Order Plant, Chicago, Illinois).  Larsen-Wulff Architects.  1/16 inch to one foot.  Drawing of the entire floor plan from Homan Avenue to Central Park Avenue, probably traced in the 1970's or early 1980's.  FOURTH FLOOR PLAN - WEST HALF - Sears Roebuck & Company Mail Order Plant, Merchandise Building, 924 South Homan Avenue, Chicago, Cook County, IL"
+}

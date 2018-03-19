@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS CA-2729-C-30",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18 00:00:00",
+    "created_published_date": "2001",
+    "creator": "De Vries, David",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca3100/ca3115/photos/206784pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca3100/ca3115/photos/206784p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca3100/ca3115/photos/206784p_150px.jpg"
+    },
+    "index": 759,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca3115.photos.206784p/",
+        "resource": "//www.loc.gov/pictures/item/ca3115.photos.206784p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-18 00:00:00",
+    "pk": "ca3115.photos.206784p",
+    "reproduction_number": "HABS CA-2729-C-30",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-18 00:00:00",
+    "subjects": null,
+    "title": "Section NN, showing steel roof trusses, mezzanine iron railing, first floor doors, etc.  San Bernardino Valley Union Junior College, Library Building.  Also includes steel truss roof plan and a small stress diagram of the truss.  Howard E. Jones, Architect, San Bernardino, California.  Sheet 8, job no. 315.  Scales 1/2 inch to the foot (section), and 1/8 and 1/16 inch to the foot.  No date given on sheet (probably March or April, 1927). - San Bernardino Valley College, Library, 701 South Mount Vernon Avenue, San Bernardino, San Bernardino County, CA"
+}

@@ -1,0 +1,39 @@
+{
+    "call_number": "DAG no. 1029",
+    "collection": [
+        "ammem",
+        "dag",
+        "diof",
+        "exh",
+        "l4215",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1855]",
+    "creator": "Washington, Augustus, 1820 or 1821-1875",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3g00000/3g03000/3g03900/3g03937r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3g00000/3g03000/3g03900/3g03937_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3g00000/3g03000/3g03900/3g03937_150px.jpg"
+    },
+    "index": 41,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004664345/",
+        "resource": "//www.loc.gov/pictures/item/2004664345/resource/"
+    },
+    "medium": "1 photograph : sixth plate daguerreotype, hand-colored.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2004664345",
+    "reproduction_number": "LC-USZC4-3937 (color film copy transparency post-1992)\nLC-USZ6-1949 (b&w film copy neg. post-1992)",
+    "source_created": "1994-01-01 00:00:00",
+    "source_modified": "2013-05-30 00:00:00",
+    "subjects": [
+        "McGill, Urias A.--Family.",
+        "Daguerreotypes--1850-1860.",
+        "Portrait photographs--1850-1860."
+    ],
+    "title": "[Unidentified woman, probably a member of the Urias McGill family, three-quarter length portrait, facing front, holding daguerreotype case]"
+}

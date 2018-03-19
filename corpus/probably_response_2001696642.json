@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-W86- 123 [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "pp",
+        "wri"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1910]",
+    "creator": "Wright, Wilbur, 1867-1912",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppprs/00700/00714r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppprs/00700/00714_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppprs/00700/00714_150px.jpg"
+    },
+    "index": 18,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2001696642/",
+        "resource": "//www.loc.gov/pictures/item/2001696642/resource/"
+    },
+    "medium": "1 negative : glass, dry plate ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2001696642",
+    "reproduction_number": "LC-DIG-ppprs-00714 (digital file from original)\nLC-W861-123 (b&w film copy neg.)",
+    "source_created": "2001-04-18 00:00:00",
+    "source_modified": "2014-04-11 00:00:00",
+    "subjects": [
+        "Wright, Orville,--1871-1948.",
+        "Airplanes--Ohio--Dayton--1910-1920.",
+        "Flight training--Ohio--Dayton--1910-1920.",
+        "Dry plate negatives--1910-1920."
+    ],
+    "title": "[Series of flights from May through July, just after the opening of the Wright Flying School, probably Orville acting as instructor; Simms Station, Dayton, Ohio]"
+}

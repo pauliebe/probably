@@ -1,0 +1,37 @@
+{
+    "call_number": "AMB/TIN no. 1431 [P&P]",
+    "collection": [
+        "ambtin",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[between 1890 and 1900]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 371,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2011661482/",
+        "resource": null
+    },
+    "medium": "1 photograph : carte de visite size-plate tintype ; 8.5 x 7.1 cm (plate)",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2011661482",
+    "reproduction_number": "",
+    "source_created": "2011-11-22 00:00:00",
+    "source_modified": "2011-11-22 00:00:00",
+    "subjects": [
+        "Meyer, Eugene,--1875-1959.",
+        "Academic costume--1890-1900.",
+        "Cartes de visite--1890-1900.",
+        "Portrait  photographs--1890-1900.",
+        "Tintypes--1890-1900."
+    ],
+    "title": "[Young man in cap and gown, probably Eugene Meyer]"
+}

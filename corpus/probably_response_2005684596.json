@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 8794 (G) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "ca. 1940.",
+    "creator": "Krajewsky, Max, 1892-1972",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 470,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005684596/",
+        "resource": null
+    },
+    "medium": "6 photographic prints ; 29 x 22 cm. or smaller.",
+    "medium_brief": "6 photographic prints ;",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "2005684596",
+    "reproduction_number": "",
+    "source_created": "2005-05-06 00:00:00",
+    "source_modified": "2005-07-29 00:00:00",
+    "subjects": [
+        "Building construction--Germany--1940.",
+        "Photographic prints--1940."
+    ],
+    "title": "Unidentified building, probably in Berlin, apparently constructed for use by the government"
+}

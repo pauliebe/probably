@@ -1,0 +1,43 @@
+{
+    "call_number": "LOT 7414-A, no. N157 [P&P]",
+    "collection": [
+        "afc",
+        "ammem",
+        "diof",
+        "lomax",
+        "lomaxss",
+        "minload",
+        "pp",
+        "si"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1938 and 1950]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsc/00400/00449r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsc/00400/00449_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsc/00400/00449_150px.jpg"
+    },
+    "index": 78,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2007660175/",
+        "resource": "//www.loc.gov/pictures/item/2007660175/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2007660175",
+    "reproduction_number": "LC-DIG-ppmsc-00449 (digital file from original)\nLC-USZ62-125928 (b&w film copy neg.)",
+    "source_created": "1998-10-22 00:00:00",
+    "source_modified": "2007-10-09 00:00:00",
+    "subjects": [
+        "Lunsford, Bascom Lamar.",
+        "Musicians--1930-1950.",
+        "Music festivals--1930-1950.",
+        "Children--1930-1950.",
+        "Musical instruments--1930-1950.",
+        "United States--North Carolina--Asheville."
+    ],
+    "title": "[Sunny Side Boys, two youngsters, one of whom is on his back playing the fiddle, with an older man playing guitar. Bascom Lamar Lunsford is probably the man to the right of the picture holding a microphone above the fiddler]"
+}

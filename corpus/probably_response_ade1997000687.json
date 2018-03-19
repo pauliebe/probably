@@ -1,0 +1,37 @@
+{
+    "call_number": "ADE 11 - Thornton, no. 54 (A size)  <P&P> [P&P]",
+    "collection": [
+        "ade",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1780 and 1800]",
+    "creator": "Thornton, William, 1759-1828",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ade/2a03000/2a03200/2a03267_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ade/2a03000/2a03200/2a03267_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ade/2a03000/2a03200/2a03267_150px.jpg"
+    },
+    "index": 229,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ade1997000687/",
+        "resource": "//www.loc.gov/pictures/item/ade1997000687/resource/"
+    },
+    "medium": "1 drawing : ink, wash, and graphite on laid paper.",
+    "medium_brief": "1 drawing :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ade1997000687",
+    "reproduction_number": "LC-USZC4-11125 (color film copy transparency)",
+    "source_created": "1997-09-05 00:00:00",
+    "source_modified": "2013-02-28 00:00:00",
+    "subjects": [
+        "Castles & palaces.",
+        "Waterfronts.",
+        "Scotland.",
+        "Drawings.",
+        "Landscape drawings.",
+        "Travel sketches."
+    ],
+    "title": "[Gothic-style square plan country house with four corner towers and crenellated towers situated at water's edge at base of mountain, probably Scotland]"
+}

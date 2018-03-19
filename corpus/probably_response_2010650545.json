@@ -1,0 +1,40 @@
+{
+    "call_number": "Unprocessed in PR 06 CN 087 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1922.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c39000/3c39200/3c39255r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c39000/3c39200/3c39255_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c39000/3c39200/3c39255_150px.jpg"
+    },
+    "index": 114,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010650545/",
+        "resource": "//www.loc.gov/pictures/item/2010650545/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2010650545",
+    "reproduction_number": "LC-USZ62-139255 (b&w film copy neg. of top photo)",
+    "source_created": "2010-08-04 00:00:00",
+    "source_modified": "2014-07-08 00:00:00",
+    "subjects": [
+        "Greeks--Women--Greece--1920-1930.",
+        "Greeks--Men--Greece--1920-1930.",
+        "Refugees--Greek--Greece--1920-1930.",
+        "Disaster victims--Greece--1920-1930.",
+        "Older people--Greece--Athens--1920-1930.",
+        "Group portraits--1920-1930.",
+        "Photographic prints--1920-1930.",
+        "Portrait photographs--1920-1930."
+    ],
+    "title": "In the confusion that followed the debacle at Smyrna, many aged people were separated from their families Pathetic scenes were witnessed everywhere.... One of the first acts of the ARC was to gather these old people together and try to locate their relatives. Many were restored to their families. Some (whose families probably perished) still remain on hand, but now they are well cared for by local authorities under the patronage of the Red Cross."
+}

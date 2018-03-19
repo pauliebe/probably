@@ -1,0 +1,40 @@
+{
+    "call_number": "LOT 7483, v. 1, no. 0237 [P&P] LC-H5- 237",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1908 October.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/04500/04500r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/04500/04500_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/04500/04500_150px.jpg"
+    },
+    "index": 271,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004000259/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004000259/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.\n1 negative :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ncl2004000259/PP",
+    "reproduction_number": "LC-DIG-nclc-04500 (color digital file from b&w original print)\nLC-DIG-nclc-05372 (b&w digital file from original glass negative)",
+    "source_created": "2004-01-08 00:00:00",
+    "source_modified": "2005-01-11 00:00:00",
+    "subjects": [
+        "Boys.",
+        "Child laborers.",
+        "Lumber industry.",
+        "Mills.",
+        "Bundling (Packing).",
+        "United States--Indiana--Evansville.",
+        "Glass negatives.",
+        "Photographic prints."
+    ],
+    "title": "Boy probably about 13 years old, tying strips which he has taken away from the planer. Schultze Waltum Co., Planing Mill.  Location: Evansville, Indiana."
+}

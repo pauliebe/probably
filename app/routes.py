@@ -1,6 +1,7 @@
 from flask import request, make_response, render_template
 from app import app
 from app.forms import LoginForm
+from app.api import make_preposition_list
 
 @app.route('/', methods=['GET', 'POST'])
 
@@ -10,9 +11,9 @@ def index():
 	if form.validate_on_submit():
 		name = form.username.data
 		query = form.user_location.data
-		#preposition_list = make_preposition_list(query)
+		preposition_list = make_preposition_list(query)
 
-		return render_template('submit.html', name=name, query=query)
+		return render_template('submit.html', name=name, query=query, preposition_list=preposition_list)
 
 	# this doesn't work as expected
 	#elif (form.validate_on_submit() == False and request.method == ['POST']):

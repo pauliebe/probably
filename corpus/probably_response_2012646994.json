@@ -1,0 +1,35 @@
+{
+    "call_number": "NYWTS - SUBJ/GEOG--Japan--Hiroshima--Atom Bomb Destruction--One, Two & Three Years After [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1947 July 3.",
+    "creator": "Troutman, Stanley",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/01400/01495_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/01400/01495_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/01400/01495_150px.jpg"
+    },
+    "index": 128,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012646994/",
+        "resource": "//www.loc.gov/pictures/item/2012646994/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2012646994",
+    "reproduction_number": "LC-DIG-ds-01495 (digital file from original photograph)",
+    "source_created": "2012-04-18 00:00:00",
+    "source_modified": "2012-04-18 00:00:00",
+    "subjects": [
+        "World War, 1939-1945--Destruction & pillage--Japan--Hiroshima-shi.",
+        "War destruction & pillage--Japan--Hiroshima-shi--1940-1950.",
+        "Hiroshima-shi (Japan)--History--Bombardment, 1945.",
+        "Photographic prints--1940-1950."
+    ],
+    "title": "Hiroshima - two years after Two years ago, on August 6, 1945, the first atomic bomb used in warfare was dropped on Hiroshima. The city is being rebuilt slowly - approximately fifty per cent of the city has risen from the ruins - and some evidences of the terrific blast that shook the 343,000 population have been removed. But the day will probably never dawn when the people of the city will forget; the rest of the world may forget, but not the people of Hiroshima /"
+}

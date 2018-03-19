@@ -1,0 +1,36 @@
+{
+    "call_number": "ROLL CALL-1988-326 [P&P]",
+    "collection": [
+        "cqrc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1988-12-08]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 1,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014675669/",
+        "resource": null
+    },
+    "medium": "1 photograph: b&w contact sheet.",
+    "medium_brief": "1 photograph:\n32 photographs:",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2014675669",
+    "reproduction_number": "",
+    "source_created": "2014-10-16 00:00:00",
+    "source_modified": "2015-02-06 00:00:00",
+    "subjects": [
+        "Congressional staff",
+        "gift shops",
+        "Film negatives.",
+        "Photographic prints."
+    ],
+    "title": "[Young woman, probably congressional staff, standing by circular window; customers in gift shop and liquor store, probably in Union Station, Washington, D.C.]"
+}

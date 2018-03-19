@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER MONT,47-BUT,1--63",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/mt/mt0000/mt0040/photos/101109pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/mt/mt0000/mt0040/photos/101109p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/mt/mt0000/mt0040/photos/101109p_150px.jpg"
+    },
+    "index": 717,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mt0040.photos.101109p/",
+        "resource": "//www.loc.gov/pictures/item/mt0040.photos.101109p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-17 00:00:00",
+    "pk": "mt0040.photos.101109p",
+    "reproduction_number": "HAER MONT,47-BUT,1--63",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-17 00:00:00",
+    "subjects": null,
+    "title": "63.  The building on the left is an addition to the Hennessy Block, date of construction unknown, though probably ca. 1917. The two story building between it and the Hennessy Department Store was built in 1917 to connect the two larger structures. It retains its original storefront. - Butte Historic District, Bounded by Copper, Arizona, Mercury & Continental Streets, Butte, Silver Bow County, MT"
+}

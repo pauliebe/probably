@@ -1,0 +1,36 @@
+{
+    "call_number": "D070, no. 1 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp",
+        "rprk"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between1930 and 1940?]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/47000/47000r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/47000/47000_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/47000/47000_150px.jpg"
+    },
+    "index": 167,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2015647352/",
+        "resource": "//www.loc.gov/pictures/item/2015647352/resource/"
+    },
+    "medium": "1 photograph : print ; sheet  7 x 9 cm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2015647352",
+    "reproduction_number": "LC-DIG-ppmsca-47000 (digital file from original item)",
+    "source_created": "2015-06-30 00:00:00",
+    "source_modified": "2015-11-19 00:00:00",
+    "subjects": [
+        "Parks, Rosa,--1913-2005.",
+        "Photographic prints--1930-1940.",
+        "Portrait photographs--1930-1940."
+    ],
+    "title": "[Portrait of a young woman, probably Rosa Parks, standing outside, facing front]"
+}

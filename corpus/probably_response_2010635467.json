@@ -1,0 +1,31 @@
+{
+    "call_number": "Unprocessed in PR 17 CN 524 [P&P]",
+    "collection": [
+        "iuc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[date not recorded]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 112,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010635467/",
+        "resource": null
+    },
+    "medium": "2 items.",
+    "medium_brief": "2 items.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2010635467",
+    "reproduction_number": "",
+    "source_created": "2010-03-12 00:00:00",
+    "source_modified": "2014-04-02 00:00:00",
+    "subjects": null,
+    "title": "[Two wooden boxes with Asian writing on the outside, one empty, the other with alphabetical characters inside; probably boxes once held scrolls]"
+}

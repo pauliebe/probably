@@ -1,0 +1,35 @@
+{
+    "call_number": "ADE - UNIT 470 [P&P]",
+    "collection": [
+        "ade",
+        "pp",
+        "wii"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1927.",
+    "creator": "Heaton, Arthur B., 1875-1951",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 496,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/95858729/",
+        "resource": null
+    },
+    "medium": "9 items : graphite ; in folder(s) 56 x 71 cm.",
+    "medium_brief": "9 items :",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "95858729",
+    "reproduction_number": "",
+    "source_created": "1995-07-28 00:00:00",
+    "source_modified": "2013-05-23 00:00:00",
+    "subjects": [
+        "Corning, E. Burton--(Edward Burton),--d. 1957--Homes & haunts--Maryland.",
+        "Houses--Maryland--1920-1930.",
+        "Architectural drawings--1920-1930."
+    ],
+    "title": "Architectural drawings for a house (\"residence\") for E. Burton Corning, 115 Leland Street, probably Chevy Chase or Bethesda, Maryland"
+}

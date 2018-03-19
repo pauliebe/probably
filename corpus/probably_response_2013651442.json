@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-E13- OD-101 [P&P]",
+    "collection": [
+        "cph",
+        "eam",
+        "pp"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "[between 1964 and 1970]",
+    "creator": "Office of Charles and Ray Eames.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/04900/04931_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/04900/04931_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/04900/04931_150px.jpg"
+    },
+    "index": 384,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2013651442/",
+        "resource": "//www.loc.gov/pictures/item/2013651442/resource/"
+    },
+    "medium": "1 negative : safety film ; 8 x 10 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-21 00:00:00",
+    "pk": "2013651442",
+    "reproduction_number": "LC-DIG-ds-04931 (digital file from original negative)",
+    "source_created": "2013-11-12 00:00:00",
+    "source_modified": "2015-03-02 00:00:00",
+    "subjects": [
+        "Science Research Associates--1960-1970.",
+        "Public speaking--1960-1970.",
+        "Students--1960-1970.",
+        "Safety film negatives--1960-1970."
+    ],
+    "title": "[A display panel showing image of children reading and text on the history of Science Research Associates, Inc., probably designed by the  Office of Charles and Ray Eames]"
+}

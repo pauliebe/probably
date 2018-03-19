@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-M32- 50242-x [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[between 1917 and 1946]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/08200/08240r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/08200/08240_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/08200/08240_150px.jpg"
+    },
+    "index": 241,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005000174/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005000174/PP/resource/"
+    },
+    "medium": "1 negative : glass, stereograph, dry plate ; 4 x 5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "mpc2005000174/PP",
+    "reproduction_number": "LC-DIG-matpc-08240 (digital file from original photo)",
+    "source_created": "2005-05-16 00:00:00",
+    "source_modified": "2005-09-28 00:00:00",
+    "subjects": [
+        "Gaza Strip.",
+        "Dry plate negatives.",
+        "Stereographs."
+    ],
+    "title": "War cemetery in Palestine (probably Gaza)"
+}

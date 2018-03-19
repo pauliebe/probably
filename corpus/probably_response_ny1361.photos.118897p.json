@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER NY,31-NEYO,147--30",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ny/ny1300/ny1361/photos/118897pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ny/ny1300/ny1361/photos/118897p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ny/ny1300/ny1361/photos/118897p_150px.jpg"
+    },
+    "index": 731,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ny1361.photos.118897p/",
+        "resource": "//www.loc.gov/pictures/item/ny1361.photos.118897p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-18 00:00:00",
+    "pk": "ny1361.photos.118897p",
+    "reproduction_number": "HAER NY,31-NEYO,147--30",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-18 00:00:00",
+    "subjects": null,
+    "title": "30.  Photocopy of photograph (Frank O. Braynard Collection, Sea Cliff, NY), date and photographer unknown, probably c1935-40 VIEW NORTHWEST OF WEST 55TH ST. PIER INSHORE FACADE; QUEEN OF BERMUDA AND MONARCH OF BERMUDA MOORED ON EITHER SIDE. - West 55th Street & West 56th Street Piers, Hudson River at West Fifty-fifth & West Fifty-sixth Streets, Manhattan, New York County, NY"
+}

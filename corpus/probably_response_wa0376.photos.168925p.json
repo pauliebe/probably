@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS WASH,29-ANAC,1--15",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18 00:00:00",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/wa/wa0300/wa0376/photos/168925pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/wa/wa0300/wa0376/photos/168925p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/wa/wa0300/wa0376/photos/168925p_150px.jpg"
+    },
+    "index": 747,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/wa0376.photos.168925p/",
+        "resource": "//www.loc.gov/pictures/item/wa0376.photos.168925p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-18 00:00:00",
+    "pk": "wa0376.photos.168925p",
+    "reproduction_number": "HABS WASH,29-ANAC,1--15",
+    "source_created": "1970-01-01 00:00:00",
+    "source_modified": "2016-04-18 00:00:00",
+    "subjects": null,
+    "title": "15.  Photocopy of photograph (Original print, Wallie V. Funk Collection.) Photographer unknown. Published in the Anacortes American, 12 October 1911; 'Plant of the Anacortes Ice Company and Curtis Dock.' Photograph probably earlier. View looking northwest, left to right; Cement and Plaster Warehouse; Ice Plant (with towers); Cold Storage Warehouse; Freight Warehouse; a warehouse; and early ticket office. - Curtis Wharf, O & Second Streets, Anacortes, Skagit County, WA"
+}

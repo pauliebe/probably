@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-D418-3 B [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21 00:00:00",
+    "created_published_date": "[between 1900 and 1920]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a26000/4a26700/4a26789r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a26000/4a26700/4a26789_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a26000/4a26700/4a26789_150px.jpg"
+    },
+    "index": 931,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016797062/",
+        "resource": "//www.loc.gov/pictures/item/2016797062/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21 00:00:00",
+    "pk": "2016797062",
+    "reproduction_number": "LC-D418-3 B (b&w glass neg.)",
+    "source_created": "1994-01-01 00:00:00",
+    "source_modified": "2017-10-24 00:00:00",
+    "subjects": [
+        "Street railroads.",
+        "Railroad tracks.",
+        "United States--Michigan--Detroit.",
+        "Dry plate negatives."
+    ],
+    "title": "[Tram tracks, Tenth Street, probably Detroit]"
+}

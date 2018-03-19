@@ -1,0 +1,36 @@
+{
+    "call_number": "USE MICROFILM LOT 12408 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[ca. 1907]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c00000/3c03000/3c03100/3c03160_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c00000/3c03000/3c03100/3c03160_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c00000/3c03000/3c03100/3c03160_150px.jpg"
+    },
+    "index": 190,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/91729920/",
+        "resource": "//www.loc.gov/pictures/item/91729920/resource/"
+    },
+    "medium": "1 slide : lantern, hand colored.",
+    "medium_brief": "1 slide :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "91729920",
+    "reproduction_number": "LC-USZ62-103160 (b&w film copy neg.)",
+    "source_created": "1991-06-13 00:00:00",
+    "source_modified": "2002-11-09 00:00:00",
+    "subjects": [
+        "Inuit--Arctic regions--Clothing & dress--1900-1910.",
+        "Expedition photographs--1900-1910.",
+        "Group portraits--1900-1910.",
+        "Lantern slides--Hand-colored--1900-1910.",
+        "Portrait photographs--1900-1910."
+    ],
+    "title": "[Two Inuits dressed in animal skins, posed standing full-length, probably assistants to Dr. Cook's expedition to the North Pole]"
+}

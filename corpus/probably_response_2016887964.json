@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-H2- B-102 [P&P]",
+    "collection": [
+        "diof",
+        "flickrmyst18",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-16 00:00:00",
+    "created_published_date": "[between 1923 and 1929]",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/34000/34050r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/34000/34050_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/34000/34050_150px.jpg"
+    },
+    "index": 1091,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016887964/",
+        "resource": "//www.loc.gov/pictures/item/2016887964/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-16 00:00:00",
+    "pk": "2016887964",
+    "reproduction_number": "LC-DIG-hec-34050 (digital file from original negative)",
+    "source_created": "2013-04-04 00:00:00",
+    "source_modified": "2018-01-10 00:00:00",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Glass negatives."
+    ],
+    "title": "[Group of men holding bones, probably connected to \"Bone dry\" support of prohibition; William D. Upshaw, proponent of temperance movement, at right. U.S. Capitol, Washington, D.C.]"
+}

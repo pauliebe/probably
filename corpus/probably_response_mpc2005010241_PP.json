@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-M351- 48001-x [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[approximately 1925 to 1946]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/14900/14996r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/14900/14996_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/14900/14996_150px.jpg"
+    },
+    "index": 256,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005010241/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005010241/PP/resource/"
+    },
+    "medium": "1 transparency : safety film ; 4 x 5 in.",
+    "medium_brief": "1 transparency :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "mpc2005010241/PP",
+    "reproduction_number": "LC-DIG-matpc-14996 (digital file from original photo)",
+    "source_created": "2005-08-02 00:00:00",
+    "source_modified": "2009-06-16 00:00:00",
+    "subjects": [
+        "Boardwalks.",
+        "Beaches.",
+        "Israel--Tel Aviv.",
+        "Gelatin silver film transparencies."
+    ],
+    "title": "[Beach, probably at Tel Aviv]"
+}

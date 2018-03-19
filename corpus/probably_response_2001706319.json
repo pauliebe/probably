@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 12353-9 [item] [P&P]",
+    "collection": [
+        "diof",
+        "npco",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "[1921?]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b00000/3b03000/3b03400/3b03402r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b00000/3b03000/3b03400/3b03402_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b00000/3b03000/3b03400/3b03402_150px.jpg"
+    },
+    "index": 22,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2001706319/",
+        "resource": "//www.loc.gov/pictures/item/2001706319/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2001706319",
+    "reproduction_number": "LC-USZ62-55516 (b&w film copy neg.)",
+    "source_created": "2001-12-27 00:00:00",
+    "source_modified": "2009-10-23 00:00:00",
+    "subjects": [
+        "Photographic prints--1920-1930."
+    ],
+    "title": "Christmas window display at an unidentified Oldsmobile dealer's, probably in Washington, D.C."
+}

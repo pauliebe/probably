@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 11533-C (H) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "ca. 1860-ca. 1922.",
+    "creator": null,
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 462,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004681412/",
+        "resource": null
+    },
+    "medium": "8 albums (218 photoprints) ; 30 x 26 cm.",
+    "medium_brief": "8 albums (218 photoprints) ;",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "2004681412",
+    "reproduction_number": "",
+    "source_created": "2004-12-23 00:00:00",
+    "source_modified": "2005-01-03 00:00:00",
+    "subjects": null,
+    "title": "Gilbert H. Grosvenor collection of photographs of the Alexander Graham Bell family [1] geographic views of sites visited by Alexander Graham Bell, probably between 1860 and 1922."
+}

@@ -1,0 +1,38 @@
+{
+    "call_number": "LC-D418-639 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21 00:00:00",
+    "created_published_date": "1921 April 26.",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a26000/4a26800/4a26850r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a26000/4a26800/4a26850_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a26000/4a26800/4a26850_150px.jpg"
+    },
+    "index": 1000,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016816846/",
+        "resource": "//www.loc.gov/pictures/item/2016816846/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21 00:00:00",
+    "pk": "2016816846",
+    "reproduction_number": "LC-D418-639 (b&w glass neg.)",
+    "source_created": "1994-01-01 00:00:00",
+    "source_modified": "2017-11-03 00:00:00",
+    "subjects": [
+        "Road rollers.",
+        "Road construction.",
+        "United States--Michigan.",
+        "Dry plate negatives.",
+        "Photographic prints--Reproductions."
+    ],
+    "title": "[Austin Mach. Corp. steamroller, probably in Michigan]"
+}

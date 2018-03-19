@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-003450 [P&P] LOT 1918  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16 00:00:00",
+    "created_published_date": "1942 Feb.",
+    "creator": "Rosener, Ann",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8e10000/8e10700/8e10768r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8e10000/8e10700/8e10768_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8e10000/8e10700/8e10768_150px.jpg"
+    },
+    "index": 782,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017691283/",
+        "resource": "//www.loc.gov/pictures/item/2017691283/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16 00:00:00",
+    "pk": "2017691283",
+    "reproduction_number": "LC-DIG-fsa-8e10768 (digital file from original neg.)\nLC-USE6-D-003450 (b&w film nitrate neg.)",
+    "source_created": "2002-01-29 00:00:00",
+    "source_modified": "2017-05-15 00:00:00",
+    "subjects": [
+        "United States.",
+        "Nitrate negatives."
+    ],
+    "title": "You'll probably find new friends during this war, but you may not find a new refrigerator, so keep yours in good condition. To assure best results, arrange food properly, meat and milk closest to freezing unit. Don't overcrowd, as this prevents circulation of air"
+}

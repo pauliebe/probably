@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 11533-22 (J) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "ca. 1860.",
+    "creator": null,
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 464,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004681421/",
+        "resource": null
+    },
+    "medium": "55 slides : lantern, b&w ; 14 x 11 cm. and 8 x 10 cm.",
+    "medium_brief": "55 slides :",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "2004681421",
+    "reproduction_number": "",
+    "source_created": "2004-12-23 00:00:00",
+    "source_modified": "2005-01-03 00:00:00",
+    "subjects": null,
+    "title": "Gilbert H. Grosvenor collection of photographs of the Alexander Graham Bell family [1] Alexander Melville Bell's drawings of human production and reception of sound, probably to illustrate lectures on elocution."
+}

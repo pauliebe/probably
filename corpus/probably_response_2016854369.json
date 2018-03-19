@@ -1,0 +1,33 @@
+{
+    "call_number": "LC-H261- 29626 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2017-12-19 00:00:00",
+    "created_published_date": "[between 1917 and 1919]",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/11300/11329r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/11300/11329_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/11300/11329_150px.jpg"
+    },
+    "index": 1044,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016854369/",
+        "resource": "//www.loc.gov/pictures/item/2016854369/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2017-12-19 00:00:00",
+    "pk": "2016854369",
+    "reproduction_number": "LC-DIG-hec-11329 (digital file from original negative)",
+    "source_created": "2008-12-16 00:00:00",
+    "source_modified": "2017-12-14 00:00:00",
+    "subjects": [
+        "Glass negatives."
+    ],
+    "title": "[Woman holding $50 bonds, probably Liberty Bonds. Engraving and Printing, Bureau of Treasury Dept."
+}

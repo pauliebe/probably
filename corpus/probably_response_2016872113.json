@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22- D-2066 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-09 00:00:00",
+    "created_published_date": "[19]37 August 4.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/23100/23138r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/23100/23138_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/23100/23138_150px.jpg"
+    },
+    "index": 1053,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016872113/",
+        "resource": "//www.loc.gov/pictures/item/2016872113/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-09 00:00:00",
+    "pk": "2016872113",
+    "reproduction_number": "LC-DIG-hec-23138 (digital file from original negative)",
+    "source_created": "2009-04-21 00:00:00",
+    "source_modified": "2018-01-05 00:00:00",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Glass negatives."
+    ],
+    "title": "F.B.I. guard reports in. Washington, D.C., Aug 4. Officer Ray D. Buckingham using a plug-in telephone, which every guard carries as part of his regular equipment, reports to headquarters as he patrol his section of the 7 miles of corridors in the Department of Justice Building. The home of the G-Men is probably the most carefully guarded government building in the Capitol. The aces of the Guard Force are chosen to protect that part of the building which houses the records of Federal Bureau of Investigation, 8/4/37"
+}

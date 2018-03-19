@@ -1,0 +1,40 @@
+{
+    "call_number": "BLOCK, no. 3729 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1-23-[19]55.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/03700/03729_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/03700/03729_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/03700/03729_150px.jpg"
+    },
+    "index": 121,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012632877/",
+        "resource": "//www.loc.gov/pictures/item/2012632877/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "2012632877",
+    "reproduction_number": "LC-DIG-hlb-03729 (digital file from original drawing)",
+    "source_created": "2012-06-21 00:00:00",
+    "source_modified": "2013-03-18 00:00:00",
+    "subjects": [
+        "Eisenhower, Dwight D.--(Dwight David),--1890-1969.",
+        "economic & social conditions",
+        "International relations--Taiwan",
+        "missiles",
+        "taxes",
+        "Domestic policy",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"I said '-- and probably a tax cut next year' \""
+}

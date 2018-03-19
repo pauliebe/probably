@@ -1,0 +1,35 @@
+{
+    "call_number": "ADE 11 - Gilbert, no. 356 (A size)  <P&P> [P&P]",
+    "collection": [
+        "ade",
+        "pp"
+    ],
+    "created": "2016-04-20 00:00:00",
+    "created_published_date": "1933 June 13.",
+    "creator": "Gilbert, Cass, 1859-1934",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b39000/3b39400/3b39415_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b39000/3b39400/3b39415_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b39000/3b39400/3b39415_150px.jpg"
+    },
+    "index": 224,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ade1997000460/",
+        "resource": "//www.loc.gov/pictures/item/ade1997000460/resource/"
+    },
+    "medium": "1 drawing : graphite and color wash.",
+    "medium_brief": "1 drawing :",
+    "modified": "2016-04-20 00:00:00",
+    "pk": "ade1997000460",
+    "reproduction_number": "LC-USZ62-93209 (b&w film copy neg.)",
+    "source_created": "1997-09-05 00:00:00",
+    "source_modified": "2005-08-26 00:00:00",
+    "subjects": [
+        "Urns--Italy--Rome--1930-1940.",
+        "Vases--1930-1940.",
+        "Drawings--1930-1940.",
+        "Travel sketches--1930-1940."
+    ],
+    "title": "[Double-handled urn, detail of urn pedestal, and two kylix kraters in the Vatican Palace, probably in the Etruscan Museum, Rome]"
+}

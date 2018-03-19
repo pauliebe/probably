@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 4373 (G) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21 00:00:00",
+    "created_published_date": "18--",
+    "creator": null,
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 482,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005688820/",
+        "resource": null
+    },
+    "medium": "ca. 75 prints.",
+    "medium_brief": "ca. 75 prints.",
+    "modified": "2016-06-17 00:00:00",
+    "pk": "2005688820",
+    "reproduction_number": "",
+    "source_created": "2005-08-08 00:00:00",
+    "source_modified": "2011-10-19 00:00:00",
+    "subjects": null,
+    "title": "Original engravings, probably illustrations, by 19th century engravers"
+}

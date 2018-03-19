@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 9593 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp",
+        "reconref"
+    ],
+    "created": "2017-12-12 00:00:00",
+    "created_published_date": "[ca. 18-]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b20000/3b22000/3b22800/3b22895_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b20000/3b22000/3b22800/3b22895_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b20000/3b22000/3b22800/3b22895_150px.jpg"
+    },
+    "index": 1035,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2002697817/",
+        "resource": "//www.loc.gov/pictures/item/2002697817/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2017-12-12 00:00:00",
+    "pk": "2002697817",
+    "reproduction_number": "LC-USZ62-75697 (b&w film copy neg.)",
+    "source_created": "2002-01-23 00:00:00",
+    "source_modified": "2017-12-06 00:00:00",
+    "subjects": null,
+    "title": "[An execution by hanging, probably in Panama]"
+}
