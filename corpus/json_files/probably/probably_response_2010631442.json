@@ -1,0 +1,31 @@
+{
+    "call_number": "Unprocessed in PR 06 CN 645 [P&P]",
+    "collection": [
+        "iuc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1865 and 1866, printed later]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 107,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010631442/",
+        "resource": null
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010631442",
+    "reproduction_number": "",
+    "source_created": "2010-03-12T00:00:00Z",
+    "source_modified": "2012-11-06T00:00:00Z",
+    "subjects": null,
+    "title": "[Col. Benton Halstead and his staff of the 179 Ohio Volunteer Infantry, probably taken in Washington, DC, between Aug. 1865 and June 1866]"
+}

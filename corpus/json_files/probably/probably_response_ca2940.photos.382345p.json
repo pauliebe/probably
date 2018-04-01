@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER CAL,15-BORON.V,2G--1",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca2900/ca2940/photos/382345pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2900/ca2940/photos/382345p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2900/ca2940/photos/382345p_150px.jpg"
+    },
+    "index": 578,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca2940.photos.382345p/",
+        "resource": "//www.loc.gov/pictures/item/ca2940.photos.382345p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "ca2940.photos.382345p",
+    "reproduction_number": "HAER CAL,15-BORON.V,2G--1",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "Credit USAF. Original housed in the Photograph Files, AFFTC/HO, Edwards AFB, California. View of Motor Repair Shop (originally  T-16), probably shortly after completion in 1943 - Edwards Air Force Base, North Base, Motor Repair Shop T-16, Third & C Streets, Boron, Kern County, CA"
+}

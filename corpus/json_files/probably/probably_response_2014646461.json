@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-E10- 480000-A-19 [P&P]",
+    "collection": [
+        "cph",
+        "eam",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "ca. 1948.",
+    "creator": "Eames, Ray",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/05400/05407_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/05400/05407_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/05400/05407_150px.jpg"
+    },
+    "index": 134,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014646461/",
+        "resource": "//www.loc.gov/pictures/item/2014646461/resource/"
+    },
+    "medium": "1 negative : safety film ; 35mm.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2014646461",
+    "reproduction_number": "LC-DIG-ds-05407 (digital file from original negative)",
+    "source_created": "2014-05-07T00:00:00Z",
+    "source_modified": "2015-03-02T00:00:00Z",
+    "subjects": [
+        "Eames, Charles.",
+        "Jumping--California--1940-1950.",
+        "Portrait photographs--1940-1950.",
+        "Safety film negatives--1940-1950."
+    ],
+    "title": "[Charles Eames jumping in the air, probably in California]"
+}

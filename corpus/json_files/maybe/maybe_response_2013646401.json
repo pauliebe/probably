@@ -1,0 +1,36 @@
+{
+    "call_number": "NYWTS - SUBJ/GEOG--Cheerleaders [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1937 Oct. 4.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/03700/03717_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/03700/03717_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/03700/03717_150px.jpg"
+    },
+    "index": 89,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2013646401/",
+        "resource": "//www.loc.gov/pictures/item/2013646401/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2013646401",
+    "reproduction_number": "LC-DIG-ds-03717 (digital file from original photograph)",
+    "source_created": "2013-03-26T00:00:00Z",
+    "source_modified": "2013-03-26T00:00:00Z",
+    "subjects": [
+        "Louisiana State University (Baton Rouge, La.)",
+        "Cheerleading--Louisiana--Baton Rouge--1930-1940.",
+        "Football--Louisiana--Baton Rouge--1930-1940.",
+        "Night photographs--1930-1940.",
+        "Photographic prints--1930-1940."
+    ],
+    "title": "I'd die (of pneumonia maybe) for old siwash"
+}

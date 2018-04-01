@@ -1,0 +1,38 @@
+{
+    "call_number": "LOT 12353-9 <item> [P&P]",
+    "collection": [
+        "ammem",
+        "cool",
+        "diof",
+        "npco",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1909 and 1932]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c10000/3c11000/3c11300/3c11334r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c10000/3c11000/3c11300/3c11334_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c10000/3c11000/3c11300/3c11334_150px.jpg"
+    },
+    "index": 200,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/94507463/",
+        "resource": "//www.loc.gov/pictures/item/94507463/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "94507463",
+    "reproduction_number": "LC-USZ62-111334 (b&w film copy neg.)",
+    "source_created": "1994-08-01T00:00:00Z",
+    "source_modified": "2009-11-06T00:00:00Z",
+    "subjects": [
+        "Vacuum cleaners--1900-1940.",
+        "Merchandise displays--Washington (D.C.)--1900-1940.",
+        "Window displays--Washington (D.C.)--1900-1940.",
+        "Photographic prints--1900-1940."
+    ],
+    "title": "[Vacuum cleaners on display at the J.C. Harding & Co. store, probably in Washington, D.C.]"
+}

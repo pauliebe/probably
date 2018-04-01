@@ -1,0 +1,38 @@
+{
+    "call_number": "POS 6 - Italy, no. 5 (C size) [P&P]",
+    "collection": [
+        "pp",
+        "yan"
+    ],
+    "created": "2017-06-06T00:00:00Z",
+    "created_published_date": "1977.",
+    "creator": "Forattini, Giorgio",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/yan/1a37000/1a37000/1a37069_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/yan/1a37000/1a37000/1a37069_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/yan/1a37000/1a37000/1a37069_150px.jpg"
+    },
+    "index": 756,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017649427/",
+        "resource": "//www.loc.gov/pictures/item/2017649427/resource/"
+    },
+    "medium": "1 print ; (poster format)",
+    "medium_brief": "1 print ;",
+    "modified": "2017-06-06T00:00:00Z",
+    "pk": "2017649427",
+    "reproduction_number": "",
+    "source_created": "2017-03-30T00:00:00Z",
+    "source_modified": "2017-03-30T00:00:00Z",
+    "subjects": [
+        "Bottles--1970-1980.",
+        "Political elections--1970-1980.",
+        "Italy.",
+        "Cartoons (Commentary)--1970-1980.",
+        "Emblems--1970-1980.",
+        "Posters--Italian--1970-1980.",
+        "Prints--1970-1980."
+    ],
+    "title": "[Man, probably Italian political figure, holding police truncheon as cork in bottle labeled \"12 Maggio\" with emblem of a socialist party inside]"
+}

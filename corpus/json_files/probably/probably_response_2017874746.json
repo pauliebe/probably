@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW33- 053759-ZC [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-24T00:00:00Z",
+    "created_published_date": "1943 or 1944?",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8e02000/8e02400/8e02406r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8e02000/8e02400/8e02406_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8e02000/8e02400/8e02406_150px.jpg"
+    },
+    "index": 875,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017874746/",
+        "resource": "//www.loc.gov/pictures/item/2017874746/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-24T00:00:00Z",
+    "pk": "2017874746",
+    "reproduction_number": "LC-USW33-053759-ZC (b&w film neg.)",
+    "source_created": "2001-08-20T00:00:00Z",
+    "source_modified": "2017-10-18T00:00:00Z",
+    "subjects": [
+        "United States--Alaska--Nome Census Area--Nome.",
+        "Safety film negatives."
+    ],
+    "title": "Nome, Alaska. A wrecked plane, probably at the Alaska wing base of the Air Transport Command"
+}

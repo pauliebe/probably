@@ -1,0 +1,40 @@
+{
+    "call_number": "CD 1 - Marcus, no. 200a (B size)",
+    "collection": [
+        "3rights",
+        "acd",
+        "acr",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-12-19T00:00:00Z",
+    "created_published_date": "1933 Oct. 29.",
+    "creator": "Marcus, Edwin, 1885-1961",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/acd/2a10000/2a10500/2a10502_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/acd/2a10000/2a10500/2a10502_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/acd/2a10000/2a10500/2a10502_150px.jpg"
+    },
+    "index": 202,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016683670/",
+        "resource": "//www.loc.gov/pictures/item/2016683670/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2017-12-19T00:00:00Z",
+    "pk": "2016683670",
+    "reproduction_number": "LC-USZ62-127098 (b&w film copy neg.)",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2017-12-13T00:00:00Z",
+    "subjects": [
+        "Roosevelt, Franklin D.--(Franklin Delano),--1882-1945.",
+        "Government spending policy--United States--1930-1940.",
+        "New Deal, 1933-1939.",
+        "Physicians--1930-1940.",
+        "Drawings.",
+        "Editorial cartoons--American."
+    ],
+    "title": "Maybe.  Doctor -- This should make you feel less \"jumpy.\""
+}

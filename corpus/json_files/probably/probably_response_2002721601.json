@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 2488 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[ca. 1937]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3a40000/3a43000/3a43800/3a43854_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3a40000/3a43000/3a43800/3a43854_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3a40000/3a43000/3a43800/3a43854_150px.jpg"
+    },
+    "index": 28,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2002721601/",
+        "resource": "//www.loc.gov/pictures/item/2002721601/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2002721601",
+    "reproduction_number": "LC-USZ62-43610 (b&w film copy neg.)",
+    "source_created": "2002-09-26T00:00:00Z",
+    "source_modified": "2005-11-16T00:00:00Z",
+    "subjects": null,
+    "title": "[Site model for unidentified Nazi complex, probably intended for party rallies and designed by Albert Speer]"
+}

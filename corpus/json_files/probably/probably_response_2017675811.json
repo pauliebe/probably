@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-A6196- 55715 [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-02-28T00:00:00Z",
+    "created_published_date": "November 1918.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/10000/10049r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/10000/10049_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/10000/10049_150px.jpg"
+    },
+    "index": 514,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017675811/",
+        "resource": "//www.loc.gov/pictures/item/2017675811/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-02-28T00:00:00Z",
+    "pk": "2017675811",
+    "reproduction_number": "LC-DIG-anrc-10049 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-02-23T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "Wales.",
+        "Glass negatives."
+    ],
+    "title": "Grog-y-nog, one of the most beautiful country estates in Wales, has been offered to the American Red Cross for use as a convalescent home for American soldiers by its owner, Major David Davies, a wealthy Welsh member of the House of Commons. \"The house is offered\", writes Major Davies, \"as a small tribute for the noble efforts which your countryman are making to advance the cause of liberty and progress in the world. Thousands of my fellow-Welshmen have emigrated to the United States and probably your soldiers of Welsh extraction would like to spend their convalescence in the country of their forefathers\""
+}

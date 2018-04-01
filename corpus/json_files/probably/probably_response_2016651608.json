@@ -1,0 +1,36 @@
+{
+    "call_number": "LOOK - Job 55-6001-C [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-09-27T00:00:00Z",
+    "created_published_date": "55 May 23 [23 May 1955]",
+    "creator": "Theisen, Earl",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/09700/09730_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/09700/09730_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/09700/09730_150px.jpg"
+    },
+    "index": 471,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016651608/",
+        "resource": "//www.loc.gov/pictures/item/2016651608/resource/"
+    },
+    "medium": "25 photographs on contact sheet : gelatin silver print ; image 4 x 3 cm, sheet 26 x 21 cm (8 x 10 format).",
+    "medium_brief": "25 photographs on contact sheet :",
+    "modified": "2016-09-27T00:00:00Z",
+    "pk": "2016651608",
+    "reproduction_number": "LC-DIG-ds-09730 (digital file from original)",
+    "source_created": "2016-09-21T00:00:00Z",
+    "source_modified": "2016-09-21T00:00:00Z",
+    "subjects": [
+        "Disney, Walt,--1901-1966.",
+        "Scott, Dolores Voght,--1897-1981.",
+        "Walt Disney Productions--People--California--1950-1960.",
+        "Contact sheets--1950-1960.",
+        "Photographic prints--1950-1960."
+    ],
+    "title": "[Walt Disney in office with secretary, probably Dolores Voght Scott, and unidentified man]"
+}

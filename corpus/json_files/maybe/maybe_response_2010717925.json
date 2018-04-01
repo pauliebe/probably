@@ -1,0 +1,41 @@
+{
+    "call_number": "CAI - Sloan, no. 8 (C size) [P&P]",
+    "collection": [
+        "00",
+        "007",
+        "cai",
+        "exh",
+        "l5050",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1914.",
+    "creator": "Sloan, John, 1871-1951",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cai/2a14000/2a14600/2a14692_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cai/2a14000/2a14600/2a14692_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cai/2a14000/2a14600/2a14692_150px.jpg"
+    },
+    "index": 19,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010717925/",
+        "resource": "//www.loc.gov/pictures/item/2010717925/resource/"
+    },
+    "medium": "1 drawing : charcoal and crayon ; sheet 32.7 x 49.6 cm.",
+    "medium_brief": "1 drawing :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010717925",
+    "reproduction_number": "LC-DIG-cai-2a14692 (digital file from original drawing)\nLC-USZC2-567 (color film copy slide)\nLC-USZC4-12974 (color film copy transparency)\nLC-USZ62-82853 (b&w film copy neg.)",
+    "source_created": "2006-01-23T00:00:00Z",
+    "source_modified": "2015-07-06T00:00:00Z",
+    "subjects": [
+        "World War, 1914-1918.",
+        "Soldiers.",
+        "War casualties.",
+        "Cartoons (Commentary)",
+        "Drawings--American."
+    ],
+    "title": "After the war, a medal and maybe a job"
+}

@@ -1,0 +1,38 @@
+{
+    "call_number": "BLOCK, no. 13231 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "6/20/1996.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/13200/13231_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/13200/13231_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/13200/13231_150px.jpg"
+    },
+    "index": 133,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012643661/",
+        "resource": "//www.loc.gov/pictures/item/2012643661/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012643661",
+    "reproduction_number": "LC-DIG-hlb-13231 (digital file from original drawing)",
+    "source_created": "2012-11-19T00:00:00Z",
+    "source_modified": "2015-06-12T00:00:00Z",
+    "subjects": [
+        "United States.--Department of Transportation.",
+        "United States.--Federal Aviation Administration.",
+        "Aircraft accidents",
+        "Cheerleading",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"On second thought, maybe everything was not completely dandy\""
+}

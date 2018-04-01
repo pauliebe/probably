@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-DIG-highsm- 39025 (ONLINE) [P&P]",
+    "collection": [
+        "diof",
+        "highsm",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-03-21T00:00:00Z",
+    "created_published_date": "2016-06-10.",
+    "creator": "Highsmith, Carol M., 1946-",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/highsm/39000/39025r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/highsm/39000/39025_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/highsm/39000/39025_150px.jpg"
+    },
+    "index": 531,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017688917/",
+        "resource": "//www.loc.gov/pictures/item/2017688917/resource/"
+    },
+    "medium": "1 photograph : digital, tiff file, color.",
+    "medium_brief": "1 photograph :",
+    "modified": "2017-03-21T00:00:00Z",
+    "pk": "2017688917",
+    "reproduction_number": "LC-DIG-highsm-39025 (original digital file)",
+    "source_created": "2017-02-14T00:00:00Z",
+    "source_modified": "2017-03-17T00:00:00Z",
+    "subjects": [
+        "United States--Colorado--Cheyenne County--Aroya.",
+        "America",
+        "Old schoolhouses",
+        "Digital photographs--Color--2010-2020."
+    ],
+    "title": "Abandoned one-room schoolhouse in a mostly abandoned town: Aroya, in Cheyenne County, Colorado. The name \"Arroyo\", the Spanish word for \"gulch,\" appears on some older maps. Aroya, probably a corruption of the Spanish, originated in 1870 three miles west of the present site as a camp for Kansas-Pacific Railroad track-layers, but was moved to the present site because there was a better supply of water. The schoolhouse was in use until the early 1960s"
+}

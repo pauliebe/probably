@@ -1,0 +1,39 @@
+{
+    "call_number": "BLOCK, no. 13584 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "6/5/1998.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/13500/13584_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/13500/13584_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/13500/13584_150px.jpg"
+    },
+    "index": 134,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012643981/",
+        "resource": "//www.loc.gov/pictures/item/2012643981/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012643981",
+    "reproduction_number": "LC-DIG-hlb-13584 (digital file from original drawing)",
+    "source_created": "2012-11-19T00:00:00Z",
+    "source_modified": "2015-06-19T00:00:00Z",
+    "subjects": [
+        "United States.--Congress.--Senate.",
+        "Comprehensive Nuclear-Test-Ban Treaty--(1996)",
+        "International relations--United States",
+        "International relations--India",
+        "International relations--Pakistan",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Damn shame about India and Pakistan -- maybe we should approve that nuclear test ban treaty ourselves\""
+}

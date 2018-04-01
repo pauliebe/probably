@@ -1,0 +1,38 @@
+{
+    "call_number": "SSF - Emigration and Immigration -- Ellis Island, N.Y. -- 1906 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "c1906.",
+    "creator": "Underwood & Underwood",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3a20000/3a23000/3a23400/3a23424r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3a20000/3a23000/3a23400/3a23424_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3a20000/3a23000/3a23400/3a23424_150px.jpg"
+    },
+    "index": 379,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012646352/",
+        "resource": "//www.loc.gov/pictures/item/2012646352/resource/"
+    },
+    "medium": "1 photographic print : stereograph, unmounted.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012646352",
+    "reproduction_number": "LC-USZ62-22341 (b&w film copy neg.)",
+    "source_created": "2012-03-06T00:00:00Z",
+    "source_modified": "2012-04-11T00:00:00Z",
+    "subjects": [
+        "Ellis Island Immigration Station (N.Y. and N.J.)--1900-1910.",
+        "Emigration & immigration--Ellis Island (N.J. and N.Y.)--1900-1910.",
+        "Immigrants--Ellis Island (N.J. and N.Y.)--1900-1910.",
+        "Immigration stations--Ellis Island (N.J. and N.Y.)--1900-1910.",
+        "Photographic prints--1900-1910.",
+        "Stereographs--1900-1910."
+    ],
+    "title": "[Emigrants in \"pens\" at Ellis Island, New York, probably on or near Christmas --note the decorations]"
+}

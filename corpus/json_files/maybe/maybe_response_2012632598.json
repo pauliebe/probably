@@ -1,0 +1,38 @@
+{
+    "call_number": "BLOCK, no. 3012 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "4-24-[19]52.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/03000/03012_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/03000/03012_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/03000/03012_150px.jpg"
+    },
+    "index": 103,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012632598/",
+        "resource": "//www.loc.gov/pictures/item/2012632598/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012632598",
+    "reproduction_number": "LC-DIG-hlb-03012 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2013-03-19T00:00:00Z",
+    "subjects": [
+        "United States.--Federal Corrupt Practices Act, 1925.",
+        "Political campaign funds",
+        "Police",
+        "automobiles",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe we ought to get a new model\""
+}

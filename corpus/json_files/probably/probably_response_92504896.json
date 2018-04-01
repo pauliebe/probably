@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 2356 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[between 1939 and 1945]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c00000/3c05000/3c05000/3c05057_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c00000/3c05000/3c05000/3c05057_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c00000/3c05000/3c05000/3c05057_150px.jpg"
+    },
+    "index": 427,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/92504896/",
+        "resource": "//www.loc.gov/pictures/item/92504896/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "92504896",
+    "reproduction_number": "LC-USZ62-105057 (b&w film copy neg.)",
+    "source_created": "1992-02-20T00:00:00Z",
+    "source_modified": "2008-09-02T00:00:00Z",
+    "subjects": [
+        "War damage--Poland--Warsaw--1930-1940.",
+        "World War, 1939-1945--Destruction & pillage--Poland--Warsaw.",
+        "Photographic prints--1930-1940."
+    ],
+    "title": "[Ruins of buildings after bombing, probably Warsaw, Poland]"
+}

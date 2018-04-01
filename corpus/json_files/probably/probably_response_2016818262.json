@@ -1,0 +1,38 @@
+{
+    "call_number": "LC-D419-145 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1910 and 1930]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a27000/4a27700/4a27794r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a27000/4a27700/4a27794_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a27000/4a27700/4a27794_150px.jpg"
+    },
+    "index": 986,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016818262/",
+        "resource": "//www.loc.gov/pictures/item/2016818262/resource/"
+    },
+    "medium": "1 negative : glass ; 7 x 5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016818262",
+    "reproduction_number": "LC-D419-145 (b&w glass neg.)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-03T00:00:00Z",
+    "subjects": [
+        "Men.",
+        "Dead persons.",
+        "Cabinet card photographs--Reproductions.",
+        "Dry plate negatives.",
+        "Portraits."
+    ],
+    "title": "[Head of a man framed by foliage, probably a post-mortem portrait]"
+}

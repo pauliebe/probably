@@ -1,0 +1,31 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1989:204 [P&P]",
+    "collection": [
+        "iuc",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-11-28T00:00:00Z",
+    "created_published_date": "[between 1700 and 1800]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 991,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010633603/",
+        "resource": null
+    },
+    "medium": "3 items.",
+    "medium_brief": "3 items.",
+    "modified": "2017-11-28T00:00:00Z",
+    "pk": "2010633603",
+    "reproduction_number": "",
+    "source_created": "2010-03-12T00:00:00Z",
+    "source_modified": "2017-11-15T00:00:00Z",
+    "subjects": null,
+    "title": "[Hold-to-light works, probably all Dutch, of views of northern European port cities, includes \"Vue du gracht [canal] du Bois \u00e0 la Hage\"; view of a Dutch, German, or Belgian port city; view of harbor with fleet, possibly a siege or blockade]"
+}

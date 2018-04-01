@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22-D- 9145 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-17T00:00:00Z",
+    "created_published_date": "[19]40 June 11.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/28700/28787r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/28700/28787_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/28700/28787_150px.jpg"
+    },
+    "index": 1037,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016877733/",
+        "resource": "//www.loc.gov/pictures/item/2016877733/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-17T00:00:00Z",
+    "pk": "2016877733",
+    "reproduction_number": "LC-DIG-hec-28787 (digital file from original negative)",
+    "source_created": "2009-07-15T00:00:00Z",
+    "source_modified": "2018-01-09T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.).",
+        "Glass negatives."
+    ],
+    "title": "French manufacturer talks tanks with President Roosevelt. Washington, D.C., June 11. Louis Renault, prominent French auto manufacturer, leaving the White House today after a conference with President Roosevelt on war material production. Renault said he was interested chiefly in mass production of tanks, and his discussion with Mr. Roosevelt was a prelude to conferences during the next few days with leading American industrialists. His interpreter said he would probably see William S. Knudsen and Henry Ford"
+}

@@ -1,0 +1,44 @@
+{
+    "call_number": "BLOCK, no. 7868 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "10/7/1971.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 65,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012638582/",
+        "resource": null
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012638582",
+    "reproduction_number": "",
+    "source_created": "2012-11-19T00:00:00Z",
+    "source_modified": "2014-01-14T00:00:00Z",
+    "subjects": [
+        "Kissinger, Henry,--1923-",
+        "Mao, Zedong,--1893-1976.",
+        "Nixon, Richard M.--(Richard Milhous),--1913-1994.",
+        "Nixon, Richard M.--(Richard Milhous),--1913-1994.",
+        "Zhou, Enlai,--1898-1976.",
+        "China.",
+        "Portraits",
+        "offices",
+        "Telephones",
+        "international relations",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"When Kissinger gets here, maybe we can find out what's going on in Washington\""
+}

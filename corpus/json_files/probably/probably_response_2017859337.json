@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW3- 034306-C [P&P] LOT 752 (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-17T00:00:00Z",
+    "created_published_date": "1943 June.",
+    "creator": "Parks, Gordon, 1912-2006",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8d39000/8d39800/8d39806r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8d39000/8d39800/8d39806_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8d39000/8d39800/8d39806_150px.jpg"
+    },
+    "index": 853,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017859337/",
+        "resource": "//www.loc.gov/pictures/item/2017859337/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-17T00:00:00Z",
+    "pk": "2017859337",
+    "reproduction_number": "LC-USW3-034306-C (b&w film neg.)",
+    "source_created": "2001-08-07T00:00:00Z",
+    "source_modified": "2017-10-11T00:00:00Z",
+    "subjects": [
+        "United States--Connecticut--Hartford County--New Britain.",
+        "Safety film negatives."
+    ],
+    "title": "New Britain, Connecticut. An inspector at the Fafnir Bearing Company inspecting large roller bearing which will probably end up in an Army tank"
+}

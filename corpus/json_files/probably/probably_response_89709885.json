@@ -1,0 +1,35 @@
+{
+    "call_number": "BIOG FILE <item> [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1889 and 1893]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b40000/3b43000/3b43000/3b43002r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b40000/3b43000/3b43000/3b43002_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b40000/3b43000/3b43000/3b43002_150px.jpg"
+    },
+    "index": 182,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/89709885/",
+        "resource": "//www.loc.gov/pictures/item/89709885/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "89709885",
+    "reproduction_number": "LC-USZ62-96900 (b&w film copy neg.)",
+    "source_created": "1989-05-22T00:00:00Z",
+    "source_modified": "2004-07-13T00:00:00Z",
+    "subjects": [
+        "Tracy, Benjamin F.--(Benjamin Franklin),--1830-1915.",
+        "Photographic prints--1880-1900.",
+        "Portrait photographs--1880-1900."
+    ],
+    "title": "[Benjamin Franklin Tracy, three-quarter length portrait, standing by desk, left profile, probably taken while Secretary of the Navy]"
+}

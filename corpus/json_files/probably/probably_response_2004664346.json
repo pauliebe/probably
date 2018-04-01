@@ -1,0 +1,42 @@
+{
+    "call_number": "DAG no. 1067",
+    "collection": [
+        "ammem",
+        "dag",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-12-26T00:00:00Z",
+    "created_published_date": "[between 1850 and 1851]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/51800/51815r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/51800/51815_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/51800/51815_150px.jpg"
+    },
+    "index": 1005,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004664346/",
+        "resource": "//www.loc.gov/pictures/item/2004664346/resource/"
+    },
+    "medium": "1 photograph : sixth plate daguerreotype.",
+    "medium_brief": "1 photograph :",
+    "modified": "2017-12-26T00:00:00Z",
+    "pk": "2004664346",
+    "reproduction_number": "LC-DIG-ppmsca-51815 (digital file from original)\nLC-USZC4-3599 (color film copy transparency post-1992)\nLC-USZ6-1965 (b&w film copy neg. post-1992)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-12-20T00:00:00Z",
+    "subjects": [
+        "Meigs, Montgomery C.--(Montgomery Cunningham),--1816-1892--Family.",
+        "Meigs, Charles Delucena,--1845-1853.",
+        "Meigs, John Rodgers,--1842-1864.",
+        "Taylor, Mary Montgomery Meigs,--1843-1885.",
+        "Meigs, Montgomery,--1847-1931.",
+        "Children--1850-1860.",
+        "Daguerreotypes--1850-1860.",
+        "Portrait photographs--1850-1860."
+    ],
+    "title": "[Children of Lt. Montgomery C. Meigs, in donkey cart with dog, probably Mary Montgomery, Charles, Montgomery, and John Rodgers]"
+}

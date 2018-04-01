@@ -1,0 +1,36 @@
+{
+    "call_number": "NYWTS - SUBJ/GEOG--Art--Rivera, Diego [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "12/14/31 [14 December 1931]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/08000/08079_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/08000/08079_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/08000/08079_150px.jpg"
+    },
+    "index": 413,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2015650852/",
+        "resource": "//www.loc.gov/pictures/item/2015650852/resource/"
+    },
+    "medium": "1 photograph : gelatin silver print ; 26 x 21 cm (8 x 10 in. format)",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2015650852",
+    "reproduction_number": "LC-DIG-ds-08079 (digital file from original item)",
+    "source_created": "2015-11-24T00:00:00Z",
+    "source_modified": "2015-11-24T00:00:00Z",
+    "subjects": [
+        "Rivera, Diego,--1886-1957--Exhibitions--New York (State)--New York.",
+        "Museum of Modern Art (New York, N.Y.)--Exhibitions & displays--1930-1940.",
+        "Murals--New York (State)--New York--1930-1940.",
+        "Photographic prints--1930-1940.",
+        "Publicity photographs--1930-1940."
+    ],
+    "title": "Artist prepared for exhibit Probably the foremost living master of fresco painting today, Diego Rivera, famous Mexican artist, is seen above working on one of his paintings at the Museum of Modern Art in New York."
+}

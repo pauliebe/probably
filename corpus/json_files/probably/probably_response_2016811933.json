@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-D4-42840 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1900 and 1910]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a20000/4a20500/4a20501r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a20000/4a20500/4a20501_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a20000/4a20500/4a20501_150px.jpg"
+    },
+    "index": 912,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016811933/",
+        "resource": "//www.loc.gov/pictures/item/2016811933/resource/"
+    },
+    "medium": "1 negative : glass ; 8 x 10 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016811933",
+    "reproduction_number": "LC-DIG-det-4a20501 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-02T00:00:00Z",
+    "subjects": [
+        "Waterfronts.",
+        "United States--Michigan--Ypsilanti.",
+        "Dry plate negatives."
+    ],
+    "title": "[Waterscape with dwellings at right, probably the Huron River at Ypsilanti, Mich.]"
+}

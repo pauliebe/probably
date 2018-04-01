@@ -1,0 +1,36 @@
+{
+    "call_number": "LOT 13095, no. 8 <item> [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1921]",
+    "creator": "Alvin C. Krupnick Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c00000/3c05000/3c05500/3c05583r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c00000/3c05000/3c05500/3c05583_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c00000/3c05000/3c05500/3c05583_150px.jpg"
+    },
+    "index": 195,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/93501250/",
+        "resource": "//www.loc.gov/pictures/item/93501250/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "93501250",
+    "reproduction_number": "LC-USZ62-105583 (b&w film copy neg.)",
+    "source_created": "1993-01-25T00:00:00Z",
+    "source_modified": "2015-10-23T00:00:00Z",
+    "subjects": [
+        "Race riots--Oklahoma--Tulsa--1920-1930.",
+        "Evictions--Oklahoma--Tulsa--1920-1930.",
+        "African Americans--Civil rights--Oklahoma--Tulsa--1920-1930.",
+        "Photographic prints--1920-1930."
+    ],
+    "title": "[Furniture in street during race riot, probably due to eviction, Tulsa, Oklahoma, 1921]"
+}

@@ -1,0 +1,39 @@
+{
+    "call_number": "BLOCK, no. 3836 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "7-10-[19]55.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/03800/03836_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/03800/03836_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/03800/03836_150px.jpg"
+    },
+    "index": 33,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012633411/",
+        "resource": "//www.loc.gov/pictures/item/2012633411/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012633411",
+    "reproduction_number": "LC-DIG-hlb-03836 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2013-03-21T00:00:00Z",
+    "subjects": [
+        "Republican Party (U.S. : 1854- )",
+        "Construction",
+        "Dixon-Yates Controversy, 1954",
+        "Digging",
+        "Republican elephant (Symbolic character)",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Wait a minute, fellows -- maybe we'll just bury it\""
+}

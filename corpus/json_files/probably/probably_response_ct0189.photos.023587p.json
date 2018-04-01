@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS CONN,3-WAT,2--1",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ct/ct0100/ct0189/photos/023587pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ct/ct0100/ct0189/photos/023587p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ct/ct0100/ct0189/photos/023587p_150px.jpg"
+    },
+    "index": 649,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ct0189.photos.023587p/",
+        "resource": "//www.loc.gov/pictures/item/ct0189.photos.023587p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-17T00:00:00Z",
+    "pk": "ct0189.photos.023587p",
+    "reproduction_number": "HABS CONN,3-WAT,2--1",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-17T00:00:00Z",
+    "subjects": null,
+    "title": "1.  Historic American Buildings Survey (Fed.) Stanley P. Mixon, Photographer Sept. 6, 1940 (A) HOUSE AT GREEN AND DEFOREST STREET, ENTRANCE AND CIRCULAR PORCH (The latter probably a recent addition) - Green & De Forest Streets (House), Watertown, Litchfield County, CT"
+}

@@ -1,0 +1,36 @@
+{
+    "call_number": "CD 1 - Kirby, no. 397 (B size)",
+    "collection": [
+        "acd",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "1942 Feb. 2.",
+    "creator": "Kirby, Rollin, 1875-1952",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 159,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016683023/",
+        "resource": null
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016683023",
+    "reproduction_number": "",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-08-04T00:00:00Z",
+    "subjects": [
+        "Hitler, Adolf,--1889-1945.",
+        "World War, 1939-1945--Campaigns & battles--German--Soviet Union.",
+        "Drawings.",
+        "Editorial cartoons--American."
+    ],
+    "title": "Maybe the Russian soldier had something to do with it"
+}

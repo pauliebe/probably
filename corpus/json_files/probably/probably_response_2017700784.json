@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE613- D-010558 [P&P] LOT 1937  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-23T00:00:00Z",
+    "created_published_date": "1942 Aug.",
+    "creator": "United States. Office for Emergency Management.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b13000/8b13100/8b13115r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b13000/8b13100/8b13115_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b13000/8b13100/8b13115_150px.jpg"
+    },
+    "index": 752,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017700784/",
+        "resource": "//www.loc.gov/pictures/item/2017700784/resource/"
+    },
+    "medium": "1 negative : safety ; 5 x 7 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-23T00:00:00Z",
+    "pk": "2017700784",
+    "reproduction_number": "LC-USE613-D-010558 (b&w film neg.)",
+    "source_created": "2002-02-12T00:00:00Z",
+    "source_modified": "2017-05-17T00:00:00Z",
+    "subjects": [
+        "United States--Kentucky--Boyd  County--Ashland.",
+        "Safety film negatives."
+    ],
+    "title": "Ashland, Kentucky. A scrap pile where iron has been collected for national defense, showing a small boy contributing something, probably a toy"
+}

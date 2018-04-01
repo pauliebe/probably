@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22-D- 6340 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-17T00:00:00Z",
+    "created_published_date": "[19]39 April 14.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/26400/26483r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/26400/26483_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/26400/26483_150px.jpg"
+    },
+    "index": 205,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016875440/",
+        "resource": "//www.loc.gov/pictures/item/2016875440/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-17T00:00:00Z",
+    "pk": "2016875440",
+    "reproduction_number": "LC-DIG-hec-26483 (digital file from original negative)",
+    "source_created": "2009-05-27T00:00:00Z",
+    "source_modified": "2018-01-09T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.).",
+        "Glass negatives."
+    ],
+    "title": "Freshman Senator learns from old timer. Washington, D.C., April 14. During a lull at the meeting of the Senate Foreign Relations Committee yesterday, California's Hiram Johnson took time to answer a few Questions on Senatorial procedure put to him by Florida's new Senator, Claude Pepper. Or maybe they are patching up the long standing Florida-California feud over weather and climate, 4-14-39"
+}

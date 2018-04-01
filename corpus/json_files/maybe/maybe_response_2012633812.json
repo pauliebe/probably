@@ -1,0 +1,38 @@
+{
+    "call_number": "BLOCK, no. 4553 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "1-16-[19]58.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/04500/04553_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/04500/04553_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/04500/04553_150px.jpg"
+    },
+    "index": 109,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012633812/",
+        "resource": "//www.loc.gov/pictures/item/2012633812/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012633812",
+    "reproduction_number": "LC-DIG-hlb-04553 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2013-03-20T00:00:00Z",
+    "subjects": [
+        "United States.--Congress.",
+        "taxes",
+        "Public debt",
+        "Uncle Sam (Symbolic character)",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Or maybe you'd rather put in a new floor\""
+}

@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW3- 054246-E [P&P] LOT 1828 (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-24T00:00:00Z",
+    "created_published_date": "1942 Aug.?",
+    "creator": "Liberman, Howard",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8d36000/8d36300/8d36374r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8d36000/8d36300/8d36374_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8d36000/8d36300/8d36374_150px.jpg"
+    },
+    "index": 863,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017866929/",
+        "resource": "//www.loc.gov/pictures/item/2017866929/resource/"
+    },
+    "medium": "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-24T00:00:00Z",
+    "pk": "2017866929",
+    "reproduction_number": "LC-DIG-fsa-8d36374 (digital file from original neg.)\nLC-USW3-054246-E (b&w film nitrate neg.)",
+    "source_created": "2001-08-07T00:00:00Z",
+    "source_modified": "2017-10-17T00:00:00Z",
+    "subjects": [
+        "United States--Virginia.",
+        "Nitrate negatives."
+    ],
+    "title": "Fort Belvoir, Virginia. Four soldiers of the United States Army Engineer Corps paddling a barge, probably for the construction of a bridge"
+}

@@ -1,0 +1,34 @@
+{
+    "call_number": "D070, no. 1149 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp",
+        "rprk"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "4/14/98.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/48100/48148r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/48100/48148_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/48100/48148_150px.jpg"
+    },
+    "index": 174,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2015651467/",
+        "resource": "//www.loc.gov/pictures/item/2015651467/resource/"
+    },
+    "medium": "1 photograph : color print ; sheet 11 x 16 cm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2015651467",
+    "reproduction_number": "LC-DIG-ppmsca-48148 (digital file from original item)",
+    "source_created": "2015-10-13T00:00:00Z",
+    "source_modified": "2015-11-23T00:00:00Z",
+    "subjects": [
+        "Photographic prints--Color--1990-2000."
+    ],
+    "title": "[Children playing in a field, probably in California]"
+}

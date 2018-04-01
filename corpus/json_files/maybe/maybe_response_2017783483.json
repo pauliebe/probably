@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-USF34- 033425-D [P&P] LOT 528  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-22T00:00:00Z",
+    "created_published_date": "1939 June.",
+    "creator": "Lee, Russell, 1903-1986",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b22000/8b22000/8b22050r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b22000/8b22000/8b22050_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b22000/8b22000/8b22050_150px.jpg"
+    },
+    "index": 196,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017783483/",
+        "resource": "//www.loc.gov/pictures/item/2017783483/resource/"
+    },
+    "medium": "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-22T00:00:00Z",
+    "pk": "2017783483",
+    "reproduction_number": "LC-USF34-033425-D (b&w film neg.)",
+    "source_created": "2000-09-15T00:00:00Z",
+    "source_modified": "2017-08-16T00:00:00Z",
+    "subjects": [
+        "United States--Oklahoma--Muskogee County--Webbers Falls.",
+        "Families on WPA--Oklahoma",
+        "Safety film negatives."
+    ],
+    "title": "WPA (Works Progress/Work Projects Administration) worker and his wife sitting in front of their shack home on the Arkansas River near Webbers Falls, Oklahoma. This man said that last year he thought maybe he would be a little better off when he got the WPA work and had a small amount of cash coming in but that he was worse off now. \"Last year I had a cow and some chickens and I had to sell my cow and eat my chickens. I get worse off every year\""
+}

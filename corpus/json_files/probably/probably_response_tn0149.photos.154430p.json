@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS TENN,83-GAL.V,1--21",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18T00:00:00Z",
+    "created_published_date": "1971",
+    "creator": "Boucher, Jack E.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/tn/tn0100/tn0149/photos/154430pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/tn/tn0100/tn0149/photos/154430p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/tn/tn0100/tn0149/photos/154430p_150px.jpg"
+    },
+    "index": 706,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/tn0149.photos.154430p/",
+        "resource": "//www.loc.gov/pictures/item/tn0149.photos.154430p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-18T00:00:00Z",
+    "pk": "tn0149.photos.154430p",
+    "reproduction_number": "HABS TENN,83-GAL.V,1--21",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-18T00:00:00Z",
+    "subjects": null,
+    "title": "21.  STAIRHALL, FIRST FLOOR, FROM WEST. NOTE BRASS NEWELL (probably an original feature of house) - Fairvue, U.S. Highway 31-E, Gallatin, Sumner County, TN"
+}

@@ -1,0 +1,42 @@
+{
+    "call_number": "LOT 3076-2, no. not known [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "grabill",
+        "mtfgrp",
+        "mtfront",
+        "pp",
+        "ppminload",
+        "si"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "1891.",
+    "creator": "Grabill, John C. H.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsc/02500/02515r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsc/02500/02515_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsc/02500/02515_150px.jpg"
+    },
+    "index": 443,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/99613799/",
+        "resource": "//www.loc.gov/pictures/item/99613799/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "99613799",
+    "reproduction_number": "LC-DIG-ppmsc-02515 (digital file from original print)\nLC-USZ62-22970 (b&w film copy neg.)\nLC-USZ62-17355 (b&w film copy neg., image reversed)",
+    "source_created": "1999-07-20T00:00:00Z",
+    "source_modified": "2016-03-11T00:00:00Z",
+    "subjects": [
+        "Tipis--South Dakota--1890-1900.",
+        "Girls--South Dakota--1890-1900.",
+        "Indians of North America--Children--South Dakota--Pine Ridge--1890-1900.",
+        "Oglala Indians--Children--1890-1900.",
+        "Pine Ridge Indian Reservation (S.D.)--1880-1900."
+    ],
+    "title": "[A young Oglala girl sitting in front of a tipi, with a puppy beside her, probably on or near Pine Ridge Reservation]"
+}

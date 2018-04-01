@@ -1,0 +1,37 @@
+{
+    "call_number": "DAG no. 1231",
+    "collection": [
+        "ammem",
+        "dag",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[ca. 1846]",
+    "creator": "Plumbe, John, 1809-1857",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c10000/3c12000/3c12200/3c12293r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c10000/3c12000/3c12200/3c12293_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c10000/3c12000/3c12200/3c12293_150px.jpg"
+    },
+    "index": 42,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004664421/",
+        "resource": "//www.loc.gov/pictures/item/2004664421/resource/"
+    },
+    "medium": "1 photograph : half plate daguerreotype.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2004664421",
+    "reproduction_number": "LC-USZ62-112293 (b&w film copy neg. post-1992)\nLC-USZ62-46804 (b&w film copy neg. pre-1992)",
+    "source_created": "1994-09-07T00:00:00Z",
+    "source_modified": "2004-11-20T00:00:00Z",
+    "subjects": [
+        "White House (Washington, D.C.)--1840-1850.",
+        "Architectural photographs--1840-1850.",
+        "Daguerreotypes--1840-1850."
+    ],
+    "title": "[President's house (i.e. White House), Washington, D.C., showing south side, probably taken in winter]"
+}

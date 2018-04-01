@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 12421 <item> [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1903 and 1921]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c10000/3c13000/3c13000/3c13003_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c10000/3c13000/3c13000/3c13003_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c10000/3c13000/3c13000/3c13003_150px.jpg"
+    },
+    "index": 202,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/95505797/",
+        "resource": "//www.loc.gov/pictures/item/95505797/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "95505797",
+    "reproduction_number": "LC-USZ62-113003 (b&w film copy neg.)",
+    "source_created": "1995-04-25T00:00:00Z",
+    "source_modified": "2009-04-21T00:00:00Z",
+    "subjects": [
+        "Whistler, James McNeill,--1834-1903--Homes & haunts--England--London.",
+        "Row houses--England--London--1900-1930.",
+        "Photographic prints--1900-1930."
+    ],
+    "title": "[One of James McNeill Whistler's homes in London, probably \"The Vale\"]"
+}

@@ -1,0 +1,33 @@
+{
+    "call_number": "LC-F8- 44030 [P&P]",
+    "collection": [
+        "diof",
+        "npco",
+        "pp"
+    ],
+    "created": "2017-12-19T00:00:00Z",
+    "created_published_date": "ca. 1914.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/npcc/18400/18450r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/npcc/18400/18450_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/npcc/18400/18450_150px.jpg"
+    },
+    "index": 1000,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016844465/",
+        "resource": "//www.loc.gov/pictures/item/2016844465/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2017-12-19T00:00:00Z",
+    "pk": "2016844465",
+    "reproduction_number": "LC-DIG-npcc-18450 (digital file from original)",
+    "source_created": "2007-11-05T00:00:00Z",
+    "source_modified": "2017-12-13T00:00:00Z",
+    "subjects": [
+        "Glass negatives."
+    ],
+    "title": "Country Store (Dawsonville), Ford car in front of store, probably H.E. French's c.1914"
+}

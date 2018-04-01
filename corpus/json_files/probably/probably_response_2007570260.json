@@ -1,0 +1,33 @@
+{
+    "call_number": "LOT 14065 ( F) [P&P]",
+    "collection": [
+        "coll",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "",
+    "creator": "Morison, George Shattuck, 1842-1903.",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 1103,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2007570260/",
+        "resource": null
+    },
+    "medium": "177 photographic prints : cyanotype ; 13 x 21 cm. or smaller.",
+    "medium_brief": "177 photographic prints :",
+    "modified": "2018-02-14T00:00:00Z",
+    "pk": "2007570260",
+    "reproduction_number": "",
+    "source_created": "2007-10-31T00:00:00Z",
+    "source_modified": "2014-05-29T00:00:00Z",
+    "subjects": [
+        "Bridge construction--1880-1890.",
+        "Railroad bridges--Missouri River--1880-1890."
+    ],
+    "title": "[Photographs of railroad bridges under construction, probably all relating to projects by civil engineer George Shattuck Morison]"
+}

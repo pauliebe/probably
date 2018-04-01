@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS ILL,16-CHIG,110A--122",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/il/il0700/il0737/photos/048637pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/il/il0700/il0737/photos/048637p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/il/il0700/il0737/photos/048637p_150px.jpg"
+    },
+    "index": 568,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/il0737.photos.048637p/",
+        "resource": "//www.loc.gov/pictures/item/il0737.photos.048637p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "il0737.photos.048637p",
+    "reproduction_number": "HABS ILL,16-CHIG,110A--122",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "122.  Photographic copy of drawing (undated, probably before 1913, original drawing in Archives, Office of the Building, Administration Building, Sears, Roebuck and Company Mail Order Plant, Chicago, Illinois).  Martin C. Schwab.  1/8 inch to one foot.  Partial second/third floor plan with the conveyor arrangement in the shipping room with a conveyor extension to the Post Office.  ARRANGEMENT OF SHIPPING ROOM BELT CONVEYORS IN MERCHANDISE BUILDING FOR SEARS, ROEBUCK AND CO. - Sears Roebuck & Company Mail Order Plant, Merchandise Building, 924 South Homan Avenue, Chicago, Cook County, IL"
+}

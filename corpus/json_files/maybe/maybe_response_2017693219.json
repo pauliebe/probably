@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-005549 [P&P] LOT 1895  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "1942 Aug.",
+    "creator": "Palmer, Alfred T.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b03000/8b03900/8b03947r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b03000/8b03900/8b03947_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b03000/8b03900/8b03947_150px.jpg"
+    },
+    "index": 6,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017693219/",
+        "resource": "//www.loc.gov/pictures/item/2017693219/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017693219",
+    "reproduction_number": "LC-USE6-D-005549 (b&w film neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "United States--Pennsylvania--Allegheny County--Pittsburgh.",
+        "Safety film negatives."
+    ],
+    "title": "A poster comes to life. Maybe it's a skyscraper, maybe it's the statue of a city father, or it could be a pretty face in a window that Sergeant Vineyard and Chief Evans are viewing with much approval on their sight-seeing jaunt around the city Sunday morning"
+}

@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-A6195- 6191 [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-02-21T00:00:00Z",
+    "created_published_date": "24 July 1919 [date received]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/03600/03670r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/03600/03670_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/03600/03670_150px.jpg"
+    },
+    "index": 173,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017669641/",
+        "resource": "//www.loc.gov/pictures/item/2017669641/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-02-21T00:00:00Z",
+    "pk": "2017669641",
+    "reproduction_number": "LC-DIG-anrc-03670 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-02-17T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "Serbia--Kavadar.",
+        "Glass negatives."
+    ],
+    "title": "A typical street group in Kavadar, Southern Serbia. The mountain pony is an attentive listener to this conversation which has been going on for more than an hour, but as yet has taken no part. Maybe it's because he's tired having carried his master who holds the halter thirty miles over the mountains. The saddle he bears is Home:made with an iron frame and wooden trimmings. It weighs alomost as much as he does. But in addition he can carry two hundred pounds of A.R.C. supplies, and often does. It's the only means the American relief organization has of transporting its supplies to isolated villages in the mountains. A convoy of fifty of these animals are used by the R.C. every week to take supplies from its station in Kavadar to the outlying districts. The picture was taken in the market at Kavadar"
+}

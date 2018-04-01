@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-G623- 00236 <P&P> [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "gsc",
+        "pp"
+    ],
+    "created": "2016-04-19T00:00:00Z",
+    "created_published_date": "1934 Apr. 20.",
+    "creator": "Gottscho, Samuel H. (Samuel Herman), 1875-1971",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/gsc/5a30000/5a30600/5a30612r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/gsc/5a30000/5a30600/5a30612_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/gsc/5a30000/5a30600/5a30612_150px.jpg"
+    },
+    "index": 235,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/gsc1994000068/PP/",
+        "resource": "//www.loc.gov/pictures/item/gsc1994000068/PP/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4x5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-19T00:00:00Z",
+    "pk": "gsc1994000068/PP",
+    "reproduction_number": "LC-G623-T-00236 (interpositive)",
+    "source_created": "1992-12-29T00:00:00Z",
+    "source_modified": "2001-02-22T00:00:00Z",
+    "subjects": [
+        "Streets.",
+        "United States--New York (State)--New York.",
+        "Nitrate negatives."
+    ],
+    "title": "New York City views. Curve in elevated structure in lower Manhattan (probably in Pearl St. area)"
+}

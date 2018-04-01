@@ -1,0 +1,40 @@
+{
+    "call_number": "LC-USF35-514 [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsac",
+        "pp",
+        "srtg"
+    ],
+    "created": "2017-09-12T00:00:00Z",
+    "created_published_date": "[1942 May]",
+    "creator": "Dixon, Royden",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsac/1a34000/1a34400/1a34408r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsac/1a34000/1a34400/1a34408_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsac/1a34000/1a34400/1a34408_150px.jpg"
+    },
+    "index": 805,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017877953/",
+        "resource": "//www.loc.gov/pictures/item/2017877953/resource/"
+    },
+    "medium": "1 slide : color.",
+    "medium_brief": "1 slide :",
+    "modified": "2017-09-12T00:00:00Z",
+    "pk": "2017877953",
+    "reproduction_number": "LC-DIG-fsac-1a34408 (digital file from original slide)\nLC-USF351-514 (color film copy slide)",
+    "source_created": "1985-01-01T00:00:00Z",
+    "source_modified": "2017-09-07T00:00:00Z",
+    "subjects": [
+        "Parades & processions",
+        "African Americans--Military service",
+        "Memorial Day",
+        "Soldiers",
+        "United States--District of Columbia--Washington (D.C.)",
+        "Slides--Color."
+    ],
+    "title": "[Black troops at the Memorial Day parade, Washington, D.C., probably Constitution Avenue]"
+}

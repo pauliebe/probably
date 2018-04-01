@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER ID-33-I-53",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 731,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/id0501.photos.53/",
+        "resource": null
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-18T00:00:00Z",
+    "pk": "id0501.photos.53",
+    "reproduction_number": "HAER ID-33-I-53",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-18T00:00:00Z",
+    "subjects": null,
+    "title": "Reactor.  Drive mechanisms above reactor top include air pistons and drive mechanisms.  Bundles of instrumentation cords are gathered and secured out of the way at top.  This is probably the last photograph of the working reactor before facility was shutdown.  Photographer: Farmer. Date: June 17, 1968.  INL NEGATIVE 68-2404. - Idaho National Engineering Laboratory, SPERT-III, Scoville, Butte County, ID"
+}

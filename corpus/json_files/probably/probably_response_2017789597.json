@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF34- 039352-D [P&P] LOT 382  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-22T00:00:00Z",
+    "created_published_date": "1941 June.",
+    "creator": "Lee, Russell, 1903-1986",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8c01000/8c01400/8c01421r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8c01000/8c01400/8c01421_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8c01000/8c01400/8c01421_150px.jpg"
+    },
+    "index": 792,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017789597/",
+        "resource": "//www.loc.gov/pictures/item/2017789597/resource/"
+    },
+    "medium": "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-22T00:00:00Z",
+    "pk": "2017789597",
+    "reproduction_number": "LC-USF34-039352-D (b&w film neg.)",
+    "source_created": "2000-09-18T00:00:00Z",
+    "source_modified": "2017-08-18T00:00:00Z",
+    "subjects": [
+        "United States--California--San Diego County--San Diego.",
+        "Safety film negatives."
+    ],
+    "title": "Crowded trailer court. This court has too many trailers for the space alloted them, sanitary facilities are inadequate. It will probably be condemned by the board of health. San Diego, California"
+}

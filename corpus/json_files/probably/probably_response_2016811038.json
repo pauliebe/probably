@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-D4-39463 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[ca. 1910]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a10000/4a19000/4a19700/4a19746r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19700/4a19746_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19700/4a19746_150px.jpg"
+    },
+    "index": 901,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016811038/",
+        "resource": "//www.loc.gov/pictures/item/2016811038/resource/"
+    },
+    "medium": "1 negative : glass ; 8.5 x 6.5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016811038",
+    "reproduction_number": "LC-DIG-det-4a19746 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-02T00:00:00Z",
+    "subjects": [
+        "Dwellings.",
+        "Doors & doorways.",
+        "United States--Massachusetts--Salem.",
+        "Dry plate negatives."
+    ],
+    "title": "[Doorway with broken pediment surmounted by pineapple, probably Salem, Mass.]"
+}

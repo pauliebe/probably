@@ -1,0 +1,38 @@
+{
+    "call_number": "LC-D4-43335 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1900 and 1910]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a20000/4a20800/4a20876r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a20000/4a20800/4a20876_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a20000/4a20800/4a20876_150px.jpg"
+    },
+    "index": 930,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016812600/",
+        "resource": "//www.loc.gov/pictures/item/2016812600/resource/"
+    },
+    "medium": "1 negative : glass ; 8 x 10 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016812600",
+    "reproduction_number": "LC-DIG-det-4a20876 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-02T00:00:00Z",
+    "subjects": [
+        "Clubhouses.",
+        "Clubs.",
+        "Passageways.",
+        "United States--New York (State)--New York.",
+        "Dry plate negatives."
+    ],
+    "title": "[Hall with floral wallpaper, probably in a clubhouse, New York City]"
+}

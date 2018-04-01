@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 12341-1 [item] [P&P]",
+    "collection": [
+        "diof",
+        "npco",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[ca. 1920]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3a40000/3a49000/3a49100/3a49165r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3a40000/3a49000/3a49100/3a49165_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3a40000/3a49000/3a49100/3a49165_150px.jpg"
+    },
+    "index": 317,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2001706193/",
+        "resource": "//www.loc.gov/pictures/item/2001706193/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2001706193",
+    "reproduction_number": "LC-USZ62-49038 (b&w film copy neg.)",
+    "source_created": "2001-12-26T00:00:00Z",
+    "source_modified": "2009-10-22T00:00:00Z",
+    "subjects": [
+        "Photographic prints--1920."
+    ],
+    "title": "Children at a water fountain, probably in a Washington, D.C., park"
+}

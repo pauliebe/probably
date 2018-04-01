@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF347- 014640-D [P&P] LOT 1153  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-10T00:00:00Z",
+    "created_published_date": "1941.",
+    "creator": "Slater",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8c36000/8c36800/8c36825r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8c36000/8c36800/8c36825_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8c36000/8c36800/8c36825_150px.jpg"
+    },
+    "index": 841,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017765590/",
+        "resource": "//www.loc.gov/pictures/item/2017765590/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-10T00:00:00Z",
+    "pk": "2017765590",
+    "reproduction_number": "LC-USF347-014640-D (b&w film neg.)",
+    "source_created": "1998-09-25T00:00:00Z",
+    "source_modified": "2017-10-03T00:00:00Z",
+    "subjects": [
+        "United States--Minnesota--Mille Lacs County--Milaca.",
+        "Safety film negatives."
+    ],
+    "title": "Milaca, Minnesota (vicinity). Meeting, probably for considering elimination of well pits"
+}

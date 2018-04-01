@@ -1,0 +1,43 @@
+{
+    "call_number": "CD 1 - Block, no. 3 (B size)",
+    "collection": [
+        "2rights",
+        "acd",
+        "acr",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-11-15T00:00:00Z",
+    "created_published_date": "1932 Oct. 5",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/00900/00928_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/00900/00928_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/00900/00928_150px.jpg"
+    },
+    "index": 169,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016679556/",
+        "resource": "//www.loc.gov/pictures/item/2016679556/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-11-15T00:00:00Z",
+    "pk": "2016679556",
+    "reproduction_number": "LC-DIG-ds-00928 (digital file from original)",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-11-09T00:00:00Z",
+    "subjects": [
+        "Hoover, Herbert,--1874-1964.",
+        "Roosevelt, Franklin D.--(Franklin Delano),--1882-1945.",
+        "Republican Party (U.S. : 1854- )--1930-1940.",
+        "Democratic Party (U.S.)--1930-1940.",
+        "Presidential elections--United States--1930-1940.",
+        "Republican elephant (Symbolic character)--1930-1940.",
+        "Democratic donkey (Symbolic character)--1930-1940.",
+        "Drawings.",
+        "Editorial cartoons--American."
+    ],
+    "title": "Maybe it's a back-porch campaign"
+}

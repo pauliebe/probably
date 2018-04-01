@@ -1,0 +1,31 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1945:211 [P&P]",
+    "collection": [
+        "iuc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1910 and 1920]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 109,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010631796/",
+        "resource": null
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010631796",
+    "reproduction_number": "",
+    "source_created": "2010-03-12T00:00:00Z",
+    "source_modified": "2012-11-08T00:00:00Z",
+    "subjects": null,
+    "title": "A Volunteer [Postcard of Mexican soldier, probably during the Mexican Revolution]"
+}

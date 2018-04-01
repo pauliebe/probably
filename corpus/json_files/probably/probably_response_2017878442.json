@@ -1,0 +1,39 @@
+{
+    "call_number": "LC-USW36-339 [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsac",
+        "pp",
+        "srtg"
+    ],
+    "created": "2017-09-12T00:00:00Z",
+    "created_published_date": "1942 June",
+    "creator": "Palmer, Alfred T.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsac/1a35000/1a35200/1a35245r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsac/1a35000/1a35200/1a35245_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsac/1a35000/1a35200/1a35245_150px.jpg"
+    },
+    "index": 806,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017878442/",
+        "resource": "//www.loc.gov/pictures/item/2017878442/resource/"
+    },
+    "medium": "1 transparency : color.",
+    "medium_brief": "1 transparency :",
+    "modified": "2017-09-12T00:00:00Z",
+    "pk": "2017878442",
+    "reproduction_number": "LC-DIG-fsac-1a35245 (digital file from original transparency)\nLC-USW361-339 (color film copy slide)",
+    "source_created": "1985-01-01T00:00:00Z",
+    "source_modified": "2017-09-07T00:00:00Z",
+    "subjects": [
+        "Tennessee Valley Authority",
+        "World War, 1939-1945",
+        "Telphone lines",
+        "United States--Tennessee",
+        "Transparencies--Color."
+    ],
+    "title": "[Men working on telephone lines, probably near a TVA dam hydroelectric plant]"
+}

@@ -1,0 +1,39 @@
+{
+    "call_number": "BLOCK, no. 330 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1939 Jan.] c1939.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/00300/00330_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/00300/00330_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/00300/00330_150px.jpg"
+    },
+    "index": 13,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010635819/",
+        "resource": "//www.loc.gov/pictures/item/2010635819/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010635819",
+    "reproduction_number": "LC-DIG-hlb-00330 (digital file from original drawing)",
+    "source_created": "2009-12-02T00:00:00Z",
+    "source_modified": "2012-12-28T00:00:00Z",
+    "subjects": [
+        "United States.--Congress--(76th :--1939-1941)",
+        "Older people--United States.",
+        "Pensions--United States.",
+        "Social security--United States.",
+        "Unemployment--United States.",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe you could live with your parents\""
+}

@@ -1,0 +1,36 @@
+{
+    "call_number": "CD 1 - Gossett, no. 1 (A size)",
+    "collection": [
+        "acd",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "[between 1920 and 1955]",
+    "creator": "Gossett, L.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/acd/2a08000/2a08800/2a08841_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/acd/2a08000/2a08800/2a08841_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/acd/2a08000/2a08800/2a08841_150px.jpg"
+    },
+    "index": 154,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016681626/",
+        "resource": "//www.loc.gov/pictures/item/2016681626/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016681626",
+    "reproduction_number": "LC-USZ62-132792 (b&w film copy neg.)",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-08-04T00:00:00Z",
+    "subjects": [
+        "elevators",
+        "women",
+        "Cartoons (Commentary)--American.",
+        "Drawings."
+    ],
+    "title": "Young woman! When does this elevator start! : O-o-o-oh, in about an hour -- maybe!"
+}

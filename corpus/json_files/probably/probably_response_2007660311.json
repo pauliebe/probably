@@ -1,0 +1,41 @@
+{
+    "call_number": "LOT 7414-H, no. N285 [P&P]",
+    "collection": [
+        "afc",
+        "ammem",
+        "diof",
+        "lomax",
+        "lomaxss",
+        "minload",
+        "pp",
+        "si"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1935.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsc/00500/00586r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsc/00500/00586_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsc/00500/00586_150px.jpg"
+    },
+    "index": 81,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2007660311/",
+        "resource": "//www.loc.gov/pictures/item/2007660311/resource/"
+    },
+    "medium": "2 photographic prints on one contact sheet.",
+    "medium_brief": "2 photographic prints on one contact sheet.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2007660311",
+    "reproduction_number": "LC-DIG-ppmsc-00586 (digital file from original)",
+    "source_created": "1998-10-22T00:00:00Z",
+    "source_modified": "2007-09-25T00:00:00Z",
+    "subjects": [
+        "Blacks--Men--1930-1940.",
+        "Bahamas.",
+        "Group portraits--1930-1940.",
+        "Portrait photographs--1930-1940."
+    ],
+    "title": "[Unidentified building (left photo); Men standing outdoors, near thatched-roof building (right photo). Photos probably taken during Bahamas expedition]"
+}

@@ -1,0 +1,43 @@
+{
+    "call_number": "LOT 14043-2, no. 391 [P&P]",
+    "collection": [
+        "civwar",
+        "diof",
+        "lilj",
+        "pp"
+    ],
+    "created": "2017-12-12T00:00:00Z",
+    "created_published_date": "[between 1861 and 1865]",
+    "creator": "McPherson & Oliver",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/52000/52030r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/52000/52030_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/52000/52030_150px.jpg"
+    },
+    "index": 997,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017648743/",
+        "resource": "//www.loc.gov/pictures/item/2017648743/resource/"
+    },
+    "medium": "1 photograph : albumen print on card mount ; mount 7 x 11 cm (carte de visite format)",
+    "medium_brief": "1 photograph :",
+    "modified": "2017-12-12T00:00:00Z",
+    "pk": "2017648743",
+    "reproduction_number": "LC-DIG-ppmsca-52030 (digital file from original, front)\nLC-DIG-ppmsca-52031 (digital file from original, back)",
+    "source_created": "2017-05-17T00:00:00Z",
+    "source_modified": "2017-12-05T00:00:00Z",
+    "subjects": [
+        "United States.--Navy--People--Louisiana--1860-1870.",
+        "United States.--Navy--Transportation--Louisiana--1860-1870.",
+        "Sailors--Union--Louisiana--1860-1870.",
+        "Military uniforms--Union--1860-1870.",
+        "Warships--Union--Louisiana--1860-1870.",
+        "United States--History--Civil War, 1861-1865--Military personnel--Union.",
+        "Albumen prints--1860-1870.",
+        "Cartes de visite--1860-1870.",
+        "Group portraits--1860-1870.",
+        "Portrait photographs--1860-1870."
+    ],
+    "title": "[Unidentified sailors in Union uniforms aboard warship probably in New Orleans, Louisiana]"
+}

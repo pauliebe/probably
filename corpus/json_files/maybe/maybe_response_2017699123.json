@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-001367 [P&P] LOT 1887  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "between 1941 Nov. and 1942 Feb.",
+    "creator": "Palmer, Alfred T.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b00000/8b00800/8b00804r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b00000/8b00800/8b00804_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b00000/8b00800/8b00804_150px.jpg"
+    },
+    "index": 185,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017699123/",
+        "resource": "//www.loc.gov/pictures/item/2017699123/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017699123",
+    "reproduction_number": "LC-USE6-D-001367 (b&w film neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "United States.",
+        "Safety film negatives."
+    ],
+    "title": "The four freedoms. It's serious business, this milk drinking. Maybe this youngster is thinking of the millions of youngsters in other lands who can never take their milk for granted"
+}

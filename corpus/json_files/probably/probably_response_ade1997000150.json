@@ -1,0 +1,37 @@
+{
+    "call_number": "ADE 11 - Gilbert, no. 84 verso (A size)  <P&P> [P&P]",
+    "collection": [
+        "ade",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1922 July 10.",
+    "creator": "Gilbert, Cass, 1859-1934",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ade/2a02000/2a02700/2a02783_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ade/2a02000/2a02700/2a02783_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ade/2a02000/2a02700/2a02783_150px.jpg"
+    },
+    "index": 215,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ade1997000150/",
+        "resource": "//www.loc.gov/pictures/item/ade1997000150/resource/"
+    },
+    "medium": "1 drawing : ink on paper.",
+    "medium_brief": "1 drawing :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "ade1997000150",
+    "reproduction_number": "",
+    "source_created": "1997-09-05T00:00:00Z",
+    "source_modified": "2005-08-26T00:00:00Z",
+    "subjects": [
+        "Capitols.",
+        "United States--West Virginia--Charleston.",
+        "Architectural drawings.",
+        "Drawings.",
+        "Site plans.",
+        "Studies."
+    ],
+    "title": "[Probably West Virginia Capitol Complex (Charleston, W. Va.). Two sketch site plans]"
+}

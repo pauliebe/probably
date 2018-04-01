@@ -1,0 +1,37 @@
+{
+    "call_number": "CD 1 - Mauldin, no. 1048 (A size)",
+    "collection": [
+        "acd",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "[between 1960 and 1965]",
+    "creator": "Mauldin, Bill, 1921-2003",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 164,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016687247/",
+        "resource": null
+    },
+    "medium": "1 drawing on paper : pencil.",
+    "medium_brief": "1 drawing on paper :",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016687247",
+    "reproduction_number": "",
+    "source_created": "1999-10-15T00:00:00Z",
+    "source_modified": "2016-08-05T00:00:00Z",
+    "subjects": [
+        "United Nations--1960-1970.",
+        "Newspaper headlines--1960-1970.",
+        "Reading--1960-1970.",
+        "Cartoons (Commentary)--1960-1970.",
+        "Sketches--1960-1970."
+    ],
+    "title": "\"Maybe we should have paid our dues\""
+}

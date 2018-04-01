@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW3- 030319-C [P&P] LOT 781 (Location of corresponding print.) (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-03T00:00:00Z",
+    "created_published_date": "1943 June.",
+    "creator": "Parks, Gordon, 1912-2006",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8d19000/8d19400/8d19438r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8d19000/8d19400/8d19438_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8d19000/8d19400/8d19438_150px.jpg"
+    },
+    "index": 818,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017855776/",
+        "resource": "//www.loc.gov/pictures/item/2017855776/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-03T00:00:00Z",
+    "pk": "2017855776",
+    "reproduction_number": "LC-USW3-030319-C (b&w film neg.)",
+    "source_created": "2001-08-03T00:00:00Z",
+    "source_modified": "2017-09-28T00:00:00Z",
+    "subjects": [
+        "United States--Massachusetts--Essex County--Gloucester.",
+        "Safety film negatives."
+    ],
+    "title": "Gloucester, Massachusetts. Boys who hang around the fishing docks who probably hope to go to sea as fishermen themselves someday"
+}

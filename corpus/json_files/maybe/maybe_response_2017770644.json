@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-USF34- 018264-C [P&P] LOT 547  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-10T00:00:00Z",
+    "created_published_date": "1938 June.",
+    "creator": "Lange, Dorothea",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b38000/8b38600/8b38693r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b38000/8b38600/8b38693_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b38000/8b38600/8b38693_150px.jpg"
+    },
+    "index": 199,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017770644/",
+        "resource": "//www.loc.gov/pictures/item/2017770644/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-10T00:00:00Z",
+    "pk": "2017770644",
+    "reproduction_number": "LC-USF34-018264-C (b&w film nitrate neg.)\nLC-DIG-fsa-8b38693 (digital file from original neg.)",
+    "source_created": "1999-12-10T00:00:00Z",
+    "source_modified": "2017-10-04T00:00:00Z",
+    "subjects": [
+        "United States--Texas--Dallam County--Dalhart.",
+        "Farms, buildings, operations--Texas",
+        "Nitrate negatives."
+    ],
+    "title": "Leveling hummocks in dust bowl, thirty miles north of Dalhart, Texas. Farmer: \"Every dime I got is tied up right here. If I don't get it out, I've got to drive off and leave it. Where would I go and what would I do? I know what the land did once for me, maybe it will do it again.\" Son: \"It would be better if the sod had never been broke. My father's broke plenty of it. Could I get a job in California?\""
+}

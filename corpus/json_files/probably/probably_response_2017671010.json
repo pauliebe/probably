@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-A6195- 8370 [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-02-21T00:00:00Z",
+    "created_published_date": "January 1920 [date received]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/05100/05150r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/05100/05150_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/05100/05150_150px.jpg"
+    },
+    "index": 506,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017671010/",
+        "resource": "//www.loc.gov/pictures/item/2017671010/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-02-21T00:00:00Z",
+    "pk": "2017671010",
+    "reproduction_number": "LC-DIG-anrc-05150 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-02-17T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "Serbia--Vrange.",
+        "Glass negatives."
+    ],
+    "title": "The Little Lady of Sorrow. All the tragedy and woe of Serbia's seven years of war are written on the face and heart of this little Serbian lass of ten years. Her father and mother are dead. Her home is in ashes. Her brothers and sister are scattered, probably dead. Serbia has 300,000 such parentless children and each one of these seems to carry on their little shoulders the full burden of Serbia's sorrow. A place has just been found for this little girl in the American Red Cross orphanage at Vrange, where she will learn to smile again"
+}

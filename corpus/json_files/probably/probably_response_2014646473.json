@@ -1,0 +1,36 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1972:282, no. 2256 [item] [P&P]",
+    "collection": [
+        "cph",
+        "lmc",
+        "pp"
+    ],
+    "created": "2016-07-05T00:00:00Z",
+    "created_published_date": "1945 April.",
+    "creator": "Kubrick, Stanley",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/05500/05585_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/05500/05585_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/05500/05585_150px.jpg"
+    },
+    "index": 459,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014646473/",
+        "resource": "//www.loc.gov/pictures/item/2014646473/resource/"
+    },
+    "medium": "1 negative : safety film ; 4 x 5.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-07-05T00:00:00Z",
+    "pk": "2014646473",
+    "reproduction_number": "LC-DIG-ds-05585 (digital file from original item)",
+    "source_created": "2014-05-16T00:00:00Z",
+    "source_modified": "2016-06-29T00:00:00Z",
+    "subjects": [
+        "Roosevelt, Franklin D.--(Franklin Delano),--1882-1945--Death & burial.",
+        "Newspaper vendors--New York (State)--New York--1940-1950.",
+        "Newspaper headlines--New York (State)--New York--1940-1950.",
+        "Safety film negatives--1940-1950."
+    ],
+    "title": "[Man in newspaper stand, probably in New York City, with display of newspapers with headlines announcing the death of President Franklin Roosevelt]"
+}

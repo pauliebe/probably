@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 4538 (G) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1888-1894.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b00000/3b09000/3b09200/3b09220_150px.jpg?q=2005694920&c=5",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b00000/3b09000/3b09200/3b09220_75x75px.jpg?q=2005694920&c=5",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b00000/3b09000/3b09200/3b09220_150px.jpg?q=2005694920&c=5"
+    },
+    "index": 1117,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005692564/",
+        "resource": "//www.loc.gov/pictures/item/2005692564/resource/"
+    },
+    "medium": "ca. 100 photographic prints.",
+    "medium_brief": "ca. 100 photographic prints.",
+    "modified": "2018-03-13T00:00:00Z",
+    "pk": "2005692564",
+    "reproduction_number": "",
+    "source_created": "2005-08-18T00:00:00Z",
+    "source_modified": "2005-08-18T00:00:00Z",
+    "subjects": null,
+    "title": "Miscellaneous collection of photographs from an album, 1888-1894, probably a personal collection, of scenes in Maine, Massachusetts and New Hampshire"
+}

@@ -1,0 +1,41 @@
+{
+    "call_number": "BLOCK, no. 10291 (BB size) [P&P]",
+    "collection": [
+        "00",
+        "011",
+        "exh",
+        "hlb",
+        "l4877",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1982 March 8.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/10200/10291_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/10200/10291_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/10200/10291_150px.jpg"
+    },
+    "index": 88,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012647247/",
+        "resource": "//www.loc.gov/pictures/item/2012647247/resource/"
+    },
+    "medium": "1 drawing : India ink, porous point pen, graphite, with opaque white and overlays over blue pencil underdrawing ; 57.5 x 35.7 cm (sheet)",
+    "medium_brief": "1 drawing :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012647247",
+    "reproduction_number": "LC-DIG-hlb-10291 (digital file from original drawing)",
+    "source_created": "2012-04-23T00:00:00Z",
+    "source_modified": "2012-07-16T00:00:00Z",
+    "subjects": [
+        "Watt, James G.--(James Gaius)--1938-",
+        "Environmental policy--1980-1990.",
+        "Steam shovels--1980-1990.",
+        "Families--1980-1990.",
+        "Drawings--American--1980-1990.",
+        "Editorial cartoons--American--1980-1990."
+    ],
+    "title": "\"Maybe he should be cited for contempt of public intelligence\""
+}

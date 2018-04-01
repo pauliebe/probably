@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-003445 [P&P] LOT 1918  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "1942 Feb.",
+    "creator": "Rosener, Ann",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8e10000/8e10700/8e10763r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8e10000/8e10700/8e10763_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8e10000/8e10700/8e10763_150px.jpg"
+    },
+    "index": 740,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017691278/",
+        "resource": "//www.loc.gov/pictures/item/2017691278/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017691278",
+    "reproduction_number": "LC-DIG-fsa-8e10763 (digital file from original neg.)\nLC-USE6-D-003445 (b&w film nitrate neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "United States.",
+        "Nitrate negatives."
+    ],
+    "title": "Something the matter with your wringer? It probably needs a few drops of oil, but call your repair man and he'll diagnose the trouble for you. If you attempt to do the job yourself, you may find the family wash oiled along with its wringer"
+}

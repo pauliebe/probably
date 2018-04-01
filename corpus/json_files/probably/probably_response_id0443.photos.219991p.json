@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER ID-33-G-182",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/id/id0400/id0443/photos/219991pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/id/id0400/id0443/photos/219991p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/id/id0400/id0443/photos/219991p_150px.jpg"
+    },
+    "index": 722,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/id0443.photos.219991p/",
+        "resource": "//www.loc.gov/pictures/item/id0443.photos.219991p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-18T00:00:00Z",
+    "pk": "id0443.photos.219991p",
+    "reproduction_number": "HAER ID-33-G-182",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-18T00:00:00Z",
+    "subjects": null,
+    "title": "CUTS FOR MTR EXCAVATION ILLUSTRATE SEDIMENTARY MANTLE OF SOIL AND GRAVEL OVERLAYING LAVA ROCK FIFTY FEET BELOW.  SAGEBRUSH HAS BEEN SCOURED FROM REST OF SITE.  CAMERA PROBABLY FACES SOUTHWEST.  INL NEGATIVE NO. 67.\nUnknown Photographer, 6/4/1950 - Idaho National Engineering Laboratory, Test Reactor Area, Materials & Engineering Test Reactors, Scoville, Butte County, ID"
+}

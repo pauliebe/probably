@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22-D- 6653 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-17T00:00:00Z",
+    "created_published_date": "[19]39 May 25.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/26700/26746r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/26700/26746_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/26700/26746_150px.jpg"
+    },
+    "index": 206,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016875702/",
+        "resource": "//www.loc.gov/pictures/item/2016875702/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-17T00:00:00Z",
+    "pk": "2016875702",
+    "reproduction_number": "LC-DIG-hec-26746 (digital file from original negative)",
+    "source_created": "2009-07-15T00:00:00Z",
+    "source_modified": "2018-01-09T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.).",
+        "Glass negatives."
+    ],
+    "title": "Maybe they discuss Joe Lewis? Washington, D.C., May 25. Col. John R. Kilpatrick, President of the Madison Square Garden Corp., and Jack Dempsey having a whispered conversation before the beginning of today's hearing upon a bill by Sen. W. Warren Barbour to lift the ban upon the shipment of fight films in interstate commerce"
+}

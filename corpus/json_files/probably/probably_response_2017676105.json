@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-A6197- RC-19 [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-10-24T00:00:00Z",
+    "created_published_date": "[between 1915 and 1920]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/10300/10352r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/10300/10352_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/10300/10352_150px.jpg"
+    },
+    "index": 859,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017676105/",
+        "resource": "//www.loc.gov/pictures/item/2017676105/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-24T00:00:00Z",
+    "pk": "2017676105",
+    "reproduction_number": "LC-DIG-anrc-10352 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-10-23T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "Glass negatives."
+    ],
+    "title": "[German soldiers; probably prisoners of war]"
+}

@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 6641, no. 59 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1893]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c37000/3c37000/3c37052r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37000/3c37052_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37000/3c37052_150px.jpg"
+    },
+    "index": 75,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2006686297/",
+        "resource": "//www.loc.gov/pictures/item/2006686297/resource/"
+    },
+    "medium": "1 photographic print : albumen.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2006686297",
+    "reproduction_number": "LC-USZ62-137052 (b&w film copy neg.)",
+    "source_created": "2006-09-21T00:00:00Z",
+    "source_modified": "2006-09-22T00:00:00Z",
+    "subjects": [
+        "World's Columbian Exposition--(1893 :--Chicago, Ill.)--Exhibitions & displays.",
+        "Exhibitions--Illinois--Chicago--1890-1900.",
+        "Albumen prints--1890-1900."
+    ],
+    "title": "[Display showing model hospitals(?) and a display of bones, probably by the U.S. Surgeon General, at the Chicago's World's Columbian Exhibition]"
+}

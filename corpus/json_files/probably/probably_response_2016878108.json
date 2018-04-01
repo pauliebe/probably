@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22-D- 2214? [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-17T00:00:00Z",
+    "created_published_date": "[19]37 September 9.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/29200/29224r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/29200/29224_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/29200/29224_150px.jpg"
+    },
+    "index": 1040,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016878108/",
+        "resource": "//www.loc.gov/pictures/item/2016878108/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-17T00:00:00Z",
+    "pk": "2016878108",
+    "reproduction_number": "LC-DIG-hec-29224 (digital file from original negative)",
+    "source_created": "2009-07-15T00:00:00Z",
+    "source_modified": "2018-01-09T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.).",
+        "Glass negatives."
+    ],
+    "title": "Famous handshaker in new role. Washington, D.C., Sept. 9. After greeting precallers at the White House executive office last 36 years, Lieut. Ernest M. Lar[...] has retired and accepted a post in charge [...] deposit vaults for a local bank. 'Larry' has probably greeted more famous people than any other[?] person in the world. Before coming to the Wh[...] during the first Roosevelt Administration he [...] for four years a member of the Metropolitan Police Force"
+}

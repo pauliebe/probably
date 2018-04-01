@@ -1,0 +1,41 @@
+{
+    "call_number": "BLOCK, no. 2323 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "10-7-[19]49.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/02300/02323_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/02300/02323_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/02300/02323_150px.jpg"
+    },
+    "index": 98,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012632383/",
+        "resource": "//www.loc.gov/pictures/item/2012632383/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012632383",
+    "reproduction_number": "LC-DIG-hlb-02323 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2014-12-10T00:00:00Z",
+    "subjects": [
+        "White, Wallace H.--(Wallace Humphrey),--1877-1952.",
+        "United States.--Congress.--Senate.",
+        "legislators",
+        "chairs",
+        "Quorum",
+        "Excuses",
+        "Laziness",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe we should give away free dishes\""
+}

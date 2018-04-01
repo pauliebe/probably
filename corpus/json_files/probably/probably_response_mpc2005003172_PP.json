@@ -1,0 +1,33 @@
+{
+    "call_number": "LC-M353- 17 [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1898 and 1946]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/12200/12218r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/12200/12218_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/12200/12218_150px.jpg"
+    },
+    "index": 250,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005003172/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005003172/PP/resource/"
+    },
+    "medium": "1 transparency : glass ; 4 x 5 in.",
+    "medium_brief": "1 transparency :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "mpc2005003172/PP",
+    "reproduction_number": "LC-DIG-matpc-12218 (digital file from original photo)",
+    "source_created": "2005-05-23T00:00:00Z",
+    "source_modified": "2005-06-23T00:00:00Z",
+    "subjects": [
+        "Glass transparencies."
+    ],
+    "title": "[View of plain and lake, probably in Palestine]"
+}

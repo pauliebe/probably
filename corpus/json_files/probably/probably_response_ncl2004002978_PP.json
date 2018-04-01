@@ -1,0 +1,37 @@
+{
+    "call_number": "LOT 7479, v. 4, no. 2277 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1911 August.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/02200/02212r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/02200/02212_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/02200/02212_150px.jpg"
+    },
+    "index": 290,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004002978/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004002978/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "ncl2004002978/PP",
+    "reproduction_number": "LC-DIG-nclc-02212 (color digital file from b&w original print)",
+    "source_created": "2004-01-08T00:00:00Z",
+    "source_modified": "2005-04-25T00:00:00Z",
+    "subjects": [
+        "Boys.",
+        "Men.",
+        "Textile mill workers.",
+        "United States--Massachusetts--New Bedford.",
+        "Photographic prints."
+    ],
+    "title": "At side of mill gate (western gate beside office) Manuel Andrew, 14 Windsor St. Smallest in the picture; apparently under 14. See #2290. Manuel Jason, 58 First St. Thinnest in the picture; red stripped [sic] shirt; induced previous boy to give his name and interpreted for him. See #2288. Lewis Grace, 68 Acushnet Ave., works in drawing-in room. See #2285. John Bachman, 22 Nelson St. Probably over 14. See #2287.  Location: New Bedford, Massachusetts."
+}

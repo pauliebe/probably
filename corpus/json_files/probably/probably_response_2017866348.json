@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW3- 053607-D [P&P] LOT 1788 (Location of corresponding print.) (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-24T00:00:00Z",
+    "created_published_date": "1942 or 1943?",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8d42000/8d42200/8d42297r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8d42000/8d42200/8d42297_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8d42000/8d42200/8d42297_150px.jpg"
+    },
+    "index": 861,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017866348/",
+        "resource": "//www.loc.gov/pictures/item/2017866348/resource/"
+    },
+    "medium": "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-24T00:00:00Z",
+    "pk": "2017866348",
+    "reproduction_number": "LC-USW3-053607-D (b&w film neg.)",
+    "source_created": "2001-08-07T00:00:00Z",
+    "source_modified": "2017-10-17T00:00:00Z",
+    "subjects": [
+        "United States--Delaware--New Castle County--Wilmington.",
+        "Safety film negatives."
+    ],
+    "title": "Wilmington, Delaware. Tower Hill School, noted country day school for pupils from three to eighteen years of age. Three students are acting out a scene from history, probably the Boston Tea Party"
+}

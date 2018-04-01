@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 8438 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1937.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b38000/3b38100/3b38155_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b38000/3b38100/3b38155_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b38000/3b38100/3b38155_150px.jpg"
+    },
+    "index": 206,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/96510596/",
+        "resource": "//www.loc.gov/pictures/item/96510596/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "96510596",
+    "reproduction_number": "LC-USZ62-91817 (b&w film copy neg.)",
+    "source_created": "1996-06-07T00:00:00Z",
+    "source_modified": "2005-03-01T00:00:00Z",
+    "subjects": [
+        "Bears--Bulgaria--1930-1940.",
+        "Romanies--Bulgaria--1930-1940.",
+        "Photographic prints--1930-1940."
+    ],
+    "title": "[Four gypsies with a bear, probably in Bulgaria]"
+}

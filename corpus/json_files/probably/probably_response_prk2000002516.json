@@ -1,0 +1,40 @@
+{
+    "call_number": "LC-P87- 91x [P&P]",
+    "collection": [
+        "diof",
+        "intldl",
+        "mtfpgp",
+        "mtfront",
+        "pp",
+        "prok",
+        "si"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1905 and 1915]",
+    "creator": "Prokudin-Gorski\u012d, Serge\u012d Mikha\u012dlovich, 1863-1944",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/prokc/20000/20073r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/prokc/20000/20073_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/prokc/20000/20073_150px.jpg"
+    },
+    "index": 306,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/prk2000002516/",
+        "resource": "//www.loc.gov/pictures/item/prk2000002516/resource/"
+    },
+    "medium": "1 negative (3 frames) : glass, b&w, three-color separation ; 24 x 9 cm.",
+    "medium_brief": "1 negative (3 frames) :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "prk2000002516",
+    "reproduction_number": "LC-DIG-prokc-20073 (digital color composite from digital file from glass neg.)\nLC-DIG-prok-10073 (detail of digital file showing single frame from glass neg.)\nLC-DIG-prok-00073 (digital file from glass neg.)",
+    "source_created": "2000-09-11T00:00:00Z",
+    "source_modified": "2004-08-24T00:00:00Z",
+    "subjects": [
+        "Croplands.",
+        "Cotton.",
+        "Color separation negatives.",
+        "Glass negatives."
+    ],
+    "title": "[Cotton field, probably Golodonaia Steppe or Mugan Steppe]"
+}

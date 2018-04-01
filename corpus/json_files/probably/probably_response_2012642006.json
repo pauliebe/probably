@@ -1,0 +1,41 @@
+{
+    "call_number": "BLOCK, no. 11448 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "5/28/1987.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/11400/11448_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/11400/11448_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/11400/11448_150px.jpg"
+    },
+    "index": 124,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012642006/",
+        "resource": "//www.loc.gov/pictures/item/2012642006/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012642006",
+    "reproduction_number": "LC-DIG-hlb-11448 (digital file from original drawing)",
+    "source_created": "2012-11-19T00:00:00Z",
+    "source_modified": "2015-05-13T00:00:00Z",
+    "subjects": [
+        "Reagan, Ronald.",
+        "Persian Gulf.",
+        "Actors",
+        "Iran-Iraq War, 1980-1988",
+        "ships",
+        "Convoys",
+        "maps",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Those Iranians probably never saw me in 'Hellcats of the Navy'\""
+}

@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS CAL,30-TUST,1--12",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "1999",
+    "creator": "Grogan, Brian",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca2700/ca2790/photos/376410pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2700/ca2790/photos/376410p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca2700/ca2790/photos/376410p_150px.jpg"
+    },
+    "index": 560,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca2790.photos.376410p/",
+        "resource": "//www.loc.gov/pictures/item/ca2790.photos.376410p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "ca2790.photos.376410p",
+    "reproduction_number": "HABS CAL,30-TUST,1--12",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "Aerial view of entire LTA base after completion of both LTA ship hangars.  Date unknown but probably circa 1945. - Marine Corps Air Station Tustin, East of Red Hill Avenue between Edinger Avenue & Barranca Parkway, Tustin, Orange County, CA"
+}

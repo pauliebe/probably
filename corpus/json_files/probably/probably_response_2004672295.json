@@ -1,0 +1,31 @@
+{
+    "call_number": "SSF - Automobiles [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[192-]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b10000/3b16000/3b16900/3b16906_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b10000/3b16000/3b16900/3b16906_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b10000/3b16000/3b16900/3b16906_150px.jpg"
+    },
+    "index": 44,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004672295/",
+        "resource": "//www.loc.gov/pictures/item/2004672295/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2004672295",
+    "reproduction_number": "LC-USZ62-69466 (b&w film copy neg.)",
+    "source_created": "2004-06-09T00:00:00Z",
+    "source_modified": "2004-06-16T00:00:00Z",
+    "subjects": null,
+    "title": "[Pierce-Arrow auto, probably used by the President]"
+}

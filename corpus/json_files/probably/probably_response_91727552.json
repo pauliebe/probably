@@ -1,0 +1,33 @@
+{
+    "call_number": "LOT 12448, no. 16 <item>  no. 16 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1946 Feb.]",
+    "creator": "Rothstein, Arthur, 1915-1985",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c00000/3c02000/3c02300/3c02373_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c00000/3c02000/3c02300/3c02373_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c00000/3c02000/3c02300/3c02373_150px.jpg"
+    },
+    "index": 189,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/91727552/",
+        "resource": "//www.loc.gov/pictures/item/91727552/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "91727552",
+    "reproduction_number": "LC-USZ62-102373 (b&w film copy neg.)",
+    "source_created": "1991-05-24T00:00:00Z",
+    "source_modified": "2009-06-05T00:00:00Z",
+    "subjects": [
+        "Political parades & rallies--China--Shanghai--1940-1950.",
+        "Photographic prints--1940-1950."
+    ],
+    "title": "[Shanghai. Probably welcome rally for Chiang Kai Shek]"
+}

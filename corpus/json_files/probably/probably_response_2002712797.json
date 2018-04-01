@@ -1,0 +1,31 @@
+{
+    "call_number": "SSF - TRUCKS AND TRUCKING--1941 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "1941.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b30000/3b30900/3b30925_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b30000/3b30900/3b30925_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b30000/3b30900/3b30925_150px.jpg"
+    },
+    "index": 326,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2002712797/",
+        "resource": "//www.loc.gov/pictures/item/2002712797/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2002712797",
+    "reproduction_number": "LC-USZ62-84354 (b&w film copy neg.)",
+    "source_created": "2002-05-22T00:00:00Z",
+    "source_modified": "2002-11-16T00:00:00Z",
+    "subjects": null,
+    "title": "General Motors truck, probably designed to carry an exhibit for the company's \"Parade of Progress\""
+}

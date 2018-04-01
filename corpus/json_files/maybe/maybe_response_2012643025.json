@@ -1,0 +1,40 @@
+{
+    "call_number": "BLOCK, no. 12424 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "1/17/1992.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/12400/12424_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/12400/12424_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/12400/12424_150px.jpg"
+    },
+    "index": 130,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012643025/",
+        "resource": "//www.loc.gov/pictures/item/2012643025/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012643025",
+    "reproduction_number": "LC-DIG-hlb-12424 (digital file from original drawing)",
+    "source_created": "2012-11-19T00:00:00Z",
+    "source_modified": "2015-05-22T00:00:00Z",
+    "subjects": [
+        "Bush, George,--1924-",
+        "economic & social conditions",
+        "accidents",
+        "Recessions",
+        "ships",
+        "Presidential elections",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Look -- so maybe I made some little mistakes --\""
+}

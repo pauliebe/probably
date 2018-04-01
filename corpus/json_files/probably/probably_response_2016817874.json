@@ -1,0 +1,38 @@
+{
+    "call_number": "LC-D418-14871 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1900 and 1910]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a27000/4a27300/4a27358r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a27000/4a27300/4a27358_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a27000/4a27300/4a27358_150px.jpg"
+    },
+    "index": 965,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016817874/",
+        "resource": "//www.loc.gov/pictures/item/2016817874/resource/"
+    },
+    "medium": "1 negative : glass ; 7 x 5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016817874",
+    "reproduction_number": "LC-DIG-det-4a27358 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-03T00:00:00Z",
+    "subjects": [
+        "Streets.",
+        "Banks.",
+        "Office buildings.",
+        "United States--Colorado--Colorado Springs.",
+        "Dry plate negatives."
+    ],
+    "title": "[Exchange National Bank Building, probably Colorado Springs]"
+}

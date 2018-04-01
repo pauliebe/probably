@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER NY,58-EAS,1--30",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-18T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ny/ny1300/ny1366/photos/124394pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ny/ny1300/ny1366/photos/124394p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ny/ny1300/ny1366/photos/124394p_150px.jpg"
+    },
+    "index": 692,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ny1366.photos.124394p/",
+        "resource": "//www.loc.gov/pictures/item/ny1366.photos.124394p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-18T00:00:00Z",
+    "pk": "ny1366.photos.124394p",
+    "reproduction_number": "HAER NY,58-EAS,1--30",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-18T00:00:00Z",
+    "subjects": null,
+    "title": "30.  Photocopy of blueprint. PLAN, ELEVATION, END SECTION, DETAIL OF DECK SYSTEM AND LOAD COMPUTATION. Preparer unknown, date unknown, but probably ca. 1932. (Original in possession of the Washington County Highway Department.) - Hegeman-Hill Street Bridge, Spanning Batten Kill, .65 mile West of Greenwich, Easton, Washington County, NY"
+}

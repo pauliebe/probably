@@ -1,0 +1,36 @@
+{
+    "call_number": "LOT 10525 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[ca. 1909 to 1919]",
+    "creator": "Van Altena, Edward",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c31000/3c31400/3c31443r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c31000/3c31400/3c31443_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c31000/3c31400/3c31443_150px.jpg"
+    },
+    "index": 25,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2002709191/",
+        "resource": "//www.loc.gov/pictures/item/2002709191/resource/"
+    },
+    "medium": "1 slide : lantern.",
+    "medium_brief": "1 slide :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2002709191",
+    "reproduction_number": "LC-USZ62-131443 (b&w film copy neg.)",
+    "source_created": "2002-06-13T00:00:00Z",
+    "source_modified": "2004-02-19T00:00:00Z",
+    "subjects": [
+        "Roosevelt, Theodore,--1858-1919.",
+        "Elephants--Africa--1900-1920.",
+        "Dead animals--Africa--1900-1920.",
+        "Lantern slides--1900-1920."
+    ],
+    "title": "[Theodore Roosevelt, three-quarter length portrait, standing next to dead elephant, holding gun, probably in Africa]"
+}

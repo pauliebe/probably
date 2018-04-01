@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22- D-2530 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-09T00:00:00Z",
+    "created_published_date": "[19]37 October 26.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/23500/23511r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/23500/23511_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/23500/23511_150px.jpg"
+    },
+    "index": 1016,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016872483/",
+        "resource": "//www.loc.gov/pictures/item/2016872483/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-09T00:00:00Z",
+    "pk": "2016872483",
+    "reproduction_number": "LC-DIG-hec-23511 (digital file from original negative)",
+    "source_created": "2009-04-21T00:00:00Z",
+    "source_modified": "2018-01-05T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Glass negatives."
+    ],
+    "title": "In spotlight at CIO-A.F. of L. peace meeting. Washington, D.C., Oct. 26. Leaving the CIO-AF of L peace meeting at the Willard Hotel today these three CIO leaders told newsmen that proposals of the Committee for Industrial Organization caused a sensation when offered at the confab. Under the terms the CIO offered to return to the American Federation of Labor as an independent, a situation that which would probably result in the CIO becoming the dominant wing of the American Labor Movement. Left to right: Charles Howard, President of the International Typographical Union and Secretary of the CIO; Philip Murray, Chairman of the CIO Delegation [...] meeting; and Joseph Curran, President of the National Maritime Union. 10/26/37"
+}

@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER CAL,58-SMAVI.V,1--47",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ca/ca1700/ca1749/photos/042103pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ca/ca1700/ca1749/photos/042103p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ca/ca1700/ca1749/photos/042103p_150px.jpg"
+    },
+    "index": 642,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ca1749.photos.042103p/",
+        "resource": "//www.loc.gov/pictures/item/ca1749.photos.042103p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "ca1749.photos.042103p",
+    "reproduction_number": "HAER CAL,58-SMAVI.V,1--47",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "47.  Pouring deck columns, steam-powered concrete mixer at center; direction of view not clear, but probably to north. - Parks Bar Bridge, Spanning Yuba River at State Highway 20, Smartville, Yuba County, CA"
+}

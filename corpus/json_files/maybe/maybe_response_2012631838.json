@@ -1,0 +1,41 @@
+{
+    "call_number": "BLOCK, no. 1706 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "6-8-[19]47.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/01700/01706_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/01700/01706_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/01700/01706_150px.jpg"
+    },
+    "index": 95,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012631838/",
+        "resource": "//www.loc.gov/pictures/item/2012631838/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2012631838",
+    "reproduction_number": "LC-DIG-hlb-01706 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2013-03-19T00:00:00Z",
+    "subjects": [
+        "Truman, Harry S.,--1884-1972.",
+        "International economic assistance",
+        "Lend-lease operations (1941-1945)",
+        "World War, 1939-1945--Aftermath",
+        "Uncle Sam (Symbolic character)",
+        "ships",
+        "International economic assistance",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe you shouldn't have sunk it so soon\""
+}

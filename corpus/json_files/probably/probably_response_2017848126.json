@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW3- 020270-E [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-09-26T00:00:00Z",
+    "created_published_date": "[1943 Mar.]",
+    "creator": "Vachon, John, 1914-1975",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8d26000/8d26800/8d26868r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8d26000/8d26800/8d26868_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8d26000/8d26800/8d26868_150px.jpg"
+    },
+    "index": 811,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017848126/",
+        "resource": "//www.loc.gov/pictures/item/2017848126/resource/"
+    },
+    "medium": "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-09-26T00:00:00Z",
+    "pk": "2017848126",
+    "reproduction_number": "LC-DIG-fsa-8d26868 (digital file from original neg.)\nLC-USW3-020270-E (b&w film nitrate neg.)",
+    "source_created": "2001-08-03T00:00:00Z",
+    "source_modified": "2017-09-22T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Nitrate negatives."
+    ],
+    "title": "[Street with trucks, probably New York Avenue, N.E., Washington, D.C.]"
+}

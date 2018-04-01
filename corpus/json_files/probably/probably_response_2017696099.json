@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-USE6- D-008552 [P&P] LOT 3479  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "[between 1940 and 1946]",
+    "creator": "United States. Office of War Information.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b05000/8b05700/8b05785r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b05000/8b05700/8b05785_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b05000/8b05700/8b05785_150px.jpg"
+    },
+    "index": 750,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017696099/",
+        "resource": "//www.loc.gov/pictures/item/2017696099/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017696099",
+    "reproduction_number": "LC-USE6-D-008552 (b&w film neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "Safety film negatives."
+    ],
+    "title": "One year of reciprocal aid. Food is probably the most important contribution of Australia to the supplies of the U.S. armed forces stationed in the Pacific. She sent shiploads to our beleaguered men at Bataan and has increased her contributions as the size of our forces has grown. The U.S. ships practically no food to our troops in Australia and New Zealand. The Americans are supplied on the spot, and the space thus freed in our ships is used for tanks, planes and amunitions"
+}

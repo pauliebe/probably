@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-004350 [P&P] LOT 2049  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "1942 Jan.",
+    "creator": "Palmer, Alfred T.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b03000/8b03100/8b03103r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b03000/8b03100/8b03103_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b03000/8b03100/8b03103_150px.jpg"
+    },
+    "index": 744,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017692093/",
+        "resource": "//www.loc.gov/pictures/item/2017692093/resource/"
+    },
+    "medium": "1 negative : safety ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017692093",
+    "reproduction_number": "LC-USE6-D-004350 (b&w film neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "United States--Mid West.",
+        "Safety film negatives."
+    ],
+    "title": "Production. Milling machines and machine castings. A large tracer-controlled multiple spindle vertical hydraulic milling machine being tried out on the runoff line of a large machine tool plant, for its eventual job of helping to make master connecting rods for radial aircraft engines. Four of the partially completed rods are mounted on the fixtures in the foreground. When in operation, the machine will have fixtures for eight such rods, so that while the completely automatic tracing finger guides the four cutters (extreme background) around one set of four rods, the operator can be unloading and reloading the other four fixtures with new parts to be milled. This machine will probably be the fourth or fifth of a series of perhaps a dozen different sizes and types of machine tools which will each have to perform their operations before these parts become finished connecting rods"
+}

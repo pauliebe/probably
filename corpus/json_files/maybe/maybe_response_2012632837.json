@@ -1,0 +1,41 @@
+{
+    "call_number": "BLOCK, no. 3366 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "8-7-[19]53.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/03300/03366_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/03300/03366_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/03300/03366_150px.jpg"
+    },
+    "index": 28,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012632837/",
+        "resource": "//www.loc.gov/pictures/item/2012632837/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012632837",
+    "reproduction_number": "LC-DIG-hlb-03366 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2013-03-19T00:00:00Z",
+    "subjects": [
+        "Eisenhower, Dwight D.--(Dwight David),--1890-1969.",
+        "Colorado.",
+        "travel",
+        "taxes",
+        "Prices",
+        "Debt",
+        "mountains",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe the beach would be more restful\""
+}

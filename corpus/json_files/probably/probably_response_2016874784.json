@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-H22-D- 5482 [P&P]",
+    "collection": [
+        "diof",
+        "hec",
+        "pp"
+    ],
+    "created": "2018-01-17T00:00:00Z",
+    "created_published_date": "[19]39 January 12.",
+    "creator": "Harris & Ewing",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hec/25800/25815r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hec/25800/25815_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hec/25800/25815_150px.jpg"
+    },
+    "index": 1031,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016874784/",
+        "resource": "//www.loc.gov/pictures/item/2016874784/resource/"
+    },
+    "medium": "1 negative : glass ; 4 x 5 in. or smaller",
+    "medium_brief": "1 negative :",
+    "modified": "2018-01-17T00:00:00Z",
+    "pk": "2016874784",
+    "reproduction_number": "LC-DIG-hec-25815 (digital file from original negative)",
+    "source_created": "2009-05-27T00:00:00Z",
+    "source_modified": "2018-01-09T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.).",
+        "Glass negatives."
+    ],
+    "title": "Frankfurter critic passes by. Washington, D.C., Jan. 12. Probably it was just a coincidence that Mrs. Elizabeth Dilling, right, anti- Communist author, was passing by as this picture of Prof. Felix Frankfurter talking to Senator Alexander Wiley of Wisconsin in the Senate Judiciary Subcommittee hearing room. Yesterday before the committee, Mrs. Dilling assailed the nomination of Frankfurter to the Supreme Court and denounced all liberals, including the Roosevelt family, 1/12/39"
+}

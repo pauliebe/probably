@@ -1,0 +1,38 @@
+{
+    "call_number": "DRWG/US - Waud, no. 835 (AA size) [P&P]",
+    "collection": [
+        "ammem",
+        "cwd",
+        "diof",
+        "drwg",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[between 1860 and 1865]",
+    "creator": "Waud, Alfred R. (Alfred Rudolph), 1828-1891",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/20200/20201r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/20200/20201_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/20200/20201_150px.jpg"
+    },
+    "index": 331,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004661040/",
+        "resource": "//www.loc.gov/pictures/item/2004661040/resource/"
+    },
+    "medium": "1 drawing on cream paper : pencil ; 7.6 x 12.5 cm. (sheet)",
+    "medium_brief": "1 drawing on cream paper :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2004661040",
+    "reproduction_number": "LC-DIG-ppmsca-20201 (digital file from original item)",
+    "source_created": "1991-12-27T00:00:00Z",
+    "source_modified": "2009-11-25T00:00:00Z",
+    "subjects": [
+        "Dwellings--1860-1870.",
+        "United States",
+        "Drawings--American--1860-1870."
+    ],
+    "title": "[Building facade probably a city residence]"
+}

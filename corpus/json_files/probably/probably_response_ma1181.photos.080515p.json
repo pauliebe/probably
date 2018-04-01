@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER MASS,9-LOW,12A--1",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/ma/ma1100/ma1181/photos/080515pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/ma/ma1100/ma1181/photos/080515p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/ma/ma1100/ma1181/photos/080515p_150px.jpg"
+    },
+    "index": 671,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ma1181.photos.080515p/",
+        "resource": "//www.loc.gov/pictures/item/ma1181.photos.080515p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-17T00:00:00Z",
+    "pk": "ma1181.photos.080515p",
+    "reproduction_number": "HAER MASS,9-LOW,12A--1",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-17T00:00:00Z",
+    "subjects": null,
+    "title": "1.  Photocopy of a drawing (original in the Collection of the PL&C, Shelf 117, Drawing 334)--no date--Labeled 'PROBABLY HICKEY HALL DAM & LOCKS' - Western Canal, Hickey Hall Dam, Lowell, Middlesex County, MA"
+}

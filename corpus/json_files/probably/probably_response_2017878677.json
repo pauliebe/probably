@@ -1,0 +1,42 @@
+{
+    "call_number": "LC-USW36-1032 [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsac",
+        "pp",
+        "srtg"
+    ],
+    "created": "2017-09-12T00:00:00Z",
+    "created_published_date": "1942 May.",
+    "creator": "Palmer, Alfred T.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsac/1a35000/1a35100/1a35161r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsac/1a35000/1a35100/1a35161_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsac/1a35000/1a35100/1a35161_150px.jpg"
+    },
+    "index": 808,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017878677/",
+        "resource": "//www.loc.gov/pictures/item/2017878677/resource/"
+    },
+    "medium": "1 transparency : color.",
+    "medium_brief": "1 transparency :",
+    "modified": "2017-09-12T00:00:00Z",
+    "pk": "2017878677",
+    "reproduction_number": "LC-DIG-fsac-1a35161 (digital file from original transparency)\nLC-USW361-1032 (color film copy slide)",
+    "source_created": "1985-01-01T00:00:00Z",
+    "source_modified": "2017-09-07T00:00:00Z",
+    "subjects": [
+        "United States.--Marine Corps",
+        "World War, 1939-1945",
+        "Flight training",
+        "Air pilots",
+        "air bases",
+        "United States--Virginia--Langley Field",
+        "Portrait photographs",
+        "Transparencies--Color."
+    ],
+    "title": "[U.S. Army Air Forces pilot in front of a YB-17 bombing airplane, probably Langley field, Virginia]"
+}

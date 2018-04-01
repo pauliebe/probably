@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 11533-23 (J) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "ca. 1877.",
+    "creator": null,
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 1074,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2004681420/",
+        "resource": null
+    },
+    "medium": "74 slides : lantern, b&w ; 9 x 11 cm.",
+    "medium_brief": "74 slides :",
+    "modified": "2018-02-14T00:00:00Z",
+    "pk": "2004681420",
+    "reproduction_number": "",
+    "source_created": "2004-12-23T00:00:00Z",
+    "source_modified": "2010-04-23T00:00:00Z",
+    "subjects": null,
+    "title": "Gilbert H. Grosvenor collection of photographs of the Alexander Graham Bell family [1] drawings probably used to illustrate Alexander Graham Bell's lecture on sound waves and the telephone."
+}

@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-E14-MS- 004-069 [P&P]",
+    "collection": [
+        "cph",
+        "eam",
+        "pp"
+    ],
+    "created": "2016-11-22T00:00:00Z",
+    "created_published_date": "[1955 or 1956]",
+    "creator": "Office of Charles and Ray Eames.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/09400/09475_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/09400/09475_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/09400/09475_150px.jpg"
+    },
+    "index": 491,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016646992/",
+        "resource": "//www.loc.gov/pictures/item/2016646992/resource/"
+    },
+    "medium": "1 photograph : color transparency ; film width 35mm (slide format)",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-11-22T00:00:00Z",
+    "pk": "2016646992",
+    "reproduction_number": "LC-DIG-ds-09475 (digital file from original item)",
+    "source_created": "2016-04-27T00:00:00Z",
+    "source_modified": "2016-11-17T00:00:00Z",
+    "subjects": [
+        "Warner Bros.--1950-1960.",
+        "Bouquets--1950-1960.",
+        "Motion picture production & direction--1950-1960.",
+        "Men--1950-1960.",
+        "Slides--Color--1950-1960."
+    ],
+    "title": "[Hand holding up a bouquet of flowers with a Warner Bros. Studio mobile recording vehicle in the background, probably during the filming of \"The Spirit of St. Louis\"]"
+}

@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-A6199- 2895A [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-02-28T00:00:00Z",
+    "created_published_date": "[between 1914 and 1920]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/16600/16688r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/16600/16688_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/16600/16688_150px.jpg"
+    },
+    "index": 525,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017681689/",
+        "resource": "//www.loc.gov/pictures/item/2017681689/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-02-28T00:00:00Z",
+    "pk": "2017681689",
+    "reproduction_number": "LC-DIG-anrc-16688 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-02-27T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "France.",
+        "Glass negatives."
+    ],
+    "title": "Children at Chateau des Halles. A.R.C. Hospital for refugee and repatrie children near Lyon, welcoming a new A.R.C. worker who has just arrived. He is a dentist and their being so happy to see him probably indicates their unfamiliarity with the attention of dentists"
+}

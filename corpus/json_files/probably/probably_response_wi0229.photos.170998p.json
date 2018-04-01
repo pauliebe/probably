@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS WIS,41-SPAR.V,1--82",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-15T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/wi/wi0200/wi0229/photos/170998pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/wi/wi0200/wi0229/photos/170998p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/wi/wi0200/wi0229/photos/170998p_150px.jpg"
+    },
+    "index": 553,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/wi0229.photos.170998p/",
+        "resource": "//www.loc.gov/pictures/item/wi0229.photos.170998p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-15T00:00:00Z",
+    "pk": "wi0229.photos.170998p",
+    "reproduction_number": "HABS WIS,41-SPAR.V,1--82",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-15T00:00:00Z",
+    "subjects": null,
+    "title": "82.  LOG STRUCTURE (probably part of C.C.C. camp). Fort McCoy photograph #A-11, undated. - Fort McCoy, Sparta, Monroe County, WI"
+}

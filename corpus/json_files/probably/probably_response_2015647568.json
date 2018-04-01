@@ -1,0 +1,41 @@
+{
+    "call_number": "LOT 4168, no. 244 [P&P]",
+    "collection": [
+        "civwar",
+        "diof",
+        "pp",
+        "stereo"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[1865]",
+    "creator": "Brady's National Photographic Portrait Galleries",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/stereo/1s00000/1s04000/1s04300/1s04369r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/stereo/1s00000/1s04000/1s04300/1s04369_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/stereo/1s00000/1s04000/1s04300/1s04369_150px.jpg"
+    },
+    "index": 410,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2015647568/",
+        "resource": "//www.loc.gov/pictures/item/2015647568/resource/"
+    },
+    "medium": "1 photograph : albumen print ; mount 9 x 17 cm (stereograph format)",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2015647568",
+    "reproduction_number": "LC-DIG-stereo-1s04369 (digital file from original item, front)\nLC-DIG-stereo-2s04369 (digital file from original item, back)",
+    "source_created": "2015-05-15T00:00:00Z",
+    "source_modified": "2015-05-19T00:00:00Z",
+    "subjects": [
+        "Confederate States of America.--Army--People--Virginia--Petersburg--1860-1870.",
+        "African Americans--Virginia--Petersburg--1860-1870.",
+        "Soldiers--Confederate--Virginia--Petersburg--1860-1870.",
+        "Dead people--Virginia--Petersburg--1860-1870.",
+        "United States--History--Civil War, 1861-1865--Casualties--Confederate--Virginia--Petersburg.",
+        "Photographic prints--1860-1870.",
+        "Staged photographs--1860-1870.",
+        "Stereographs--1860-1870."
+    ],
+    "title": "Rebel artillery soldiers, killed in the trenches of \"Fort Hell,\" at the storming of Petersburgh, Va., April 2d, 1865 The one in the foreground has U.S. belts on, probably taken from a Union soldier prisoner, his uniform is grey cloth trimmed with red. This view was taken the morning after the fight."
+}

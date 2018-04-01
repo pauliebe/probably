@@ -1,0 +1,37 @@
+{
+    "call_number": "WOOD - PI, no. 1273 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2017-02-28T00:00:00Z",
+    "created_published_date": "1973 Sept. 12th.",
+    "creator": "Brooks, Charles, 1920-",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 509,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010646165/",
+        "resource": null
+    },
+    "medium": "1 drawing : ink brush, graphite, and opaque white ; on sheet 48 x 32.4 cm.",
+    "medium_brief": "1 drawing :",
+    "modified": "2017-02-28T00:00:00Z",
+    "pk": "2010646165",
+    "reproduction_number": "",
+    "source_created": "2010-06-16T00:00:00Z",
+    "source_modified": "2017-02-22T00:00:00Z",
+    "subjects": [
+        "Fulbright, J. William--(James William),--1905-1995.",
+        "Kissinger, Henry,--1923-",
+        "United States.--Congress.--Senate.--Committee on Foreign Relations--1970-1980.",
+        "Legislative hearings--United States--1970-1980.",
+        "Editorial cartoons--American--1970-1980.",
+        "Ink drawings--1970-1980."
+    ],
+    "title": "\"Oh, we'll probably confirm him-- but, first, he's got to pay for wiretaps and Vietnam!\""
+}

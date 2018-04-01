@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-005923 [P&P] LOT 1982  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "1942 July.",
+    "creator": "Rosener, Ann",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b07000/8b07300/8b07366r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b07000/8b07300/8b07366_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b07000/8b07300/8b07366_150px.jpg"
+    },
+    "index": 180,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017693580/",
+        "resource": "//www.loc.gov/pictures/item/2017693580/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017693580",
+    "reproduction_number": "LC-USE6-D-005923 (b&w film nitrate neg.)\nLC-DIG-fsa-8b07366 (digital file from original neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "United States--Michigan--Wayne County--Detroit.",
+        "Nitrate negatives."
+    ],
+    "title": "Women in industry. Flare gun production. \"What's new about women working in war industries?\" asks Mrs. Annette Caines of Detroit, who manned a milling machine in a gun factory during the last war and hasn't stopped work since. Now employed by a Midwest vacuum cleaner plant which has been converted to war work, Mrs. Caines processes flare gun parts on a drill press with the vigor of an eager, youthful worker. With a thirty-two-year-old son in the Army, Mrs. Caines has a deep personel interest in her job. \"We women want to fight with our men folks,\" she says. \"Maybe we can't shoot guns, but we sure can make the stuff for them to shoot with.\" Eureka Vacuum, Detroit, Michigan"
+}

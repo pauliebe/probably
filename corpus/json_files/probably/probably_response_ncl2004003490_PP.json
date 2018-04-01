@@ -1,0 +1,39 @@
+{
+    "call_number": "LOT 7479, v. 5, no. 2953 [P&P]",
+    "collection": [
+        "diof",
+        "nclc",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1912 May.",
+    "creator": "Hine, Lewis Wickes, 1874-1940",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/nclc/02500/02537r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/nclc/02500/02537_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/nclc/02500/02537_150px.jpg"
+    },
+    "index": 297,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/ncl2004003490/PP/",
+        "resource": "//www.loc.gov/pictures/item/ncl2004003490/PP/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "ncl2004003490/PP",
+    "reproduction_number": "LC-DIG-nclc-02537 (color digital file from b&w original print)\nLC-USZ62-86255 (b&w film copy negative)",
+    "source_created": "2004-01-08T00:00:00Z",
+    "source_modified": "2006-03-28T00:00:00Z",
+    "subjects": [
+        "Infants.",
+        "Families.",
+        "Adults.",
+        "Textile mill workers.",
+        "Wages.",
+        "United States--South Carolina--Rock Hill.",
+        "Photographic prints."
+    ],
+    "title": "J.A. Leazer a 19 year old weaver and his family. Highland Park Mill, Rock Hill, S.C., Began working at 9 years. Makes $1.50 a day now and says he probably can't get any more as a weaver. Many of them marry young.  Location: Rock Hill, South Carolina."
+}

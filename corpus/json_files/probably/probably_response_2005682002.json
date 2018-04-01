@@ -1,0 +1,38 @@
+{
+    "call_number": "LOT 2737 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1940-1944(?)",
+    "creator": "Photo ALJAC.",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 1080,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005682002/",
+        "resource": null
+    },
+    "medium": "47 snapshots ; 7 x 11 cm.",
+    "medium_brief": "47 snapshots ;",
+    "modified": "2018-02-14T00:00:00Z",
+    "pk": "2005682002",
+    "reproduction_number": "",
+    "source_created": "2005-05-06T00:00:00Z",
+    "source_modified": "2007-10-17T00:00:00Z",
+    "subjects": [
+        "Belgium--1940-1950.",
+        "Waterways--1940-1950.",
+        "Bridges--1940-1950.",
+        "Locks (Hydraulic engineering)--1940-1950.",
+        "Photographic prints--1940-1950.",
+        "Snapshots--1940-1950."
+    ],
+    "title": "An informal photographic survey of waterways, probably in Belgium, 1940-44(?)"
+}

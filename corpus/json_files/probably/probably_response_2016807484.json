@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-D4-32933 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1900 and 1910]",
+    "creator": "Jackson, William Henry, 1843-1942",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a10000/4a16000/4a16900/4a16961r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a10000/4a16000/4a16900/4a16961_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a10000/4a16000/4a16900/4a16961_150px.jpg"
+    },
+    "index": 899,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016807484/",
+        "resource": "//www.loc.gov/pictures/item/2016807484/resource/"
+    },
+    "medium": "1 negative : glass ; 8 x 10 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016807484",
+    "reproduction_number": "LC-DIG-det-4a16961 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-10-30T00:00:00Z",
+    "subjects": [
+        "Rapids.",
+        "United States--New York (State)--Adirondack Mountains.",
+        "Dry plate negatives."
+    ],
+    "title": "[Rapids, probably in Adirondack Mountains, N.Y.]"
+}

@@ -1,0 +1,36 @@
+{
+    "call_number": "LOOK - Job 49-O46, frame 23 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1949 Jan. 27 (date added to Look's library)",
+    "creator": "Kubrick, Stanley",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3d00000/3d02000/3d02300/3d02392r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3d00000/3d02000/3d02300/3d02392_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3d00000/3d02000/3d02300/3d02392_150px.jpg"
+    },
+    "index": 66,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005683174/",
+        "resource": "//www.loc.gov/pictures/item/2005683174/resource/"
+    },
+    "medium": "1 photographic print (contact sheet frame)",
+    "medium_brief": "1 photographic print (contact sheet frame)",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2005683174",
+    "reproduction_number": "LC-USZ6-2392 (b&w film copy neg.)",
+    "source_created": "2005-04-12T00:00:00Z",
+    "source_modified": "2010-10-20T00:00:00Z",
+    "subjects": [
+        "Commuters--Illinois--Chicago--1940-1950.",
+        "Railroad cars--Illinois--Chicago--1940-1950.",
+        "Contact sheets--1940-1950.",
+        "Photographic prints--1940-1950."
+    ],
+    "title": "[Men, probably commuters, walking along a platform next to a train]"
+}

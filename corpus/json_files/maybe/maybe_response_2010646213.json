@@ -1,0 +1,36 @@
+{
+    "call_number": "WOOD - PI, no. 1227 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1981 May 1.",
+    "creator": "Brooks, Charles, 1920-",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 17,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010646213/",
+        "resource": null
+    },
+    "medium": "1 drawing : ink brush and graphite, with opaque white ; on sheet 27.6 x 38.4 cm.",
+    "medium_brief": "1 drawing :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010646213",
+    "reproduction_number": "",
+    "source_created": "2010-06-17T00:00:00Z",
+    "source_modified": "2014-12-01T00:00:00Z",
+    "subjects": [
+        "Uncle Sam (Symbolic character)--1980-1990.",
+        "Recessions--United States--1980-1990.",
+        "Hospitals--1980-1990.",
+        "Editorial cartoons--American--1980-1990.",
+        "Ink drawings--1980-1990."
+    ],
+    "title": "\"Maybe you can stop feeling sorry for yourself-- at least, some of your vital signs are improving ... I think\""
+}

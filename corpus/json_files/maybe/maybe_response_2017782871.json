@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-USF34- 032853-D [P&P] LOT 1700  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-22T00:00:00Z",
+    "created_published_date": "1939 Apr.",
+    "creator": "Lee, Russell, 1903-1986",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b21000/8b21400/8b21486r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21400/8b21486_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21400/8b21486_150px.jpg"
+    },
+    "index": 194,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017782871/",
+        "resource": "//www.loc.gov/pictures/item/2017782871/resource/"
+    },
+    "medium": "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-22T00:00:00Z",
+    "pk": "2017782871",
+    "reproduction_number": "LC-USF34-032853-D (b&w film neg.)",
+    "source_created": "2000-09-15T00:00:00Z",
+    "source_modified": "2017-08-16T00:00:00Z",
+    "subjects": [
+        "United States--Louisiana--Tangipahoa Parish--Hammond.",
+        "Strawberry pickers--Louisiana",
+        "Safety film negatives."
+    ],
+    "title": "Negro tenant farmer who grew strawberries on shares near Hammond, Louisiana. The husband said that in a good year they came out with maybe two hundred dollars"
+}

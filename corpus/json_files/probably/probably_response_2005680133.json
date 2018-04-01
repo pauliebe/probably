@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 13657, no. 20 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[1945, probably printed 1955]",
+    "creator": "Khalde\u012d, Evgeni\u012d, 1917-1997",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c20000/3c21000/3c21800/3c21806_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c20000/3c21000/3c21800/3c21806_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c20000/3c21000/3c21800/3c21806_150px.jpg"
+    },
+    "index": 339,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005680133/",
+        "resource": "//www.loc.gov/pictures/item/2005680133/resource/"
+    },
+    "medium": "1 photographic print : gelatin silver.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2005680133",
+    "reproduction_number": "LC-USZ62-121806 (b&w film copy neg.)",
+    "source_created": "2005-03-09T00:00:00Z",
+    "source_modified": "2013-09-12T00:00:00Z",
+    "subjects": [
+        "World War, 1939-1945--Destruction & pillage--Germany--Berlin.",
+        "World War, 1939-1945--Casualties--Germany--Berlin.",
+        "Dead persons--Germany--Berlin--1940-1950.",
+        "Gelatin silver prints--1950-1960."
+    ],
+    "title": "[A dead soldier and burned vehicle on a street, probably in Berlin]"
+}

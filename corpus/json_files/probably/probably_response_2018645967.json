@@ -1,0 +1,41 @@
+{
+    "call_number": "LOT 14183-1, no. 64 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2018-02-27T00:00:00Z",
+    "created_published_date": "[between 1917 and 1918]",
+    "creator": "Schulz, H. J. (Henry J.), 1886-1951",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/54600/54697r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/54600/54697_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/54600/54697_150px.jpg"
+    },
+    "index": 1114,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2018645967/",
+        "resource": "//www.loc.gov/pictures/item/2018645967/resource/"
+    },
+    "medium": "1 photograph : gelatin silver print ; sheet 14 x 9 cm (postcard format)",
+    "medium_brief": "1 photograph :",
+    "modified": "2018-02-27T00:00:00Z",
+    "pk": "2018645967",
+    "reproduction_number": "LC-DIG-ppmsca-54697 (digital file from original)",
+    "source_created": "2018-02-15T00:00:00Z",
+    "source_modified": "2018-02-20T00:00:00Z",
+    "subjects": [
+        "United States.--Army--People--1910-1920.",
+        "World War, 1914-1918--Military personnel--American.",
+        "Soldiers--American--1910-1920.",
+        "Military uniforms--American--1910-1920.",
+        "Flags--1910-1920.",
+        "Backdrops--1910-1920.",
+        "Photographic postcards--1910-1920.",
+        "Photographic prints--1910-1920.",
+        "Portrait photographs--1910-1920."
+    ],
+    "title": "[Frank Rice in uniform in front of American flag and painted backdrop showing military camp, probably Camp Taylor, Louisville, Kentucky]"
+}

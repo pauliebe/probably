@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-U9- 9498-25 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1963 April.",
+    "creator": "Benyas, Bob, 1923-2014",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/02900/02913_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/02900/02913_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/02900/02913_150px.jpg"
+    },
+    "index": 129,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012649160/",
+        "resource": "//www.loc.gov/pictures/item/2012649160/resource/"
+    },
+    "medium": "1 negative : film.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012649160",
+    "reproduction_number": "LC-DIG-ds-02913 (digital file from original negative)",
+    "source_created": "2012-08-17T00:00:00Z",
+    "source_modified": "2014-05-14T00:00:00Z",
+    "subjects": [
+        "Romney, Mitt--Family.",
+        "Romney, George W.,--1907-1995--Family.",
+        "Governors--Michigan--1960-1970.",
+        "Film negatives--1960-1970.",
+        "Group portraits--1960-1970.",
+        "Portrait photographs--1960-1970."
+    ],
+    "title": "[Michigan Governor George Romney with his son Mitt, seated in room, probably at their home]"
+}

@@ -1,0 +1,39 @@
+{
+    "call_number": "BLOCK, no. 1394 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1946 April] c1946.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/01300/01394_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/01300/01394_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/01300/01394_150px.jpg"
+    },
+    "index": 16,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010636878/",
+        "resource": "//www.loc.gov/pictures/item/2010636878/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010636878",
+    "reproduction_number": "LC-DIG-hlb-01394 (digital file from original drawing)",
+    "source_created": "2009-12-02T00:00:00Z",
+    "source_modified": "2015-07-29T00:00:00Z",
+    "subjects": [
+        "United States.--Congress--(79th :--1945-1946)",
+        "Legislation--United States.",
+        "Legislators--United States.",
+        "Price regulation--United States.",
+        "Public opinion--United States.",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe we ought to think this over a little more\""
+}

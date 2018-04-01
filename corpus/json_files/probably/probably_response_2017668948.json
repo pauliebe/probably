@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-A6195- 4472 [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-02-21T00:00:00Z",
+    "created_published_date": "21 November 1914 [date received]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/02900/02969r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/02900/02969_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/02900/02969_150px.jpg"
+    },
+    "index": 504,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017668948/",
+        "resource": "//www.loc.gov/pictures/item/2017668948/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-02-21T00:00:00Z",
+    "pk": "2017668948",
+    "reproduction_number": "LC-DIG-anrc-02969 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-02-17T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "France.",
+        "Glass negatives."
+    ],
+    "title": "Two little shoes found in the pockets of a mortally wounded Belgian soldier, have touched the heart strings of the nurses, attendants and physicians in the French Hospital where he lies at the point of death. The story of the shoes is a heart stirring one. With a letter they were found in this Belgian cyclists pocket. The letter was addressed to his wife from whom he had been separated since the destruction of Termonde, their home. In tender words he penned the message stating that he was enclosing a pair of shoes (hanging at the head of the bed) for their three year old baby with the money he had earned as a scout in King Alberts army. The tenderness of the letter and the mute pathos of the little shoes have moved every one in the hospital to employ every known agency of skill, science, and hard work, to snatch the brave soldier from the pathway of the \"Grim Reaper\" and restore him if possible to his little family. The incident is probably the most touching one yet met with by the hospital attendants"
+}

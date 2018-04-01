@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS SC,8-MONCO.V,5--31",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/sc/sc0200/sc0263/photos/152161pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/sc/sc0200/sc0263/photos/152161p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/sc/sc0200/sc0263/photos/152161p_150px.jpg"
+    },
+    "index": 596,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/sc0263.photos.152161p/",
+        "resource": "//www.loc.gov/pictures/item/sc0263.photos.152161p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "sc0263.photos.152161p",
+    "reproduction_number": "HABS SC,8-MONCO.V,5--31",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "31.  SECOND FLOOR, NORTHWEST ROOM, SOUTH WALL. Three raised-panel doors with bolection panel molds, all probably original with house. - Mulberry, Cooper River, West Branch, Moncks Corner, Berkeley County, SC"
+}

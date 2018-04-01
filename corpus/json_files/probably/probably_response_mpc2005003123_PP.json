@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-M307- 80 [P&P]",
+    "collection": [
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1930 and 1946]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/11900/11992_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/11900/11992_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/11900/11992_150px.jpg"
+    },
+    "index": 248,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2005003123/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2005003123/PP/resource/"
+    },
+    "medium": "1 slide : lantern.",
+    "medium_brief": "1 slide :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "mpc2005003123/PP",
+    "reproduction_number": "LC-DIG-matpc-11992 (digital file from original photo)",
+    "source_created": "2005-05-23T00:00:00Z",
+    "source_modified": "2009-06-16T00:00:00Z",
+    "subjects": [
+        "Beaches.",
+        "Bathing suits.",
+        "Umbrellas.",
+        "Israel--Tel Aviv.",
+        "Lantern slides."
+    ],
+    "title": "[Beach, probably in Tel Aviv]"
+}

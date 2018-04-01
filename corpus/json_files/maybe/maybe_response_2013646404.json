@@ -1,0 +1,37 @@
+{
+    "call_number": "NYWTS - SUBJ/GEOG--Football -- Children [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "1964 Sept. 5.",
+    "creator": "Palumbo, Paul",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/03700/03720r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/03700/03720_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/03700/03720_150px.jpg"
+    },
+    "index": 138,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2013646404/",
+        "resource": "//www.loc.gov/pictures/item/2013646404/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2013646404",
+    "reproduction_number": "LC-DIG-ds-03720 (digital file from original photograph)",
+    "source_created": "2013-03-26T00:00:00Z",
+    "source_modified": "2013-03-26T00:00:00Z",
+    "subjects": [
+        "Boys--1960-1970.",
+        "Football--1960-1970.",
+        "Play (Recreation)--1960-1970.",
+        "Greenwich Village (New York, N.Y.)",
+        "Photographic prints--1960-1970."
+    ],
+    "title": "Maybe the Giants could use them"
+}

@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 13657, no. 2 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1945, printed 1955]",
+    "creator": "Khalde\u012d, Evgeni\u012d, 1917-1997",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c20000/3c21000/3c21700/3c21798_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c20000/3c21000/3c21700/3c21798_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c20000/3c21000/3c21700/3c21798_150px.jpg"
+    },
+    "index": 57,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005680312/",
+        "resource": "//www.loc.gov/pictures/item/2005680312/resource/"
+    },
+    "medium": "1 photographic print : gelatin silver.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2005680312",
+    "reproduction_number": "LC-USZ62-121798 (b&w film copy neg.)",
+    "source_created": "2005-03-11T00:00:00Z",
+    "source_modified": "2013-09-12T00:00:00Z",
+    "subjects": [
+        "World War, 1939-1945--Military personnel--Soviet--Russia.",
+        "Sailors--Soviet--Russia--1940-1950.",
+        "Flags--Soviet--1940-1950.",
+        "Gelatin silver prints--1950-1960."
+    ],
+    "title": "[Soviet sailors, one holding a flag, on a hill overlooking a port, probably Novorossiik]"
+}

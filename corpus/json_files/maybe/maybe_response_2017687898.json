@@ -1,0 +1,38 @@
+{
+    "call_number": "LC-DIG-highsm- 38006 (ONLINE) [P&P]",
+    "collection": [
+        "diof",
+        "highsm",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-03-21T00:00:00Z",
+    "created_published_date": "2016-05-19.",
+    "creator": "Highsmith, Carol M., 1946-",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/highsm/38000/38006r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/highsm/38000/38006_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/highsm/38000/38006_150px.jpg"
+    },
+    "index": 174,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017687898/",
+        "resource": "//www.loc.gov/pictures/item/2017687898/resource/"
+    },
+    "medium": "1 photograph : digital, tiff file, color.",
+    "medium_brief": "1 photograph :",
+    "modified": "2017-03-21T00:00:00Z",
+    "pk": "2017687898",
+    "reproduction_number": "LC-DIG-highsm-38006 (original digital file)",
+    "source_created": "2017-02-14T00:00:00Z",
+    "source_modified": "2017-03-17T00:00:00Z",
+    "subjects": [
+        "United States--Colorado--Moffat County.",
+        "America",
+        "dirt roads",
+        "Rural scenes",
+        "Digital photographs--Color--2010-2020."
+    ],
+    "title": "Dirt road to nowhere in rural Moffat County, Colorado. . . well, maybe Wyoming, which is just a few feet away"
+}

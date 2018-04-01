@@ -1,0 +1,42 @@
+{
+    "call_number": "CD 1 - Berryman (C.K.), no. 182 (A size)",
+    "collection": [
+        "2rights",
+        "acd",
+        "acr",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "1942 Sept. 7.",
+    "creator": "Berryman, Clifford Kennedy, 1869-1949",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/acd/2a05000/2a05800/2a05887_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/acd/2a05000/2a05800/2a05887_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/acd/2a05000/2a05800/2a05887_150px.jpg"
+    },
+    "index": 141,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016678477/",
+        "resource": "//www.loc.gov/pictures/item/2016678477/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016678477",
+    "reproduction_number": "",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-08-04T00:00:00Z",
+    "subjects": [
+        "Henderson, Leon,--1895-1986.",
+        "Nelson, Donald Marr,--1888-1959.",
+        "Land, Emory Scott,--1879-1971.",
+        "World War, 1939-1945--Economic & industrial aspects--United States.",
+        "Government officials--United States--1940-1950.",
+        "Kings--1940-1950.",
+        "Drawings.",
+        "Editorial cartoons--American."
+    ],
+    "title": "Maybe he will sit on them"
+}

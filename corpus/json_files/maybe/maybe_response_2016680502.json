@@ -1,0 +1,42 @@
+{
+    "call_number": "CD 1 - Crichton, no. 5 (B size)",
+    "collection": [
+        "2rights",
+        "acd",
+        "acr",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "[between 1900 June 20 and 1900 Aug. 15]",
+    "creator": "Crichton, A.T. (Arthur T.), approximately 1863-1937",
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 150,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016680502/",
+        "resource": null
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016680502",
+    "reproduction_number": "",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-08-04T00:00:00Z",
+    "subjects": [
+        "Li, Hung-chang,--1823-1901.",
+        "Doves",
+        "Emperors",
+        "dragons",
+        "China--History--Boxer Rebellion, 1899-1901",
+        "Skulls",
+        "Cartoons (Commentary)--American.",
+        "Drawings."
+    ],
+    "title": "He knows the beast, maybe he can do something with it"
+}

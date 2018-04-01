@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF34- 014666-D [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-10T00:00:00Z",
+    "created_published_date": "1941.",
+    "creator": "Dick, Sheldon",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b31000/8b31200/8b31229r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b31000/8b31200/8b31229_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b31000/8b31200/8b31229_150px.jpg"
+    },
+    "index": 843,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017765613/",
+        "resource": "//www.loc.gov/pictures/item/2017765613/resource/"
+    },
+    "medium": "1 negative : nitrate ; 3 1/4 x 4 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-10T00:00:00Z",
+    "pk": "2017765613",
+    "reproduction_number": "LC-USF34-014666-D (b&w film nitrate neg.)\nLC-DIG-fsa-8b31229 (digital file from original neg.)",
+    "source_created": "1998-09-25T00:00:00Z",
+    "source_modified": "2017-10-03T00:00:00Z",
+    "subjects": [
+        "United States.",
+        "Nitrate negatives."
+    ],
+    "title": "Small furniture made from scrap materials, probably on a Farm Security Administration project"
+}

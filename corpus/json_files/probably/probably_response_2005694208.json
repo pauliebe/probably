@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 4734 (G) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "c1925-1928.",
+    "creator": "McKay, R. H. (Rollin H.)",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 1100,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005694208/",
+        "resource": null
+    },
+    "medium": "15 photos.",
+    "medium_brief": "15 photos.",
+    "modified": "2018-02-14T00:00:00Z",
+    "pk": "2005694208",
+    "reproduction_number": "",
+    "source_created": "2005-09-29T00:00:00Z",
+    "source_modified": "2005-10-18T00:00:00Z",
+    "subjects": null,
+    "title": "Views of mountain and river scenery, probably in the Pacific northwest, 1925-28"
+}

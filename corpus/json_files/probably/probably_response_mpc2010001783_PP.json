@@ -1,0 +1,34 @@
+{
+    "call_number": "LC-M33- 4943 [P&P]",
+    "collection": [
+        "diof",
+        "matpc",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[approximately 1920 to 1933]",
+    "creator": "American Colony (Jerusalem), Photo Dept.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/matpc/16200/16286r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/matpc/16200/16286_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/matpc/16200/16286_150px.jpg"
+    },
+    "index": 265,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/mpc2010001783/PP/",
+        "resource": "//www.loc.gov/pictures/item/mpc2010001783/PP/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4 x 5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "mpc2010001783/PP",
+    "reproduction_number": "LC-DIG-matpc-16286 (digital file from original photo)",
+    "source_created": "2007-01-03T00:00:00Z",
+    "source_modified": "2007-02-28T00:00:00Z",
+    "subjects": [
+        "Jordan--Petra (Extinct city).",
+        "Nitrate negatives."
+    ],
+    "title": "Petra. Wadi-Ed-D\u00ear. Idol niche en route to ed-D\u00ear. Probably type after Roman occupation"
+}

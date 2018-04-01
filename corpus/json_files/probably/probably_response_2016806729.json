@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-D4-30886 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1890 and 1910]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a10000/4a16000/4a16300/4a16360r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a10000/4a16000/4a16300/4a16360_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a10000/4a16000/4a16300/4a16360_150px.jpg"
+    },
+    "index": 898,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016806729/",
+        "resource": "//www.loc.gov/pictures/item/2016806729/resource/"
+    },
+    "medium": "1 negative : glass ; 6.5 x 8.5 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016806729",
+    "reproduction_number": "LC-DIG-det-4a16360 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-10-30T00:00:00Z",
+    "subjects": [
+        "Beaches.",
+        "United States--New Jersey--Atlantic City.",
+        "Dry plate negatives."
+    ],
+    "title": "[In the surf, probably Atlantic City]"
+}

@@ -1,0 +1,42 @@
+{
+    "call_number": "CD 1 - Berryman (C.K.), no. 1140 (B size)",
+    "collection": [
+        "2rights",
+        "acd",
+        "acr",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "[1904]",
+    "creator": "Berryman, Clifford Kennedy, 1869-1949",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/acd/2a06000/2a06800/2a06817_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/acd/2a06000/2a06800/2a06817_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/acd/2a06000/2a06800/2a06817_150px.jpg"
+    },
+    "index": 468,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016679423/",
+        "resource": "//www.loc.gov/pictures/item/2016679423/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016679423",
+    "reproduction_number": "LC-DIG-acd-2a06817 (digital file from original)",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-08-04T00:00:00Z",
+    "subjects": [
+        "Hanna, Marcus Alonzo,--1837-1904.",
+        "Presidential elections",
+        "Running",
+        "Vice presidents",
+        "Roosevelt, Theodore",
+        "Bears",
+        "Cartoons (Commentary)--American.",
+        "Drawings."
+    ],
+    "title": "The President could probably pick the winner in such a race"
+}

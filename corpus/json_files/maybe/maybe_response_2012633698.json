@@ -1,0 +1,39 @@
+{
+    "call_number": "BLOCK, no. 4353 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "4-21-[19]57.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/04300/04353_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/04300/04353_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/04300/04353_150px.jpg"
+    },
+    "index": 35,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012633698/",
+        "resource": "//www.loc.gov/pictures/item/2012633698/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012633698",
+    "reproduction_number": "LC-DIG-hlb-04353 (digital file from original drawing)",
+    "source_created": "2012-06-21T00:00:00Z",
+    "source_modified": "2013-03-19T00:00:00Z",
+    "subjects": [
+        "Eisenhower, Dwight D.--(Dwight David),--1890-1969.",
+        "United States.--Congress.",
+        "kitchens",
+        "Economic policy",
+        "Fire fighters",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe I'd better show you where the fire is\""
+}

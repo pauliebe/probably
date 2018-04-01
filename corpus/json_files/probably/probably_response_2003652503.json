@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 13103, no. 30 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[between 1943 and 1945]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c30000/3c32000/3c32400/3c32478_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c30000/3c32000/3c32400/3c32478_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c30000/3c32000/3c32400/3c32478_150px.jpg"
+    },
+    "index": 30,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2003652503/",
+        "resource": "//www.loc.gov/pictures/item/2003652503/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2003652503",
+    "reproduction_number": "LC-USZ62-132478 (b&w film copy neg.)",
+    "source_created": "2003-01-03T00:00:00Z",
+    "source_modified": "2007-03-21T00:00:00Z",
+    "subjects": [
+        "United States.--Army.--Women's Army Auxiliary Corps--People--1940-1950.",
+        "African Americans--Military service--1940-1950.",
+        "Women--Military service--1940-1950.",
+        "Photographic prints--1940-1950."
+    ],
+    "title": "[African American women presenting papers to a clerk, probably WAACs about to begin training]"
+}

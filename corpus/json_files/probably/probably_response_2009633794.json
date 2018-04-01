@@ -1,0 +1,34 @@
+{
+    "call_number": "PRES FILE - Roosevelt, Theodore--Speaking [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "c1910 September 10.",
+    "creator": "American Press Association",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/36600/36616r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/36600/36616_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/36600/36616_150px.jpg"
+    },
+    "index": 104,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2009633794/",
+        "resource": "//www.loc.gov/pictures/item/2009633794/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2009633794",
+    "reproduction_number": "LC-DIG-ppmsca-36616 (digital file from original item)\nLC-USZ62-11958 (b&w film copy neg.)",
+    "source_created": "2009-11-30T00:00:00Z",
+    "source_modified": "2013-09-10T00:00:00Z",
+    "subjects": [
+        "Roosevelt, Theodore,--1858-1919.",
+        "Photographic prints--1910."
+    ],
+    "title": "[Theodore Roosevelt speaking with two men, probably reporters]"
+}

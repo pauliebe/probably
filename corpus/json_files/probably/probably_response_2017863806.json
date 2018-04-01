@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USW3- 040002-E [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-17T00:00:00Z",
+    "created_published_date": "1943 or 1944?",
+    "creator": "Parrino, Nick",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8d34000/8d34200/8d34221r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8d34000/8d34200/8d34221_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8d34000/8d34200/8d34221_150px.jpg"
+    },
+    "index": 854,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017863806/",
+        "resource": "//www.loc.gov/pictures/item/2017863806/resource/"
+    },
+    "medium": "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-17T00:00:00Z",
+    "pk": "2017863806",
+    "reproduction_number": "LC-DIG-fsa-8d34221 (digital file from original neg.)\nLC-USW3-040002-E (b&w film nitrate neg.)",
+    "source_created": "2001-08-07T00:00:00Z",
+    "source_modified": "2017-10-16T00:00:00Z",
+    "subjects": [
+        "Italy--Sicily--Catania.",
+        "Nitrate negatives."
+    ],
+    "title": "Catania, Sicily. Entrance to an exhibition on the allied cause, probably prepared by the United States Office of War Information"
+}

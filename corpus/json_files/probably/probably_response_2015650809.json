@@ -1,0 +1,36 @@
+{
+    "call_number": "AMB/TIN no. 1549 [P&P]",
+    "collection": [
+        "ambtin",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1850s?]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 172,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2015650809/",
+        "resource": null
+    },
+    "medium": "1 photograph : ambrotype ; plate 84 x 70 mm (sixth plate format), case 95 x 82 mm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2015650809",
+    "reproduction_number": "",
+    "source_created": "2015-10-21T00:00:00Z",
+    "source_modified": "2015-10-21T00:00:00Z",
+    "subjects": [
+        "Mothers--1850-1860.",
+        "Infants--1850-1860.",
+        "Ambrotypes--1850-1860.",
+        "Group portraits--1850-1860.",
+        "Portrait photographs--1850-1860."
+    ],
+    "title": "[Unidentified mother and baby, probably in the Rodgers family]"
+}

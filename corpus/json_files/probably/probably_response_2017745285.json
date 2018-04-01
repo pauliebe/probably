@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF33- 015605-M5 [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-11T00:00:00Z",
+    "created_published_date": "1939.",
+    "creator": "Myers, David (David Moffat)",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8a31000/8a31500/8a31567r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8a31000/8a31500/8a31567_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8a31000/8a31500/8a31567_150px.jpg"
+    },
+    "index": 774,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017745285/",
+        "resource": "//www.loc.gov/pictures/item/2017745285/resource/"
+    },
+    "medium": "1 negative : nitrate ; 35 mm.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-11T00:00:00Z",
+    "pk": "2017745285",
+    "reproduction_number": "LC-USF33-015605-M5 (b&w film nitrate neg.)\nLC-DIG-fsa-8a31567 (digital file from original neg.)",
+    "source_created": "1997-11-18T00:00:00Z",
+    "source_modified": "2017-07-25T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Nitrate negatives."
+    ],
+    "title": "Washington, D.C. Two women, probably government clerks, getting ready to board a street car"
+}

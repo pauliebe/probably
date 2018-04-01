@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-F9-02-4501-067 -09 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[between 1940 and 1945]",
+    "creator": "Frissell, Toni, 1907-1988",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/05000/05048r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/05000/05048_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/05000/05048_150px.jpg"
+    },
+    "index": 386,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2013651903/",
+        "resource": "//www.loc.gov/pictures/item/2013651903/resource/"
+    },
+    "medium": "1 negative : nitrate.",
+    "medium_brief": "1 negative :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2013651903",
+    "reproduction_number": "LC-DIG-ds-05048 (digital file from b&w film negative)",
+    "source_created": "2014-01-09T00:00:00Z",
+    "source_modified": "2015-03-02T00:00:00Z",
+    "subjects": [
+        "World War, 1939-1945--Religious aspects.",
+        "Churches--Europe--1940-1950.",
+        "Soldiers--Europe--1940-1950.",
+        "Nitrate negatives--1940-1950."
+    ],
+    "title": "[Soldier looking at a statue of the Madonna and Child in a church, probably in Europe during World War II]"
+}

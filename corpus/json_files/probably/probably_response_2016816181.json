@@ -1,0 +1,40 @@
+{
+    "call_number": "LC-D41-126 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "[between 1914 and 1920]",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a25000/4a25800/4a25829r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a25000/4a25800/4a25829_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a25000/4a25800/4a25829_150px.jpg"
+    },
+    "index": 948,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016816181/",
+        "resource": "//www.loc.gov/pictures/item/2016816181/resource/"
+    },
+    "medium": "1 negative : glass ; 8 x 10 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016816181",
+    "reproduction_number": "LC-DIG-det-4a25829 (digital file from original)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-03T00:00:00Z",
+    "subjects": [
+        "Armored vehicles.",
+        "Soldiers.",
+        "Roads.",
+        "World War, 1914-1918.",
+        "France.",
+        "Dry plate negatives.",
+        "Photographic prints--Reproductions."
+    ],
+    "title": "[Soldiers looking at map by armored car ; Armored cars on road, probably in France]"
+}

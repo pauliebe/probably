@@ -1,0 +1,35 @@
+{
+    "call_number": "ROLL CALL-COLOR-1996-5007 [P&P]",
+    "collection": [
+        "cqrc",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[1996]",
+    "creator": null,
+    "image": {
+        "alt": "item not digitized thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png",
+        "square": "//www.loc.gov/pictures/static/images/item/not_digitized_buttons75X75.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/notdigitized_buttons140X120.png"
+    },
+    "index": 390,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2014666327/",
+        "resource": null
+    },
+    "medium": "20 photographs: color film slides.",
+    "medium_brief": "20 photographs:",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2014666327",
+    "reproduction_number": "",
+    "source_created": "2014-10-16T00:00:00Z",
+    "source_modified": "2015-02-05T00:00:00Z",
+    "subjects": [
+        "Congress members",
+        "Portraits",
+        "Slides--Color."
+    ],
+    "title": "[Group portraits in front of the U.S. Capitol, probably the freshmen Congress members]"
+}

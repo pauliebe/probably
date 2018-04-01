@@ -1,0 +1,37 @@
+{
+    "call_number": "LC-D428-48275 [P&P]",
+    "collection": [
+        "ammem",
+        "det",
+        "diof",
+        "pp"
+    ],
+    "created": "2017-11-21T00:00:00Z",
+    "created_published_date": "c1905.",
+    "creator": "Detroit Publishing Co.",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/det/4a20000/4a28000/4a28500/4a28510r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/det/4a20000/4a28000/4a28500/4a28510_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/det/4a20000/4a28000/4a28500/4a28510_150px.jpg"
+    },
+    "index": 988,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016818635/",
+        "resource": "//www.loc.gov/pictures/item/2016818635/resource/"
+    },
+    "medium": "1 negative : glass ; 11 x 14 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-11-21T00:00:00Z",
+    "pk": "2016818635",
+    "reproduction_number": "LC-D428-48275 (b&w glass neg.)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-03T00:00:00Z",
+    "subjects": [
+        "Commercial facilities.",
+        "United States--Michigan--Detroit.",
+        "Cityscape photographs.",
+        "Dry plate negatives."
+    ],
+    "title": "[Church tower, commercial buildings and waterfront, probably Detroit]"
+}

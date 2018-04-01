@@ -1,0 +1,33 @@
+{
+    "call_number": "FOREIGN GEOG FILE - Japan <item> [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1923]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b40000/3b46000/3b46100/3b46154_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b40000/3b46000/3b46100/3b46154_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b40000/3b46000/3b46100/3b46154_150px.jpg"
+    },
+    "index": 184,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/90707009/",
+        "resource": "//www.loc.gov/pictures/item/90707009/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "90707009",
+    "reproduction_number": "LC-USZ62-99080 (b&w film copy neg.)",
+    "source_created": "1990-03-01T00:00:00Z",
+    "source_modified": "2003-05-23T00:00:00Z",
+    "subjects": [
+        "Earthquakes--Japan--1920-1930.",
+        "Photographic prints--1920-1930."
+    ],
+    "title": "[Ruins of Fuji cotton spinning works, probably in Tokyo or Yokohama, after earthquake in Japan Sept. 1, 1923]"
+}

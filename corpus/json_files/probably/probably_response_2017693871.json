@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USE6- D-006239 [P&P]",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-05-16T00:00:00Z",
+    "created_published_date": "1942 Aug.",
+    "creator": "Rosener, Ann",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b07000/8b07400/8b07455r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b07000/8b07400/8b07455_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b07000/8b07400/8b07455_150px.jpg"
+    },
+    "index": 748,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017693871/",
+        "resource": "//www.loc.gov/pictures/item/2017693871/resource/"
+    },
+    "medium": "1 negative : nitrate ; 4 x 5 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-05-16T00:00:00Z",
+    "pk": "2017693871",
+    "reproduction_number": "LC-USE6-D-006239 (b&w film nitrate neg.)\nLC-DIG-fsa-8b07455 (digital file from original neg.)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T00:00:00Z",
+    "subjects": [
+        "United States--Wisconsin--Manitowoc County--Manitowoc.",
+        "Nitrate negatives."
+    ],
+    "title": "Production. Submarines. Before gasoline rationing, in a Midwest shipyard's parking lot. Today, this same view would probably show fewer cars, as workers all over the country have formed car pool clubs to save tires and gasoline"
+}

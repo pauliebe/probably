@@ -1,0 +1,32 @@
+{
+    "call_number": "LOT 10526, no. 176 [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2017-01-31T00:00:00Z",
+    "created_published_date": "[between ca. 1925 and 1932]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/50800/50861_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/50800/50861_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/50800/50861_150px.jpg"
+    },
+    "index": 496,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017645917/",
+        "resource": "//www.loc.gov/pictures/item/2017645917/resource/"
+    },
+    "medium": "1 photograph : hand-colored transparency on glass ; plate  8 x  10 cm (lantern slide format)",
+    "medium_brief": "1 photograph :",
+    "modified": "2017-01-31T00:00:00Z",
+    "pk": "2017645917",
+    "reproduction_number": "LC-DIG-ppmsca-50861 (digital file from original)",
+    "source_created": "2017-01-09T00:00:00Z",
+    "source_modified": "2017-01-24T00:00:00Z",
+    "subjects": [
+        "Lantern slides--Hand-colored--1920-1940."
+    ],
+    "title": "[People entering building, probably a mosque,  I\u1e63fah\u0101n, Iran]"
+}

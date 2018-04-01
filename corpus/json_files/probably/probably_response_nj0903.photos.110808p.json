@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER NJ,21-PHIL,1--19",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-17T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/nj/nj0900/nj0903/photos/110808pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/nj/nj0900/nj0903/photos/110808p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/nj/nj0900/nj0903/photos/110808p_150px.jpg"
+    },
+    "index": 683,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/nj0903.photos.110808p/",
+        "resource": "//www.loc.gov/pictures/item/nj0903.photos.110808p/resource/"
+    },
+    "medium": "4 x 5 in.",
+    "medium_brief": "4 x 5 in.",
+    "modified": "2016-04-17T00:00:00Z",
+    "pk": "nj0903.photos.110808p",
+    "reproduction_number": "HAER NJ,21-PHIL,1--19",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-17T00:00:00Z",
+    "subjects": null,
+    "title": "19.  COOK ON A CANAL BOAT (PROBABLY THE CAPTAINS WIFE). - Morris Canal, Phillipsburg, Warren County, NJ"
+}

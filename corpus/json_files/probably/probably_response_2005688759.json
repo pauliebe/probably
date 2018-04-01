@@ -1,0 +1,33 @@
+{
+    "call_number": "LOT 4303 (G) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "1915-1920.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3a30000/3a39000/3a39700/3a39780_150px.jpg?q=2016647185&c=1",
+        "square": "//cdn.loc.gov/service/pnp/cph/3a30000/3a39000/3a39700/3a39780_75x75px.jpg?q=2016647185&c=1",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3a30000/3a39000/3a39700/3a39780_150px.jpg?q=2016647185&c=1"
+    },
+    "index": 1119,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005688759/",
+        "resource": "//www.loc.gov/pictures/item/2005688759/resource/"
+    },
+    "medium": "ca. 100 rotogravures.",
+    "medium_brief": "ca. 100 rotogravures.",
+    "modified": "2018-03-13T00:00:00Z",
+    "pk": "2005688759",
+    "reproduction_number": "",
+    "source_created": "2005-08-04T00:00:00Z",
+    "source_modified": "2010-07-22T00:00:00Z",
+    "subjects": [
+        "Chile--1910-1920."
+    ],
+    "title": "Album of views of Chile probably during the period 1915-1920"
+}

@@ -1,0 +1,43 @@
+{
+    "call_number": "CD 1 - Berryman (C.K.), no. 690 (A size)",
+    "collection": [
+        "2rights",
+        "acd",
+        "acr",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-08-16T00:00:00Z",
+    "created_published_date": "1932 May 31.",
+    "creator": "Berryman, Clifford Kennedy, 1869-1949",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/acd/2a06000/2a06300/2a06379_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/acd/2a06000/2a06300/2a06379_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/acd/2a06000/2a06300/2a06379_150px.jpg"
+    },
+    "index": 143,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016678970/",
+        "resource": "//www.loc.gov/pictures/item/2016678970/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-08-16T00:00:00Z",
+    "pk": "2016678970",
+    "reproduction_number": "",
+    "source_created": "1997-06-25T00:00:00Z",
+    "source_modified": "2016-08-04T00:00:00Z",
+    "subjects": [
+        "Raskob, John J.--(John Jakob),--1879-1950.",
+        "Donkeys",
+        "Riding",
+        "Dame Democracy (Fictitious character)",
+        "prohibition",
+        "Democratic Party",
+        "Shouse",
+        "Cartoons (Commentary)--American.",
+        "Drawings."
+    ],
+    "title": "Lan' sakes! Maybe the wonder boys'll get me out of this dilemma!"
+}

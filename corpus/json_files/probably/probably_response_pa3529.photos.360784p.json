@@ -1,0 +1,30 @@
+{
+    "call_number": "HAER PA,51-PHILA,714--82",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "1996",
+    "creator": "Lowe, Jet",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/pa/pa3500/pa3529/photos/360784pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/pa/pa3500/pa3529/photos/360784p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/pa/pa3500/pa3529/photos/360784p_150px.jpg"
+    },
+    "index": 619,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/pa3529.photos.360784p/",
+        "resource": "//www.loc.gov/pictures/item/pa3529.photos.360784p/resource/"
+    },
+    "medium": "5 x 7 in.",
+    "medium_brief": "5 x 7 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "pa3529.photos.360784p",
+    "reproduction_number": "HAER PA,51-PHILA,714--82",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "View forward, starboard engine room, compartment C-1; note RPM indicator at top right of photograph, bilge drain manifold at lower right; worm gear at left is probably part of a hydraulic reversing gear. (057) - USS Olympia, Penn's Landing, 211 South Columbus Boulevard, Philadelphia, Philadelphia County, PA"
+}

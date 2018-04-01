@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF33- 015619-M1 [P&P] LOT 935  (Possible associated group of images)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-11T00:00:00Z",
+    "created_published_date": "1939.",
+    "creator": "Myers, David (David Moffat)",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8a31000/8a31600/8a31624r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8a31000/8a31600/8a31624_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8a31000/8a31600/8a31624_150px.jpg"
+    },
+    "index": 776,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017745334/",
+        "resource": "//www.loc.gov/pictures/item/2017745334/resource/"
+    },
+    "medium": "1 negative : nitrate ; 35 mm.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-11T00:00:00Z",
+    "pk": "2017745334",
+    "reproduction_number": "LC-USF33-015619-M1 (b&w film nitrate neg.)\nLC-DIG-fsa-8a31624 (digital file from original neg.)",
+    "source_created": "1997-12-02T00:00:00Z",
+    "source_modified": "2017-07-25T00:00:00Z",
+    "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Nitrate negatives."
+    ],
+    "title": "Washington, D.C. A street scene, probably 14th Street, showing automobile and street car traffic. The People's Life Insurance Company appears in background"
+}

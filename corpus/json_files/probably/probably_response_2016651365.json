@@ -1,0 +1,38 @@
+{
+    "call_number": "Unprocessed in PR 13 CN 1980:185 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-11-01T00:00:00Z",
+    "created_published_date": "[1917 or 1918]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ds/09700/09759_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ds/09700/09759_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ds/09700/09759_150px.jpg"
+    },
+    "index": 475,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2016651365/",
+        "resource": "//www.loc.gov/pictures/item/2016651365/resource/"
+    },
+    "medium": "1 photograph : print ; sheet 14 x 9 cm.",
+    "medium_brief": "1 photograph :",
+    "modified": "2016-11-01T00:00:00Z",
+    "pk": "2016651365",
+    "reproduction_number": "LC-DIG-ds-09759 (digital file from original)",
+    "source_created": "2016-09-09T00:00:00Z",
+    "source_modified": "2016-10-27T00:00:00Z",
+    "subjects": [
+        "Cain, James M.--(James Mallahan),--1892-1977--Military service--France.",
+        "Malcolm, Gilbert,--1892-1965--Military service--France.",
+        "World War, 1914-1918--Military personnel--France.",
+        "Military personnel--France--1910-1920.",
+        "Group portraits--1910-1920.",
+        "Photographic prints--1910-1920.",
+        "Portrait photographs--1910-1920."
+    ],
+    "title": "[James M. Cain and Gilbert Malcolm, seated outdoors, in uniform, probably in France, during World War I]"
+}

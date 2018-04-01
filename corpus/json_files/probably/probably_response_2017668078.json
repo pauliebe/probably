@@ -1,0 +1,36 @@
+{
+    "call_number": "LC-A6196- 745-Ax [P&P]",
+    "collection": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+    ],
+    "created": "2017-03-14T00:00:00Z",
+    "created_published_date": "[1918]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/anrc/02000/02092r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/anrc/02000/02092_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/anrc/02000/02092_150px.jpg"
+    },
+    "index": 530,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017668078/",
+        "resource": "//www.loc.gov/pictures/item/2017668078/resource/"
+    },
+    "medium": "1 negative : glass ; 5 x 7 in.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-03-14T00:00:00Z",
+    "pk": "2017668078",
+    "reproduction_number": "LC-DIG-anrc-02092 (digital file from original)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2017-03-07T00:00:00Z",
+    "subjects": [
+        "American Red Cross.",
+        "United States.",
+        "Glass negatives."
+    ],
+    "title": "[Central panel of the memorial window joint gift of women of the North and South. The Crusaders. The cost of the three windows was 10,000 dollars. Artist, Louis C. Tiffany of N.Y. The window taken as a while is probably the largest of modern times]"
+}

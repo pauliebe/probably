@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF344- 007788-ZB [P&P] LOT 1362  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-10-10T00:00:00Z",
+    "created_published_date": "1941 Fall.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8e04000/8e04100/8e04185r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8e04000/8e04100/8e04185_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8e04000/8e04100/8e04185_150px.jpg"
+    },
+    "index": 839,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017762107/",
+        "resource": "//www.loc.gov/pictures/item/2017762107/resource/"
+    },
+    "medium": "1 negative : safety ; 5 x 7 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-10-10T00:00:00Z",
+    "pk": "2017762107",
+    "reproduction_number": "LC-USF344-007788-ZB (b&w film neg.)",
+    "source_created": "1998-09-24T00:00:00Z",
+    "source_modified": "2017-10-03T00:00:00Z",
+    "subjects": [
+        "United States--Maryland--Prince George's County--Greenbelt.",
+        "Safety film negatives."
+    ],
+    "title": "Greenbelt, Maryland. Aerial view, probably early fall"
+}

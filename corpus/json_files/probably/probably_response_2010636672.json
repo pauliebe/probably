@@ -1,0 +1,40 @@
+{
+    "call_number": "BLOCK, no. 1187 (BB size) [P&P]",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1938 Dec.] c1938.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/01100/01187_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/01100/01187_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/01100/01187_150px.jpg"
+    },
+    "index": 113,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2010636672/",
+        "resource": "//www.loc.gov/pictures/item/2010636672/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2010636672",
+    "reproduction_number": "LC-DIG-hlb-01187 (digital file from original drawing)",
+    "source_created": "2009-12-02T00:00:00Z",
+    "source_modified": "2013-01-02T00:00:00Z",
+    "subjects": [
+        "Roosevelt, Franklin D.--(Franklin Delano),--1882-1945.",
+        "Conservatism--United States.",
+        "Government reorganization--United States.",
+        "Nurses.",
+        "Physicians.",
+        "Presidents & the Congress.",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "This is probably the way to present it"
+}

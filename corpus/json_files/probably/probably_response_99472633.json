@@ -1,0 +1,36 @@
+{
+    "call_number": "SSF - Cemeteries--1906 [item] [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "c1906.",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c20000/3c24000/3c24100/3c24154r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c20000/3c24000/3c24100/3c24154_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c20000/3c24000/3c24100/3c24154_150px.jpg"
+    },
+    "index": 442,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/99472633/",
+        "resource": "//www.loc.gov/pictures/item/99472633/resource/"
+    },
+    "medium": "1 photographic print : stereograph.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "99472633",
+    "reproduction_number": "LC-USZ62-124154 (b&w film copy neg.)",
+    "source_created": "1999-11-04T00:00:00Z",
+    "source_modified": "2004-12-03T00:00:00Z",
+    "subjects": [
+        "Cemeteries--Greece--1900-1910.",
+        "Rites & ceremonies--Greece--1900-1910.",
+        "Photographic prints--1900-1910.",
+        "Stereographs--1900-1910."
+    ],
+    "title": "[Rites in a cemetery, probably in Greece]"
+}

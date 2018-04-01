@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF34- 028908-D [P&P] LOT 1209 (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-22T00:00:00Z",
+    "created_published_date": "1939 Nov.",
+    "creator": "Rothstein, Arthur, 1915-1985",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8b18000/8b18900/8b18993r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8b18000/8b18900/8b18993_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8b18000/8b18900/8b18993_150px.jpg"
+    },
+    "index": 782,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017779166/",
+        "resource": "//www.loc.gov/pictures/item/2017779166/resource/"
+    },
+    "medium": "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-22T00:00:00Z",
+    "pk": "2017779166",
+    "reproduction_number": "LC-USF34-028908-D (b&w film neg.)",
+    "source_created": "1999-12-16T00:00:00Z",
+    "source_modified": "2017-08-16T00:00:00Z",
+    "subjects": [
+        "United States--Missouri--Osage Farms.",
+        "Safety film negatives."
+    ],
+    "title": "Jerry Vardiman's income from the cooperative will probably increase in value as the livestock and poultry enterprises reach their productive peak. The project has been in operation only two years. Osage Farms, Missouri"
+}

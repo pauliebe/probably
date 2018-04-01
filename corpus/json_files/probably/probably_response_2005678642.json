@@ -1,0 +1,40 @@
+{
+    "call_number": "LOT 3372, no. 92 [P&P]",
+    "collection": [
+        "cph",
+        "diof",
+        "intldl",
+        "mtfrjw",
+        "mtfront",
+        "pp",
+        "si"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "c1905.",
+    "creator": "Underwood & Underwood",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/ppmsca/08000/08015r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/ppmsca/08000/08015_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/ppmsca/08000/08015_150px.jpg"
+    },
+    "index": 335,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005678642/",
+        "resource": "//www.loc.gov/pictures/item/2005678642/resource/"
+    },
+    "medium": "1 photographic print : stereograph.",
+    "medium_brief": "1 photographic print :",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "2005678642",
+    "reproduction_number": "LC-DIG-ppmsca-08015 (digital file from original photograph)",
+    "source_created": "2005-02-10T00:00:00Z",
+    "source_modified": "2005-04-19T00:00:00Z",
+    "subjects": [
+        "T\u014dg\u014d, Heihachir\u014d,--1848-1934--Public appearances--Japan--Tokyo.",
+        "Russo-Japanese War, 1904-1905--Peace--Japan--Tokyo.",
+        "Photographic prints--1900-1910.",
+        "Stereographs--1900-1910."
+    ],
+    "title": "[Admiral Togo seated in a tent with government officials, probably during his visit to Tokyo in Oct., 1905]"
+}

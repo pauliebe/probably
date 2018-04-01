@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF33- 006718-M4 [P&P] LOT 962  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-11T00:00:00Z",
+    "created_published_date": "1938 Summer.",
+    "creator": "Evans, Walker, 1903-1975",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8a19000/8a19100/8a19115r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8a19000/8a19100/8a19115_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8a19000/8a19100/8a19115_150px.jpg"
+    },
+    "index": 769,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017732865/",
+        "resource": "//www.loc.gov/pictures/item/2017732865/resource/"
+    },
+    "medium": "1 negative : nitrate ; 35 mm.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-11T00:00:00Z",
+    "pk": "2017732865",
+    "reproduction_number": "LC-USF3301-006718-M4 (b&w film dup. neg.)\nLC-DIG-fsa-8a19115 (digital file from original neg.)",
+    "source_created": "1997-08-07T00:00:00Z",
+    "source_modified": "2017-07-21T00:00:00Z",
+    "subjects": [
+        "United States--New York (State)--New York.",
+        "Nitrate negatives."
+    ],
+    "title": "New York, New York. 61st Street between 1st and 3rd Avenues. Tenants"
+}

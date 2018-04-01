@@ -1,0 +1,39 @@
+{
+    "call_number": "BLOCK, no. 11059 (BB size)",
+    "collection": [
+        "hlb",
+        "minload",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "6/6/1985.",
+    "creator": "Block, Herbert, 1909-2001",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/hlb/11000/11059_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/hlb/11000/11059_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/hlb/11000/11059_150px.jpg"
+    },
+    "index": 76,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2012641538/",
+        "resource": "//www.loc.gov/pictures/item/2012641538/resource/"
+    },
+    "medium": "1 drawing.",
+    "medium_brief": "1 drawing.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2012641538",
+    "reproduction_number": "LC-DIG-hlb-11059 (digital file from original drawing)",
+    "source_created": "2012-11-19T00:00:00Z",
+    "source_modified": "2015-03-03T00:00:00Z",
+    "subjects": [
+        "Couples",
+        "Avarice",
+        "Spying",
+        "Slogans",
+        "Newspaper headlines",
+        "Drawings--American.",
+        "Editorial cartoons--American."
+    ],
+    "title": "\"Maybe if we got back to: 'ask what you can do for your country' --\""
+}

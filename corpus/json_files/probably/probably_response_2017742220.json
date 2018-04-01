@@ -1,0 +1,35 @@
+{
+    "call_number": "LC-USF33- 012696-M4 [P&P] LOT 636  (corresponding photographic print)",
+    "collection": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+    ],
+    "created": "2017-08-11T00:00:00Z",
+    "created_published_date": "1940 May-June.",
+    "creator": "Lee, Russell, 1903-1986",
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/fsa/8a28000/8a28400/8a28434r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/fsa/8a28000/8a28400/8a28434_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/fsa/8a28000/8a28400/8a28434_150px.jpg"
+    },
+    "index": 10,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2017742220/",
+        "resource": "//www.loc.gov/pictures/item/2017742220/resource/"
+    },
+    "medium": "1 negative : nitrate ; 35 mm.",
+    "medium_brief": "1 negative :",
+    "modified": "2017-08-11T00:00:00Z",
+    "pk": "2017742220",
+    "reproduction_number": "LC-USF33-012696-M4 (b&w film nitrate neg.)\nLC-DIG-fsa-8a28434 (digital file from original neg.)",
+    "source_created": "1997-12-02T00:00:00Z",
+    "source_modified": "2017-07-24T00:00:00Z",
+    "subjects": [
+        "United States--New Mexico--Pinos Altos.",
+        "Nitrate negatives."
+    ],
+    "title": "Prospector panning gold. The light objects are probably not gold as it is very unusual to find pieces this large in this section. They are probably mica (fools gold) or mercury which is used to attract the gold. Pinos Altos, New Mexico"
+}

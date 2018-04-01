@@ -1,0 +1,30 @@
+{
+    "call_number": "HABS PA,26-UNITO.V,2--24",
+    "collection": [
+        "diof",
+        "hh"
+    ],
+    "created": "2016-04-16T00:00:00Z",
+    "created_published_date": "",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/habshaer/pa/pa1900/pa1976/photos/134302pr.jpg",
+        "square": "//cdn.loc.gov/service/pnp/habshaer/pa/pa1900/pa1976/photos/134302p_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/habshaer/pa/pa1900/pa1976/photos/134302p_150px.jpg"
+    },
+    "index": 615,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/pa1976.photos.134302p/",
+        "resource": "//www.loc.gov/pictures/item/pa1976.photos.134302p/resource/"
+    },
+    "medium": "8 x 10 in.",
+    "medium_brief": "8 x 10 in.",
+    "modified": "2016-04-16T00:00:00Z",
+    "pk": "pa1976.photos.134302p",
+    "reproduction_number": "HABS PA,26-UNITO.V,2--24",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2016-04-16T00:00:00Z",
+    "subjects": null,
+    "title": "24.  GENERAL VIEW FROM WEST: ROAD ACROSS MIDDLE FOREGROUND LEADS DIRECTLY SOUTH TO ROUTE 40; LINE ACROSS WOODLOT IN DISTANCE LEADS EAST TO UNIONTOWN, AND IS PROBABLY THE 1784 ROAD FROM UNIONTOWN TO BROWNSVILLE Photocopy of early 20th-century photograph Collection of Springer Homestead Archives, c/o Gerald Cunningham, Jessup, Maryland - Levi Springer House, Fan Hollow Road, Uniontown, Fayette County, PA"
+}

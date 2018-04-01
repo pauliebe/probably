@@ -1,0 +1,32 @@
+{
+    "call_number": "SSF - Famrs and Farming--Plowing and Sowing [item] [P&P]",
+    "collection": [
+        "diof",
+        "npco",
+        "pp",
+        "reconref"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[1918?]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b20000/3b21000/3b21100/3b21137r.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b20000/3b21000/3b21100/3b21137_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b20000/3b21000/3b21100/3b21137_150px.jpg"
+    },
+    "index": 37,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2003671099/",
+        "resource": "//www.loc.gov/pictures/item/2003671099/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "2003671099",
+    "reproduction_number": "LC-USZ62-73855 (b&w film copy neg.)",
+    "source_created": "2003-06-26T00:00:00Z",
+    "source_modified": "2009-10-23T00:00:00Z",
+    "subjects": null,
+    "title": "Demonstration, probably in or near Washington, D.C., of the \"once over\" tiller, manufactured by Scientific Farming Mach. Co., Minneapolis, Minn."
+}

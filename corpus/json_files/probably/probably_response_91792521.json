@@ -1,0 +1,34 @@
+{
+    "call_number": "LOT 9027 [item] [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "[ca. 1900]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3c00000/3c03000/3c03100/3c03126_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3c00000/3c03000/3c03100/3c03126_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3c00000/3c03000/3c03100/3c03126_150px.jpg"
+    },
+    "index": 426,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/91792521/",
+        "resource": "//www.loc.gov/pictures/item/91792521/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-21T00:00:00Z",
+    "pk": "91792521",
+    "reproduction_number": "LC-USZ62-103126 (b&w film copy neg.)",
+    "source_created": "1991-10-02T00:00:00Z",
+    "source_modified": "2006-05-03T00:00:00Z",
+    "subjects": [
+        "Rickshaws--China--1900.",
+        "Sedan chairs--China--1900.",
+        "Photographic prints--1900"
+    ],
+    "title": "[Asian men and Americans posed in front of building entranceway which is draped with an American flag, a girl sitting in a rickshaw and two sedan chairs, probably in China]"
+}

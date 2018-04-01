@@ -1,0 +1,31 @@
+{
+    "call_number": "LOT 4519 (F) [P&P]",
+    "collection": [
+        "coll",
+        "pp",
+        "reconlot2"
+    ],
+    "created": "2016-04-21T00:00:00Z",
+    "created_published_date": "c1946.",
+    "creator": "Strobel, Oscar",
+    "image": {
+        "alt": "group item thumbnail",
+        "full": "//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png",
+        "square": "//www.loc.gov/pictures/static/images/item/grouprecord_square.png",
+        "thumb": "//www.loc.gov/pictures/static/images/item/grouprecord_thumb_large.jpg"
+    },
+    "index": 1090,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/2005687397/",
+        "resource": null
+    },
+    "medium": "12 reproductions.",
+    "medium_brief": "12 reproductions.",
+    "modified": "2018-02-14T00:00:00Z",
+    "pk": "2005687397",
+    "reproduction_number": "",
+    "source_created": "2005-08-17T00:00:00Z",
+    "source_modified": "2005-08-17T00:00:00Z",
+    "subjects": null,
+    "title": "Color reproductions of water color landscapes of the American desert, probably in Arizona, 1945"
+}

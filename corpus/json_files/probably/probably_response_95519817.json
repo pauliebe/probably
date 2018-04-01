@@ -1,0 +1,35 @@
+{
+    "call_number": "LOT 13088, no. 71 <item> [P&P]",
+    "collection": [
+        "cph",
+        "pp"
+    ],
+    "created": "2016-04-20T00:00:00Z",
+    "created_published_date": "[ca. 1950]",
+    "creator": null,
+    "image": {
+        "alt": "digitized item thumbnail",
+        "full": "//www.loc.gov/pictures/cdn/service/pnp/cph/3b30000/3b31000/3b31000/3b31069_150px.jpg",
+        "square": "//cdn.loc.gov/service/pnp/cph/3b30000/3b31000/3b31000/3b31069_75x75px.jpg",
+        "thumb": "//cdn.loc.gov/service/pnp/cph/3b30000/3b31000/3b31000/3b31069_150px.jpg"
+    },
+    "index": 205,
+    "links": {
+        "item": "//www.loc.gov/pictures/item/95519817/",
+        "resource": "//www.loc.gov/pictures/item/95519817/resource/"
+    },
+    "medium": "1 photographic print.",
+    "medium_brief": "1 photographic print.",
+    "modified": "2016-04-20T00:00:00Z",
+    "pk": "95519817",
+    "reproduction_number": "LC-USZ62-84502 (b&w film copy neg.)",
+    "source_created": "1995-10-25T00:00:00Z",
+    "source_modified": "2013-07-27T00:00:00Z",
+    "subjects": [
+        "Students--Arkansas--Little Rock--1950-1960.",
+        "Demonstrations--Arkansas--Little Rock--1950-1960.",
+        "School integration--Arkansas--Little Rock--1950-1960.",
+        "Photographic prints--1950-1960."
+    ],
+    "title": "[White youths, probably students, and adults protesting the integration of Rock Junior High School, Little Rock, Ark.]"
+}
