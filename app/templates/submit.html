@@ -1,7 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p> Hey <strong>{{ name }}</strong>, you asked for <strong> {{ query }}. </strong></p>
-<p> Here's a list: </p>
-<p> {{ preposition_list }} </p>
+<p> there are TK titles of objects that have the word <strong> {{ preposition }} </strong> in them.</p>
+<p> The words that show up most often in those titles are:</p>
+	
+	{% for obj in count_list %}
+		<p> <strong>{{ obj[0] }} </strong> (shows up {{ obj[1] }} times) </p>
+	{% endfor %}
+
 {% endblock %}

@@ -3,23 +3,14 @@
 <html>
 
 {% block content %}
-
-	<h1>Hello.</h1>
 	
     {% if error %} 
         <p> {{ error }} </p>
     {% endif %}
     
-    <form action="/{{ query }}" method="post">
-        {{ form.hidden_tag() }}
-        <p>
-            {{ form.username.label }}<br>
-            {{ form.username(size=32) }}<br>
-            {{ form.user_location.label }}<br>
-            {{ form.user_location(size=32)}}
-        </p>
-        <p>{{ form.submit() }}</p>
-    </form>
+    {% for preposition in prepositions %}
+        <a href ="/{{ preposition }}"> <p> {{ preposition }}</p> </a>
+    {% endfor %}
 
 {% endblock%}
 </html>
