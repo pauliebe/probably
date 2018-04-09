@@ -1,6 +1,7 @@
 *.pyc
 *.pyo
 
-*.DS-store
+*.DS_store
+*.json
 
 /extra

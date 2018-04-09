@@ -21,7 +21,7 @@ digits = list(string.digits)
 extra = list(query + '\'s')
 stop = stopwords.words('english') + punctuation + digits + extra
 
-def count_common(filename):
+def add_to_dict(filename):
 	with open(filename) as json_data:
 		#load json file
 		parsed_json = json.load(json_data)
@@ -38,4 +38,6 @@ def count_common(filename):
 			print(count_all.most_common(15))
 	
 
-count_common(json_path)
+add_to_dict(json_path)
+#count_words(titles)
+
