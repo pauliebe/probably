@@ -19,29 +19,36 @@ titles = {}
 def define_stopwords(query):
 	punctuation = list(string.punctuation)
 	digits = list(string.digits)
-	extra = [query, '\'s', '\'\'', '``', '--', '...']
-	print(extra)
+	extra = [query, '\'s', '\'\'', '``', '--', '...', 'n\'t', '\'d', '\'ll', '\'re', '\'m']
 	stop = stopwords.words('english') + punctuation + digits + extra
 
 	return stop
 
-def count_common(query, filename):
-	#filename = 'json_files/combined/%s.json' %(query)
-	stop = define_stopwords(query)
-
+def load_json(filename):
 	with open(filename) as json_data:
 		#load json file
 		parsed_json = json.load(json_data)
 
-		count_all = Counter()
-		#add items to dictionary
-		for item in parsed_json:
-			title = word_tokenize(item['title'].lower()) #add tokenized title to dict
-			#create list with all terms minus stop
-			terms_stop = [term for term in title if term not in stop]
-			count_all.update(terms_stop)
+		return parsed_json
 
-			count_list = count_all.most_common(15)
+def count_total(filename):
+	return len(load_json(filename))
+
+def count_common(query, filename, count):
+	#filename = 'json_files/combined/%s.json' %(query)
+	stop = define_stopwords(query)
+
+	parsed_json = load_json(filename)
+
+	count_all = Counter()
+	#add items to dictionary
+	for item in parsed_json:
+		title = word_tokenize(item['title'].lower())
+		#create list with all terms minus stop
+		terms_stop = [term for term in title if term not in stop]
+		count_all.update(terms_stop)
+
+		count_list = count_all.most_common(count)
 
 	return count_list
 	

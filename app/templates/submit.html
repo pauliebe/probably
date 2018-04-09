@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p> there are TK titles of objects that have the word <strong> {{ preposition }} </strong> in them.</p>
-<p> The words that show up most often in those titles are:</p>
+<p> there are {{ count_total }} titles of objects that have the word <strong> {{ preposition }} </strong> in them.</p>
+<p> The words {{count}} that show up most often in those titles are:</p>
 	
 	{% for obj in count_list %}
 		<p> <strong>{{ obj[0] }} </strong> (shows up {{ obj[1] }} times) </p>

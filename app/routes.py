@@ -17,7 +17,8 @@ def index():
 def detail(preposition):
 	template='submit.html'
 	filename = os.path.join(app.root_path, 'json_files/combined/', '%s.json' %(preposition))
-	print(filename)
-	count_list = count_common(preposition, filename)
+	count = 15
+	total = count_total(filename)
+	count_list = count_common(preposition, filename, count)
 	
-	return render_template(template, preposition=preposition, count_list=count_list)
+	return render_template(template, preposition=preposition, count_list=count_list, count=count, count_total = total)
