@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<p> This is the page for {{preposition}}</p>
+<p> There are a number of phrases that start with {{preposition}}</p>
+
+<thead>
+	<tr>
+		<th>first word<th>
+		<th> titles </th>
+	</tr>
+</thead>
+<tbody>
+	{% for key in categories %}
+	<tr>
+		<td><strong>{{ key }}</strong></td>
+		<td>{% for item in categories[key] %} <p> {{ item }}</p>{% endfor %}</td>
+	</tr>
+	{% endfor %}
+</tbody>
+
+{% endblock %}
