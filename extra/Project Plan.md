@@ -20,8 +20,5 @@
 	>> Filterable gallery?
 	>> some datavizios?
 
-4.5 NPR App template redux for WBEZ
-	.. what kind of processes can we automate there
-
 5. Frozen Flask it
 

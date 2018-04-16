@@ -20,5 +20,7 @@ def detail(preposition):
 	count = 15
 	total = count_total(filename)
 	count_list = count_common(preposition, filename, count)
+	bigrams_list = count_bigrams(preposition, filename)
+	after_query_list = after_query(preposition, filename)
 	
 	return render_template(template, preposition=preposition, count_list=count_list, count=count, count_total = total)
