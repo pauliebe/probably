@@ -4,4 +4,7 @@
 *.DS_store
 *.json
 
+*.ipynb_checkpoints
+
 /extra
+/__pycache__
