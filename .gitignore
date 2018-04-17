@@ -5,6 +5,7 @@
 *.json
 
 *.ipynb_checkpoints
+*.ipynb
 
 /extra
 /__pycache__
