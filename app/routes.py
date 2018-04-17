@@ -2,6 +2,7 @@ from flask import request, make_response, render_template
 from app import app
 import os
 from app.clean import *
+from app.detail import *
 #from app.forms import countForm
 
 
@@ -18,6 +19,8 @@ def detail(preposition):
     query = preposition
     template='detail.html'
     filename = os.path.join(app.root_path, 'json_files/combined/', '%s.json' %(query))
-    categories = make_dict(filename, query)
-    
-    return render_template(template, preposition=preposition, categories= categories)
+    data = load_json(filename)
+    details=make_dict(data,query)
+    count = len(details)
+    	
+    return render_template(template, preposition=preposition, details=details, count=count)
