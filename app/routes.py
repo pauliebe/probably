@@ -2,9 +2,6 @@ from flask import request, make_response, render_template
 from app import app
 import os
 from app.clean import *
-from app.detail import *
-#from app.forms import countForm
-
 
 prepositions = ['maybe', 'probably']
 

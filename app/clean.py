@@ -2,15 +2,14 @@ import json
 import os
 from nltk.tokenize import WhitespaceTokenizer, word_tokenize
 from nltk.corpus import stopwords
-from nltk import bigrams, collocations
 import operator
 from collections import Counter
 import string
 
 #This script tokenizes title words
-#creates a new dictionary
-#key is pk_number, value is title: ['list', 'of', 'title', 'words']
-#and then tell you the most frequent words after the query word in the titles
+#figures out the word right after the query in those titles
+#creates a dictionary sorted by those "next_words"
+#for each title, matches an image from the LOC, a url from the LOC and the LOC pk number
 
 
 #define stopwords
@@ -129,4 +128,5 @@ def make_dict(data, query):
             clean_title = "".join([" "+i if not i.startswith("'") and i not in string.punctuation else i for i in next_phrases[item]])
             if item == pk:
                 details[pk]['title_snippet'] = clean_title
+
     return details

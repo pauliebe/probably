@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
-<p> This is the page for {{preposition}}</p>
-<p> There are a number of phrases that start with {{preposition}}</p>
+<p> This is the page for <strong>{{preposition}}</strong></p>
+<p> There are a number of phrases that start with <strong>{{preposition}}</strong></p>
+<p> There are {{ count }}. </p>
 
-	<p> There are {{ count }} </p>
 	{% for key in details %}
 		{% if details[key]['img'] %}
 			<a href="{{ details[key]['url'] }}">  <img src="{{ details[key]['img'] }}"> </a>
