@@ -15,7 +15,7 @@ def index():
 def detail(preposition):
     query = preposition
     template='detail.html'
-    filename = os.path.join(app.root_path, 'json_files/combined/', '%s.json' %(query))
+    filename = os.path.join(app.root_path, 'json_files/', '%s.json' %(query))
     data = load_json(filename)
     details=make_dict(data,query)
     count = len(details)

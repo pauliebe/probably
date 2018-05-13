@@ -7,10 +7,9 @@ import os
 #Stores JSON data for each result as query_pk (pk is an LOC identifier )into a folder called "query"
 #Combines all the results into a JSON file called query.json, into a folder called "combined"
 
-
 query = input('What\'s your query?')
-json_directory = os.path.abspath('json_files/%s' %(query))
-combined_json_path = os.path.abspath('json_files/combined/%s.json' %(query))
+json_directory = os.path.abspath('json_archive/%s' %(query))
+combined_json_path = os.path.abspath('../app/json_files/%s.json' %(query))
 
 #search LOC API
 def search_LOC(query):
@@ -52,7 +51,7 @@ def write_json(result):
 			json.dump(result, outfile, sort_keys=True, indent=4)
 
 	else:
-		print('That search has been completed, according to all the files in the %s.' %(query))
+		print('That search has been completed, according to all the files in the %s folder' %(query))
 
 #combine into files in input_directory to a single file (output_filename)
 def combine_json(input_directory, output_filename):
@@ -67,6 +66,7 @@ def combine_json(input_directory, output_filename):
 	with open(output_filename, 'w') as outfile:
 		json.dump(result, outfile, sort_keys=True, indent=4)
 
+#execute search
 if os.path.exists(json_directory):
 	print('This search has been completed')
 	if os.path.exists(combined_json_path):

@@ -112,7 +112,6 @@ def make_dict(data, query):
     
     
     for item in data:
-        title=item['title']
         pk =item['pk']
         if item['image']['full'] not in bad_images:
             img = item['image']['full']
@@ -121,7 +120,8 @@ def make_dict(data, query):
         details[pk] ={
             'pk': pk,
             'url': item['links']['item'],
-            'img': img,
+            #'img': img,
+            'title': item['title']
         }
         
         for item in next_phrases:
