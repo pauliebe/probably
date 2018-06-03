@@ -5,11 +5,17 @@
 <p> There are a number of phrases that start with <strong>{{preposition}}</strong></p>
 <p> There are {{ count }}. </p>
 
+<div class="flex-container">
 	{% for key in details %}
-		{% if details[key]['img'] %}
+	<div class="flex-item">
+		{% if details[key]['img']  %}
 			<a href="{{ details[key]['url'] }}">  <img src="{{ details[key]['img'] }}"> </a>
 			<p> {{ details[key]['title_snippet'] }} </p>
-		{% endif %} 
+		{% else %}
+			<a href="{{ details[key]['url'] }}"> <h2> {{ details[key]['title_snippet'] }} </h2> </a>
+		{% endif %}
+	</div>
 	{% endfor %}
+</div>
 
 {% endblock %}

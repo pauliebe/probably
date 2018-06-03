@@ -17,3 +17,6 @@ log.txt
 log-2.txt
 errors.txt
 download_log
+
+#node files
+/node_modules/

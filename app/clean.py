@@ -99,13 +99,29 @@ def find_phrases(data, query):
     
     return next_phrases, missing_query_list, last_phrases
 
+#clean pk
+def clean_pk(pk):
+	if '/' in pk:
+		cleaned = pk.replace('/', '_')	
+		return cleaned
+	else:
+		return pk
+
+#match images
+def make_img_path(pk, base_path):
+    cleaned_pk = clean_pk(pk)
+    img_path = '%s/static/img/%s.jpg' %(base_path, pk)
+    rel_img_path = 'static/img/%s.jpg' %(cleaned_pk)
+    return img_path, rel_img_path
+
+
 #builds a dictionary that matches split titles to imgs and url
-def make_dict(data, query):
+
+def make_dict(data, query, base_path):
     next_words = find_nextwords(data, query)
     next_phrases, missing_query_list, last_phrases = find_phrases(data, query)
     details= {}
     categories = {}
-    bad_images = ['//www.loc.gov/pictures/static/images/item/500x500_notdigitized.png', '//www.loc.gov/pictures/static/images/item/500x500_grouprecord.png' ]
 
     for next_word in next_words:
         categories[next_word] = {}
@@ -113,16 +129,18 @@ def make_dict(data, query):
     
     for item in data:
         pk =item['pk']
-        if item['image']['full'] not in bad_images:
-            img = item['image']['full']
-        else:
-            img = None
+        img_path, rel_img_path = make_img_path(pk, base_path)
+        print(img_path)
         details[pk] ={
             'pk': pk,
             'url': item['links']['item'],
-            #'img': img,
             'title': item['title']
         }
+
+        if os.path.exists(img_path):
+            details[pk]['img'] = rel_img_path
+        else:
+            pass
         
         for item in next_phrases:
             clean_title = "".join([" "+i if not i.startswith("'") and i not in string.punctuation else i for i in next_phrases[item]])

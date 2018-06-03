@@ -1,0 +1,22 @@
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+}
+.flex-item {
+  flex-basis: 25%;
+  padding: 5%;
+  background: azure;
+}
+p {
+  font-family: 'Helvetica', sans-serif;
+  font-size:20px;
+}
+
+h1 {
+  font-family: 'Georgia', serif;
+  font-color: green;
+}
+a {
+  color:red;
+}
