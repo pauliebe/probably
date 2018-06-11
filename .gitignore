@@ -16,12 +16,13 @@ presentation.md
 
 #error logs
 log.txt
-log-2.txt
+log-*.txt
 errors.txt
 download_log
+errors-*.txt
 
 #node files
 /node_modules/
 
-#build for now
-app/build/
+#images for storage
+app/static/img
