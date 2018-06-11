@@ -11,6 +11,8 @@ import string
 #creates a dictionary sorted by those "next_words"
 #for each title, matches an image from the LOC, a url from the LOC and the LOC pk number
 
+#TO dO: fix weird spacing
+
 
 #define stopwords
 def define_stopwords(query):

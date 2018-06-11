@@ -9,7 +9,7 @@ import os
 
 query = input('What\'s your query?')
 json_directory = os.path.abspath('json_archive/%s' %(query))
-combined_json_path = os.path.abspath('../app/json_files/%s.json' %(query))
+combined_json_path = os.path.abspath('../app/static/json_files/%s.json' %(query))
 
 #search LOC API
 def search_LOC(query):

@@ -101,11 +101,11 @@ def clean_pk(pk):
 '''
 SET VARIABLES
 '''
-
+query = input('Which query?')
 base_path = os.path.abspath("../app/static/img/")
-input_directory = os.path.abspath("json_archive/probably")
-log_path = 'log-2.txt'
-error_path = 'errors.txt'
+input_directory = os.path.abspath("json_archive/%s" %(query))
+log_path = 'log-%s.txt' %(query)
+error_path = 'errors-%s.txt' %(query)
 errors_dict = {}
 errors_file = open(error_path, 'w')
 log = open(log_path, 'w')
