@@ -1,0 +1,77 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css?family=Neuton|Roboto');
+
+@sans-serif:'Roboto', 'Arial','Helvetica', sans-serif;;
+@serif:'Neuton', 'Georgia', serif;;
+@special:;
+
+@light:#D2C29E;
+@mid: #BBA37E;
+@highlight: #263D2E ;
+@bold: #A94D27;
+@body: #252525;
+
+body {
+    background-color:@light;
+}
+
+h1 {
+    font-family: @serif;
+    color:@bold;
+    font-size:1em;
+    font-weight:extra-bold;
+}
+
+h2 {
+    font-family:@sans-serif;
+    color:@body;
+    font-size:2em;
+}
+
+h3 {
+    font-family: @serif;
+    font-size:1em;
+    color:@highlight;
+  }
+
+h5 {
+    font-family:@sans-serif;
+    text-transform:upper;
+    color:@mid;
+}
+p {
+    font-family: @sans-serif;
+    font-size:.5em;
+  }
+  
+a {
+    color:@highlight;
+    :hover {
+        opacity:0.5;
+        transition:ease 2s;
+    }
+  }
+
+  
+.no-image {
+    font-size:0.5em;
+}
+.highlight {
+    font-family:@sans-serif;
+    background:bold;
+    padding:0.1em;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    padding:1em;
+  }
+
+.flex-item {
+    flex-basis: 20%;
+    padding: 1%;
+    background: azure;
+    margin:1%;
+  }
+  
