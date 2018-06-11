@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ title }}</title>   
+
+    <link rel="stylesheet/less" type="text/css" href="{{ pre }}/static/css/style.less"/>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.2/less.min.js" ></script>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    
+</head>
+
+<body>
+    <nav> <ul>
+        <li><a href="/">probably</a></li>
+        <li><a href="/maybe"> maybe </a></li>
+        </ul> 
+    </nav>
+    <p> An experiment by Paula Friedrich </p>
+    {% block content %}{% endblock %}
+
+    <script src='https://unpkg.com/intersection-observer'></script>
+    <script src='https://unpkg.com/scrollama'></script>
+    <script src="{{ pre }}/static/js/probably.js"></script>
+</body>
+
+
+</html>

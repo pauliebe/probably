@@ -7,10 +7,12 @@
 *.ipynb_checkpoints
 *.ipynb
 
+#notes and things
 /extra/
 /__pycache__/
 /.vscode/
 *.jpg
+presentation.md
 
 #error logs
 log.txt
@@ -20,3 +22,6 @@ download_log
 
 #node files
 /node_modules/
+
+#build for now
+app/build/

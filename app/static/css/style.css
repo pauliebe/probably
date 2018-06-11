@@ -1,0 +1,34 @@
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size:2rem;
+}
+
+h3 {
+  font-size:1rem;
+}
+p {
+  font-family: 'Helvetica', sans-serif;
+  font-size:.5rem;
+}
+
+h1 {
+  font-family: 'Georgia', serif;
+  color: blue;
+}
+a {
+  color:red;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+}
+.flex-item {
+  flex-basis: 25%;
+  padding: 5%;
+  background: blue;
+}
+

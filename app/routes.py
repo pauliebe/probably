@@ -7,8 +7,8 @@ from lesscss import LessCSS
 LessCSS(media_dir='static', exclude_dirs=['img', 'src', 'json_files'], based=True, compression='x')
 prepositions = ['maybe', 'probably']
 
-def load_json(filename):
-    with open(filename) as json_data:
+def load_json(file_path):
+    with open(file_path) as json_data:
         #load json file
         parsed_json = json.load(json_data)
 
@@ -23,8 +23,9 @@ def index():
 @app.route('/<preposition>')
 def detail(preposition):
     template='detail.html'
-    filename = os.path.join(app.root_path, 'static/json_files/', '%s-details.json' %(preposition)) 
-    details = load_json(filename)
+    file_path = os.path.join(app.root_path, 'static/json_files/', '%s-details.json' %(preposition)) 
+    details = load_json(file_path)
+
     count = len(details)
     	
     return render_template(template, preposition=preposition, details=details, count=count)
