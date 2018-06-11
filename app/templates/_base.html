@@ -3,25 +3,25 @@
 <head>
     <title>{{ title }}</title>   
 
-    <link rel="stylesheet/less" type="text/css" href="{{ pre }}/static/css/style.less"/>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.2/less.min.js" ></script>
-    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'css/style.css') }}"/>
+    <link rel="shortcut icon" href="{{ url_for('static', filename = 'img/favicon.ico') }}">
 
     
 </head>
 
 <body>
-    <nav> <ul>
-        <li><a href="/">probably</a></li>
+    <nav> 
+        <ul>
+        <li><a href="/probably">probably</a></li>
         <li><a href="/maybe"> maybe </a></li>
+        <li><a href="/perhaps"> perhaps </a></li>
+        <li><a href="/"> what? </a> </li>
+        <li class="me">An experiment by <a href="https://twitter.com/pauliebe">me.</a> </li>
         </ul> 
-    </nav>
-    <p> An experiment by Paula Friedrich </p>
-    {% block content %}{% endblock %}
 
-    <script src='https://unpkg.com/intersection-observer'></script>
-    <script src='https://unpkg.com/scrollama'></script>
-    <script src="{{ pre }}/static/js/probably.js"></script>
+    </nav>
+    {% block content %}{% endblock %}
+    {% block JS %}{% endblock %}
 </body>
 
 

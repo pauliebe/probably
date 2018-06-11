@@ -4,7 +4,7 @@ from app.routes import load_json
 import os
 
 freezer = Freezer(app)
-prepositions = ['probably', 'maybe']
+prepositions = ['probably', 'maybe', 'perhaps']
 
 
 @freezer.register_generator
