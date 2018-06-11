@@ -2,10 +2,9 @@ from flask import request, make_response, render_template
 from app import app
 import os
 import json
-from lesscss import LessCSS
 
 prepositions = ['maybe', 'probably', 'perhaps']
-base_url = 'https://pauliebe.github.io/probably/static/'
+base_url = 'https://pauliebe.github.io/probably/'
 
 def load_json(file_path):
     with open(file_path) as json_data:

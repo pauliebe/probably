@@ -3,8 +3,8 @@
 <head>
     <title>{{ title }}</title>   
 
-    <link rel="stylesheet" type="text/css" href="{{ base_url }}css/style.css"/>
-    <link rel="shortcut icon" href="{{ base_url }}img/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="{{ base_url }}static/css/style.css"/>
+    <link rel="shortcut icon" href="{{ base_url }}static/img/favicon.ico">
 
     
 </head>
@@ -12,10 +12,10 @@
 <body>
     <nav> 
         <ul>
-        <li><a href="/probably">probably</a></li>
-        <li><a href="/maybe"> maybe </a></li>
-        <li><a href="/perhaps"> perhaps </a></li>
-        <li><a href="/"> what? </a> </li>
+        <li><a href="{{ base_url }}probably">probably</a></li>
+        <li><a href="{{ base_url }}maybe"> maybe </a></li>
+        <li><a href="{{ base_url }}perhaps"> perhaps </a></li>
+        <li><a href="{{ base_url }}"> what? </a> </li>
         <li class="me">An experiment by <a href="https://twitter.com/pauliebe">me.</a> </li>
         </ul> 
 
