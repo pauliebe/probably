@@ -11,7 +11,6 @@
 /extra/
 /__pycache__/
 /.vscode/
-*.jpg
 presentation.md
 
 #error logs
@@ -26,3 +25,5 @@ errors-*.txt
 
 #images for storage
 app/static/img
+
+searching/test/*
