@@ -13,7 +13,7 @@
 			<h2 class="title-snippet hide" id="{{ details[key]['pk']}}-snippet"> {{ details[key]['title_snippet'] }} </h2>
 			<a href="{{ details[key]['url'] }}">  
 				<figure>
-					<img src="/{{ details[key]['img'] }}">
+					<img src="{{ base_url }}{{ details[key]['img'] }}">
 				</figure>
 			</a>
 			<h3> <a href="{{ details[key]['url'] }}"> Link! </a> </h3>

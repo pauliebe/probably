@@ -4,8 +4,8 @@ import os
 import json
 from lesscss import LessCSS
 
-LessCSS(media_dir='static', exclude_dirs=['img', 'src', 'json_files'], based=True, compression='x')
 prepositions = ['maybe', 'probably', 'perhaps']
+base_url = 'https://pauliebe.github.io/probably/static/'
 
 def load_json(file_path):
     with open(file_path) as json_data:
@@ -16,9 +16,9 @@ def load_json(file_path):
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    title = 'test'
+    title = 'probably'
     
-    return render_template('index.html', title=title, prepositions = prepositions)
+    return render_template('index.html', title=title, prepositions = prepositions, base_url=base_url)
 
 @app.route('/<preposition>/')
 def detail(preposition):
@@ -28,4 +28,4 @@ def detail(preposition):
 
     count = format(len(details), ',d')
     	
-    return render_template(template, preposition=preposition, details=details, count=count)
+    return render_template(template, preposition=preposition, details=details, count=count, base_url=base_url)

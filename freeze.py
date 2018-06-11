@@ -6,7 +6,6 @@ import os
 freezer = Freezer(app)
 prepositions = ['probably', 'maybe', 'perhaps']
 
-
 @freezer.register_generator
 def detail():
     for preposition in prepositions:
