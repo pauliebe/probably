@@ -4,30 +4,27 @@
 {% include "_header.html" %}
 
 
-<section class="flex-container" id="scroll">
+<section class="flex-container" id="images">
 
-	{% for key in details %}
-
-		{% if details[key]['img']  %}
+	{% for key in details if details[key]['img'] %}
 		<div class="flex-item image card" id="{{ details[key]['pk'] }}">	
-			<h2 class="title-snippet hide" id="{{ details[key]['pk']}}-snippet"> {{ details[key]['title_snippet'] }} </h2>
+			<h2 class="title-snippet hide" id="{{ details[key]['pk'] }}-snippet"> {{ details[key]['title_snippet'] }} </h2>
 			<a href="{{ details[key]['url'] }}">  
 				<figure>
-					<img src="{{ base_url }}{{ details[key]['img'] }}">
+					<img src="{{ base_url }}{{ details[key]['img'] }}" alt="{{ details[key]['title'] }}">
 				</figure>
 			</a>
 			<h3> <a href="{{ details[key]['url'] }}"> Link! </a> </h3>
-			
-		{% else %}
+		</div>
+	{% endfor %}
+</section>
+<section class="flex-container" id="no-images">
+
+	{% for key in details if not details[key]['img'] %}
 			<div class="flex-item no-image card" id="{{ details[key]['pk'] }}">
-				  
 				<h2 class="title-snippet hide" id="{{ details[key]['pk']}}-snippet"> {{ details[key]['title_snippet'] }} </h2>
-				
 				<h3 id="{{details[key]['pk']}}-link"> (The rights to this image aren't public, but you can see it at <a href="{{ details[key]['url'] }}"> this link </a> .)</h3>
-		{% endif %}
-
-	</div>
-
+			</div>
 	{% endfor %}
 </section>
 

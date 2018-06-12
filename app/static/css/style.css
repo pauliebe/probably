@@ -129,7 +129,7 @@ h3 {
 }
 p {
   font-family: 'Lato', 'Arial', 'Helvetica', sans-serif;
-  font-size: .8em;
+  font-size: .9em;
   line-height: 1.8em;
 }
 a {
@@ -156,4 +156,38 @@ a:hover {
 .image {
   height: 100vh;
   justify-content: center;
+}
+/* MEDIA QUERIES */
+@media (max-width: 500px) {
+  h1 {
+    font-size: 2em;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  h3 {
+    font-size: 1em;
+  }
+  nav {
+    height: 100%;
+    overflow: hidden;
+  }
+  nav li {
+    font-size: 1em;
+    margin-left: 1em;
+  }
+  nav li .me {
+    display: none;
+    font-size: 1em;
+    color: #D84727;
+  }
+  .title-snippet {
+    width: 80vw;
+  }
+  .flex-container .home {
+    padding: 1em 2em;
+  }
+  .flex-container .home img {
+    max-width: 80vw;
+  }
 }
