@@ -3,7 +3,7 @@ from app import app
 import os
 import json
 
-prepositions = ['maybe', 'probably', 'perhaps']
+prepositions = ['maybe', 'probably']
 base_url = 'https://pauliebe.github.io/probably/'
 
 def load_json(file_path):
