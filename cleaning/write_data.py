@@ -13,7 +13,7 @@ def write_data(query):
     input_path = os.path.abspath('../app/static/json_files/%s.json' %(query)) 
     data = load_json(input_path)
     details= make_dict(data,query, base_path)
-    output_path = os.path.abspath('./app/static/json_files/%s-details.json' %(query))
+    output_path = os.path.abspath('../app/static/json_files/%s-details.json' %(query))
     write_json(output_path, details)
 
 query = input('Write data for what?')
