@@ -5,14 +5,12 @@ from nltk.corpus import stopwords
 import operator
 from collections import Counter
 import string
+import re
 
 #This script tokenizes title words
 #figures out the word right after the query in those titles
 #creates a dictionary sorted by those "next_words"
 #for each title, matches an image from the LOC, a url from the LOC and the LOC pk number
-
-#TO dO: fix weird spacing
-
 
 #define stopwords
 def define_stopwords(query):
@@ -136,7 +134,8 @@ def make_dict(data, query, base_path):
         details[pk] ={
             'pk': pk,
             'url': item['links']['item'],
-            'title': item['title']
+            'title': item['title'],
+            'subjects': item['subjects']
         }
 
         if os.path.exists(img_path):
@@ -145,8 +144,9 @@ def make_dict(data, query, base_path):
             pass
         
         for item in next_phrases:
-            clean_title = "".join([" "+i if not i.startswith("'") and i not in string.punctuation else i for i in next_phrases[item]])
+            clean_title = " ".join(["" + i if not i.startswith("'") and i not in [string.punctuation +")" +"("]  else i for i in next_phrases[item]])
+            short_title = re.split(r' *[\.\?!][\'"\)\]\--\:\...]* *', clean_title)
             if item == pk:
-                details[pk]['title_snippet'] = clean_title
+                details[pk]['title_snippet'] = short_title[0]
 
     return details

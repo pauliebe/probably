@@ -7,8 +7,11 @@
 *.ipynb_checkpoints
 *.ipynb
 
+
+*.ai
+
 #notes and things
-/extra/
+/extra-2/
 /__pycache__/
 /.vscode/
 presentation.md
