@@ -34,9 +34,7 @@ def get_rights(data):
 	try:
 		if data['links']['resource'] is not None:
 			resource_url = '%s?fo=json' %(data['links']['resource'])
-			print(resource_url)
 			response = requests.get(resource_url).json()
-			print(response)
 			try:
 				rights = response['item']['rights_information']
 			except KeyError:
@@ -130,7 +128,7 @@ for filename in os.listdir(input_directory):
 				if check_img_rights(rights) == True:
 					if data['image']['full']:
 						img_url = "%s" %(data['image']['full'])
-						print(img_url)
+						print ('Downloading ' + img_url)
 						download_img(img_url, output_path)
 						downloaded = 'success'
 					else:
