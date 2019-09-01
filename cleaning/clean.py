@@ -1,11 +1,14 @@
 import json
 import os
-from nltk.tokenize import WhitespaceTokenizer, word_tokenize
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.tokenize.treebank import TreebankWordDetokenizer
 from nltk.corpus import stopwords
 import operator
 from collections import Counter
 import string
 import re
+
+detokenizer = TreebankWordDetokenizer()
 
 #This script tokenizes title words
 #figures out the word right after the query in those titles
@@ -118,6 +121,8 @@ def make_img_path(pk, base_path):
 #builds a dictionary that matches split titles to imgs and url
 
 def make_dict(data, query, base_path):
+    print('Finding ' + query +' in ' + str(len(data)) + ' records')
+
     next_words = find_nextwords(data, query)
     next_phrases, missing_query_list, last_phrases = find_phrases(data, query)
     details= {}
@@ -126,11 +131,11 @@ def make_dict(data, query, base_path):
     for next_word in next_words:
         categories[next_word] = {}
     
-    
+    print ('Matching images and putting everything back together')
+
     for item in data:
         pk =item['pk']
         img_path, rel_img_path = make_img_path(pk, base_path)
-        print(img_path)
         details[pk] ={
             'pk': pk,
             'url': item['links']['item'],
@@ -142,11 +147,14 @@ def make_dict(data, query, base_path):
             details[pk]['img'] = rel_img_path
         else:
             pass
-        
+    
         for item in next_phrases:
-            clean_title = " ".join(["" + i if not i.startswith("'") and i not in [string.punctuation +")" +"("]  else i for i in next_phrases[item]])
-            short_title = re.split(r' *[\.\?!][\'"\)\]\--\:\...]* *', clean_title)
+            tokens = next_phrases[item]
+            clean_title = detokenizer.detokenize(tokens)
+            short_title = sent_tokenize(clean_title)
             if item == pk:
                 details[pk]['title_snippet'] = short_title[0]
+                
+    print ('Done!')
 
     return details
