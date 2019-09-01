@@ -33,7 +33,7 @@ def check_img_rights(rights):
 def get_rights(data):
 	try:
 		if data['links']['resource'] is not None:
-			resource_url = 'https:%s?fo=json' %(data['links']['resource'])
+			resource_url = '%s?fo=json' %(data['links']['resource'])
 			response = requests.get(resource_url).json()
 			try:
 				rights = response['item']['rights_information']
@@ -41,7 +41,7 @@ def get_rights(data):
 				rights = 'KeyError'
 					
 		elif data['links']['item'] is not None: 
-			resource_url = 'https:%s?fo=json' %(data['links']['item'])
+			resource_url = '%s?fo=json' %(data['links']['item'])
 			response = requests.get(resource_url).json()
 			try:
 				rights = response['item']['rights_information']
@@ -102,7 +102,7 @@ def clean_pk(pk):
 SET VARIABLES
 '''
 query = input('Which query?')
-base_path = os.path.abspath("../app/static/img/")
+base_path = os.path.abspath("./app/static/img/")
 input_directory = os.path.abspath("json_archive/%s" %(query))
 log_path = 'log-%s.txt' %(query)
 error_path = 'errors-%s.txt' %(query)
@@ -127,7 +127,8 @@ for filename in os.listdir(input_directory):
 
 				if check_img_rights(rights) == True:
 					if data['image']['full']:
-						img_url = "https:%s" %(data['image']['full'])
+						img_url = "%s" %(data['image']['full'])
+						print ('Downloading ' + img_url)
 						download_img(img_url, output_path)
 						downloaded = 'success'
 					else:

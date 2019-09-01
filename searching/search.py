@@ -5,15 +5,15 @@ import os
 #This script takes in a query
 #searches the Library of Congress pictures collection for that query 
 #Stores JSON data for each result as query_pk (pk is an LOC identifier )into a folder called "query"
-#Combines all the results into a JSON file called query.json, into a folder called "combined"
+#Combines all the results into a JSON file called query.json, into the folder specified
 
 query = input('What\'s your query?')
 json_directory = os.path.abspath('json_archive/%s' %(query))
-combined_json_path = os.path.abspath('../app/static/json_files/%s.json' %(query))
+combined_json_path = os.path.abspath('./app/static/json_files/%s.json' %(query))
 
 #search LOC API
 def search_LOC(query):
-		url = 'http://www.loc.gov/pictures/search/?q=%22'+ query + '%22&fi=title&fo=json' 
+		url = 'https://loc.gov/pictures/search/photos/?q=%22'+ query + '%22&fi=title&fo=json' 
 		loc_response = requests.get(url)
 
 		loc_response.raise_for_status() #check response status
@@ -29,7 +29,7 @@ def search_LOC(query):
 			next_page = query_response_json['pages']['next']
 
 			if next_page is not None: #go on to next page of responses
-				query_response_json = requests.get('https:' + next_page + '&fo=json').json()
+				query_response_json = requests.get(next_page + '&fo=json').json()
 			
 			else:
 				break
