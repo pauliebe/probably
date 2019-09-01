@@ -2,20 +2,10 @@
 
 A digital shoebox of Library of Congress images, built during the Spring 2018 [ChiPy mentorship program.](https://chipymentor.org/)
 
-## You'll need
+## Get started
 
-nltk stopwords downloaded and punkt
+`make init`: Installs requirements, downloads necessary nltk modules
 
-## commands
+`make search`: Searches for a query through the LOC API and saves individual JSON responses in `/json_archive`. Combines responses into `./app/static/json_files/query.json`
 
-1. run searching/search.ppy
-2. run searching/images.py
-3. run cleaning/write_data.py
-
-## TO DO FOR NEW VERSION:
-
-≥ Make these run on a command line somehow
-
-> cleaning could be way better so...
-> ≥ better intro/something about maybe probably words as adverbs of probability
-> do the thting as a 11ty proj all by mYself....?
+`make images`: Checks for image rights on each response in `/json_archive` for the specified query. If the image rights signify the photo is okay to use, it's downloaded to `./app/static/img/`
